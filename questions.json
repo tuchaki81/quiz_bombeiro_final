@@ -1,2032 +1,2032 @@
 [
   {
     "id": 1,
-    "pergunta": "Qual é o princípio básico para extinção de um incêndio?",
+    "pergunta": "Quais são os três elementos que compõem o triângulo do fogo?",
     "alternativas": {
-      "A": "Aplicar acelerador de combustão",
-      "B": "Misturar gases inertes sem técnica",
-      "C": "Retirar o oxigênio, o calor ou o combustível",
-      "D": "Aumentar a pressão do ambiente"
+      "A": "Combustível, comburente e calor",
+      "B": "Combustível, oxigênio e faísca",
+      "C": "Calor, pressão e combustível",
+      "D": "Comburente, ignição e pressão"
     },
-    "resposta": "C",
-    "explicacao": "O triângulo do fogo é composto por combustível, comburente (oxigênio) e calor. Eliminar qualquer um desses elementos extingue o fogo.",
+    "resposta": "A",
+    "explicacao": "O triângulo do fogo é formado por combustível (material que queima), comburente (geralmente o oxigênio do ar) e calor (energia de ativação). A remoção de qualquer um desses elementos extingue o fogo.",
     "categoria": "Combate a incêndio",
     "nivel": "facil"
   },
   {
     "id": 2,
-    "pergunta": "Um quadro elétrico em chamas representa qual classe de incêndio?",
+    "pergunta": "Qual é a principal diferença entre o triângulo do fogo e o tetraedro do fogo?",
     "alternativas": {
-      "A": "Incêndio Classe C — equipamentos elétricos energizados",
-      "B": "Incêndio Classe D — metais combustíveis",
-      "C": "Incêndio Classe B — líquidos inflamáveis",
-      "D": "Incêndio Classe A — sólidos comuns"
+      "A": "O tetraedro substitui o calor pela ignição",
+      "B": "O tetraedro adiciona a reação em cadeia como quarto elemento",
+      "C": "O tetraedro inclui a pressão atmosférica",
+      "D": "Não há diferença, são modelos equivalentes"
     },
-    "resposta": "A",
-    "explicacao": "Classe C engloba equipamentos elétricos sob tensão. Nunca use água, pois há risco de choque elétrico.",
+    "resposta": "B",
+    "explicacao": "O tetraedro do fogo amplia o modelo clássico adicionando a reação em cadeia (reação química autossustentada). Agentes halogenados como o CO2 atuam interrompendo essa reação em cadeia.",
     "categoria": "Combate a incêndio",
-    "nivel": "facil"
+    "nivel": "medio"
   },
   {
     "id": 3,
-    "pergunta": "Qual método é mais indicado para combater incêndio Classe A?",
+    "pergunta": "Um incêndio Classe A envolve qual tipo de material?",
     "alternativas": {
-      "A": "Abafamento com pó químico",
-      "B": "Quebra de cadeia com halon",
-      "C": "Abafamento com CO₂",
-      "D": "Resfriamento com água"
+      "A": "Líquidos e gases inflamáveis",
+      "B": "Metais combustíveis como magnésio",
+      "C": "Materiais sólidos comuns como madeira, papel e tecido",
+      "D": "Equipamentos elétricos energizados"
     },
-    "resposta": "D",
-    "explicacao": "Incêndios Classe A (sólidos comuns como madeira e papel) são combatidos principalmente pelo resfriamento com água.",
+    "resposta": "C",
+    "explicacao": "Incêndios Classe A envolvem materiais sólidos comuns que deixam resíduo (cinza) após a queima, como madeira, papel, borracha e tecidos. O extintor indicado é o de água ou pó ABC.",
     "categoria": "Combate a incêndio",
     "nivel": "facil"
   },
   {
     "id": 4,
-    "pergunta": "Ao tampar uma frigideira em chamas, qual método de extinção é utilizado?",
+    "pergunta": "Qual extintor é VETADO para uso em incêndios elétricos (Classe C)?",
     "alternativas": {
-      "A": "Isolamento — retirada do combustível",
-      "B": "Resfriamento — retirada do calor",
-      "C": "Abafamento — retirada do comburente",
-      "D": "Quebra de cadeia — interrupção da reação"
+      "A": "Extintor de CO2",
+      "B": "Extintor de pó BC",
+      "C": "Extintor de pó ABC",
+      "D": "Extintor de água pressurizada"
     },
-    "resposta": "C",
-    "explicacao": "Tampar um recipiente em chamas retira o oxigênio (comburente), caracterizando o método de abafamento.",
+    "resposta": "D",
+    "explicacao": "A água conduz eletricidade e pode causar choque elétrico fatal no operador. Para incêndios Classe C (equipamentos energizados) devem ser usados extintores de CO2 ou pó químico seco.",
     "categoria": "Combate a incêndio",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 5,
-    "pergunta": "Qual é a posição correta para operar um extintor em área aberta?",
+    "pergunta": "O método de extinção por abafamento consiste em:",
     "alternativas": {
-      "A": "Neutro ao vento, agachado, bico no meio das chamas",
-      "B": "Favor do vento, de joelhos, bico no fogo",
-      "C": "Contra o vento, em pé, bico no teto",
-      "D": "A favor do vento, em pé, bico na base"
+      "A": "Eliminar ou reduzir o comburente (oxigênio) em contato com o combustível",
+      "B": "Reduzir a temperatura do combustível abaixo do ponto de ignição",
+      "C": "Remover o combustível da área de incêndio",
+      "D": "Interromper a reação química em cadeia com agente químico"
     },
-    "resposta": "B",
-    "explicacao": "O correto é posicionar-se a favor do vento para evitar que o agente extintor ou o calor retorne ao operador, manter baixo centro de gravidade e mirar na base das chamas.",
+    "resposta": "A",
+    "explicacao": "Abafamento é a retirada ou redução do oxigênio. Exemplos práticos: tampar panela em chamas, usar manta antichamas, lançar areia. O CO2 também age principalmente por abafamento.",
     "categoria": "Combate a incêndio",
     "nivel": "medio"
   },
   {
     "id": 6,
-    "pergunta": "Qual é a primeira medida ao chegar a um incêndio em edificação?",
+    "pergunta": "Durante o combate a incêndio em ambiente fechado, o bombeiro deve posicionar-se:",
     "alternativas": {
-      "A": "Isolamento da área e controle do perímetro",
-      "B": "Abertura de janelas para ventilar o local",
-      "C": "Evacuação apenas de quem solicitou",
-      "D": "Início imediato do combate sem avaliação"
+      "A": "Diretamente à frente da porta para ter melhor visibilidade",
+      "B": "Ao lado da porta, nunca diretamente na frente, ao abrir o ambiente",
+      "C": "A pelo menos 10 metros de distância antes de abrir qualquer acesso",
+      "D": "No centro do corredor para facilitar a retirada"
     },
-    "resposta": "A",
-    "explicacao": "A primeira ação é sempre isolar a área e controlar o perímetro para evitar propagação e proteger vítimas.",
+    "resposta": "B",
+    "explicacao": "Ao abrir uma porta em incêndio existe risco de backdraft (explosão de fumaça). O bombeiro deve posicionar-se ao lado da porta (proteção da parede), abrir lentamente e verificar temperatura antes de entrar.",
     "categoria": "Combate a incêndio",
     "nivel": "medio"
   },
   {
     "id": 7,
-    "pergunta": "Incêndio em posto de gasolina se enquadra em qual classe?",
+    "pergunta": "O ponto de fulgor de um líquido inflamável é:",
     "alternativas": {
-      "A": "Classe C — equipamentos elétricos",
-      "B": "Classe A — sólidos comuns",
-      "C": "Classe B — líquidos e gases inflamáveis",
-      "D": "Classe D — metais combustíveis"
+      "A": "A temperatura em que o líquido entra em combustão espontânea sem chama",
+      "B": "A temperatura máxima que o líquido pode atingir antes de evaporar",
+      "C": "A menor temperatura em que o líquido emite vapores suficientes para inflamar momentaneamente ao contato com chama",
+      "D": "A temperatura em que o líquido solidifica e para de liberar vapores"
     },
     "resposta": "C",
-    "explicacao": "Gasolina, álcool e GLP são combustíveis líquidos ou gasosos, enquadrando-se na Classe B.",
+    "explicacao": "Ponto de fulgor é a temperatura mínima para formação de vapores inflamáveis, mas a combustão não se sustenta. Já o ponto de combustão é quando a chama se mantém. Ambos são críticos para classificação de risco de líquidos.",
+    "categoria": "Combate a incêndio",
+    "nivel": "dificil"
+  },
+  {
+    "id": 8,
+    "pergunta": "Incêndios Classe B envolvem:",
+    "alternativas": {
+      "A": "Metais alcalinos como sódio e potássio",
+      "B": "Materiais sólidos fibrosos como algodão",
+      "C": "Equipamentos eletroeletrônicos",
+      "D": "Líquidos inflamáveis e gases combustíveis"
+    },
+    "resposta": "D",
+    "explicacao": "Classe B abrange líquidos inflamáveis (gasolina, óleo, álcool) e gases combustíveis (GLP, acetileno). O combate é feito com pó BC/ABC, CO2 ou espuma, NUNCA com água direta pois pode espalhar o líquido.",
     "categoria": "Combate a incêndio",
     "nivel": "facil"
   },
   {
-    "id": 8,
-    "pergunta": "Para combater incêndio em equipamento elétrico energizado, qual agente é indicado?",
-    "alternativas": {
-      "A": "Areia úmida",
-      "B": "Água pressurizada",
-      "C": "Pó químico seco ou CO₂",
-      "D": "Espuma mecânica em jato direto"
-    },
-    "resposta": "C",
-    "explicacao": "Para metais combustíveis (Classe D), como magnésio e titânio, usam-se agentes especiais. Para Classe C usa-se CO₂ ou pó seco, nunca água.",
-    "categoria": "Combate a incêndio",
-    "nivel": "medio"
-  },
-  {
     "id": 9,
-    "pergunta": "O que é ponto de fulgor de um líquido inflamável?",
+    "pergunta": "O fenômeno 'flashover' em um incêndio representa:",
     "alternativas": {
-      "A": "Ponto de fulgor indica que o material não pode se inflamar",
-      "B": "Ponto de fulgor é a temperatura mínima para ignição momentânea",
-      "C": "Ponto de fulgor e ponto de combustão são sinônimos",
-      "D": "Ponto de fulgor é a temperatura de ebulição do combustível"
+      "A": "A ignição simultânea de todos os materiais combustíveis do ambiente, causada pelo acúmulo de calor radiante",
+      "B": "A explosão causada pela entrada súbita de ar em ambiente com fumaça acumulada",
+      "C": "O colapso estrutural causado pelo enfraquecimento das vigas pelo calor",
+      "D": "A propagação do fogo pelo sistema de ar-condicionado do edifício"
     },
-    "resposta": "B",
-    "explicacao": "O ponto de fulgor é a menor temperatura em que um líquido produz vapores suficientes para inflamar momentaneamente ao contato com uma fonte de ignição.",
+    "resposta": "A",
+    "explicacao": "Flashover ocorre quando a temperatura do ambiente atinge cerca de 600°C e todos os materiais combustíveis atingem simultaneamente seu ponto de ignição. É extremamente perigoso — nenhum ser humano sobrevive. Difere do backdraft, que envolve entrada de oxigênio.",
     "categoria": "Combate a incêndio",
     "nivel": "dificil"
   },
   {
     "id": 10,
-    "pergunta": "O fogo se propaga para andares superiores por gases quentes em circulação. Qual mecanismo é esse?",
+    "pergunta": "Qual técnica de ataque ao fogo deve ser utilizada em incêndio de líquido inflamável em recipiente aberto?",
     "alternativas": {
-      "A": "Propagação por condução — transferência por contato sólido",
-      "B": "Propagação por irradiação — transferência por ondas de calor",
-      "C": "Propagação por explosão — transferência por onda de pressão",
-      "D": "Propagação por convecção — transferência por gases quentes"
+      "A": "Aplicar jato direto de água no centro do líquido para resfriar",
+      "B": "Aplicar espuma ou pó a partir das bordas do recipiente, sem jato direto no centro",
+      "C": "Usar CO2 em jato contínuo apontado diretamente para a chama",
+      "D": "Tampar o recipiente com a própria tampa e aguardar a extinção natural"
     },
-    "resposta": "D",
-    "explicacao": "A convecção é a transferência de calor por movimento de fluidos (gases quentes sobem e aquecem novos materiais).",
+    "resposta": "B",
+    "explicacao": "O jato direto de água ou CO2 no centro de líquido em chamas pode causar salpico e espalhar o incêndio. A técnica correta é depositar espuma pelas bordas para que ela flutue e cubra a superfície, isolando o oxigênio.",
     "categoria": "Combate a incêndio",
     "nivel": "dificil"
   },
   {
     "id": 11,
-    "pergunta": "Ao abrir uma porta em ambiente com fogo, há uma explosão para fora. Esse fenômeno é chamado de:",
+    "pergunta": "A sigla EPI, no contexto do combate a incêndio, significa:",
     "alternativas": {
-      "A": "Backdraft — entrada de oxigênio em ambiente superaquecido",
-      "B": "Boilover — expulsão de óleo aquecido por vapor d'água",
-      "C": "Bleve — explosão de recipiente pressurizado",
-      "D": "Flashover — ignição simultânea de todos os materiais do ambiente"
+      "A": "Equipamento de Pressão de Incêndio",
+      "B": "Extintor de Pressão Interna",
+      "C": "Equipamento de Proteção Individual",
+      "D": "Equipamento de Prevenção de Incidentes"
     },
-    "resposta": "A",
-    "explicacao": "Backdraft ocorre quando oxigênio entra repentinamente em ambiente com gases superaquecidos, causando explosão.",
+    "resposta": "C",
+    "explicacao": "EPI (Equipamento de Proteção Individual) para bombeiros inclui capacete, luvas, bota, calça e jaqueta de aproximação, capuz balaclava e máscara de fuga. O uso correto é obrigatório em qualquer ocorrência.",
     "categoria": "Combate a incêndio",
-    "nivel": "dificil"
+    "nivel": "facil"
   },
   {
     "id": 12,
-    "pergunta": "Qual é a prioridade máxima na chegada a um incêndio com vítimas presas?",
+    "pergunta": "Em um incêndio estrutural, a fumaça é considerada perigosa porque:",
     "alternativas": {
-      "A": "Cortar a energia elétrica antes de qualquer ação",
-      "B": "Aguardar o CBMM chegar",
-      "C": "Iniciar o combate ao fogo imediatamente",
-      "D": "Verificar se há vítimas antes de iniciar o combate"
+      "A": "Reduz apenas a visibilidade, sem risco químico significativo",
+      "B": "Provoca somente irritação ocular temporária",
+      "C": "É perigosa apenas quando a temperatura supera 100°C",
+      "D": "Contém gases tóxicos como monóxido de carbono, cianeto e aldeídos que podem matar antes das chamas"
     },
     "resposta": "D",
-    "explicacao": "O salvamento de vítimas tem prioridade sobre o combate ao fogo. Vida sempre em primeiro lugar.",
+    "explicacao": "A fumaça de incêndio moderno (materiais sintéticos) contém CO, HCN, acroleína e outros gases letais. O CO se liga à hemoglobina 240 vezes mais que o O2. A maioria das mortes em incêndios ocorre por intoxicação, não por queimaduras.",
     "categoria": "Combate a incêndio",
     "nivel": "medio"
   },
   {
     "id": 13,
-    "pergunta": "Em qual fenômeno todos os materiais de um cômodo entram em ignição simultaneamente?",
+    "pergunta": "Qual é a função do registro de recalque em um edifício?",
     "alternativas": {
-      "A": "Backdraft — explosão por entrada de oxigênio",
-      "B": "Flashover — ignição generalizada do ambiente",
-      "C": "Bleve — explosão de recipiente",
-      "D": "Boilover — expulsão de óleo"
+      "A": "Permitir que o caminhão do Corpo de Bombeiros abasteça o sistema hidráulico interno do prédio",
+      "B": "Desligar automaticamente o sistema de sprinklers em caso de manutenção",
+      "C": "Regular a pressão da água nas mangueiras internas do edifício",
+      "D": "Acionar o alarme de incêndio quando o sistema hidráulico é pressurizado"
     },
-    "resposta": "B",
-    "explicacao": "Flashover é o momento em que todos os materiais do ambiente atingem temperatura de ignição simultaneamente, tornando o ambiente insuportável.",
+    "resposta": "A",
+    "explicacao": "O registro de recalque (também chamado siamesa) fica na fachada do edifício e permite que a viatura dos bombeiros injete água no sistema hidráulico preventivo interno, garantindo pressão adequada nas mangueiras de cada andar.",
     "categoria": "Combate a incêndio",
-    "nivel": "dificil"
+    "nivel": "medio"
   },
   {
     "id": 14,
-    "pergunta": "Ao utilizar um extintor, onde deve ser direcionado o jato do agente extintor?",
+    "pergunta": "A técnica de 'resfriamento de expostos' durante um incêndio tem como objetivo:",
     "alternativas": {
-      "A": "Aplicar o agente em arco amplo",
-      "B": "Aplicar o agente extintor na base das chamas",
-      "C": "Aplicar o agente no topo das chamas",
-      "D": "Molhar o teto para resfriamento geral"
+      "A": "Reduzir a temperatura interna da vítima em caso de queimadura grave",
+      "B": "Proteger estruturas e materiais adjacentes ao foco para evitar a propagação do fogo",
+      "C": "Esfriar o equipamento do bombeiro durante operações prolongadas",
+      "D": "Apagar brasas residuais após a extinção do foco principal"
     },
     "resposta": "B",
-    "explicacao": "Mirar na base das chamas atinge a fonte do combustível, extinguindo o fogo de forma eficiente.",
+    "explicacao": "Resfriamento de expostos é o molhamento de estruturas, paredes, telhados e materiais próximos ao incêndio para impedir que o calor radiante os aqueça até o ponto de ignição, controlando a propagação lateral do fogo.",
     "categoria": "Combate a incêndio",
-    "nivel": "facil"
+    "nivel": "medio"
   },
   {
     "id": 15,
-    "pergunta": "O que é a técnica de 'corta-fogo' utilizada em incêndios florestais?",
+    "pergunta": "Em operações com SCBA (Aparelho de Respiração Autônoma), o bombeiro deve retirar-se do ambiente quando o alarme de pressão baixa disparar, pois o tempo restante de ar é de aproximadamente:",
     "alternativas": {
-      "A": "Isolamento químico — neutralização do combustível",
-      "B": "Corta-fogo — faixa sem combustível para barrar propagação",
-      "C": "Abafamento antecipado — cobrir o combustível",
-      "D": "Resfriamento preventivo — molhar áreas adjacentes"
+      "A": "Exatamente 30 minutos de reserva de segurança",
+      "B": "Apenas 1 a 2 minutos — saída imediata obrigatória",
+      "C": "Entre 5 e 10 minutos, dependendo do esforço físico",
+      "D": "20 minutos — tempo suficiente para finalizar o combate"
     },
-    "resposta": "B",
-    "explicacao": "O corta-fogo é uma técnica usada especialmente em incêndios florestais, removendo vegetação para criar barreira sem combustível.",
+    "resposta": "C",
+    "explicacao": "O alarme de pressão baixa do SCBA dispara quando o cilindro atinge aproximadamente 25% da capacidade. Com esforço físico intenso, isso representa 5 a 10 minutos de ar. O bombeiro deve iniciar a saída IMEDIATAMENTE ao ouvir o alarme.",
     "categoria": "Combate a incêndio",
     "nivel": "dificil"
   },
   {
     "id": 16,
-    "pergunta": "Qual extintor é indicado para incêndio em arquivo de papel?",
+    "pergunta": "Qual é o correto procedimento de entrada em ambiente com fumaça densa?",
     "alternativas": {
-      "A": "CO₂ — metais Classe D",
-      "B": "Espuma — gases Classe C",
-      "C": "Água pressurizada (AP) — sólidos comuns Classe A",
-      "D": "Pó ABC — líquidos Classe B"
+      "A": "Entrar em pé rapidamente para reduzir o tempo de exposição à fumaça",
+      "B": "Aguardar a fumaça se dissipar naturalmente antes de qualquer entrada",
+      "C": "Entrar sempre por janelas, nunca por portas, para evitar correntes de ar",
+      "D": "Entrar agachado ou rastejando, pois o ar mais fresco e menos tóxico está próximo ao chão"
     },
-    "resposta": "C",
-    "explicacao": "O extintor de água pressurizada é indicado exclusivamente para Classe A (madeira, papel, tecido). Nunca usar em elétrico.",
-    "categoria": "Extintores",
-    "nivel": "facil"
+    "resposta": "D",
+    "explicacao": "Calor e fumaça sobem — próximo ao chão a temperatura é menor e há mais oxigênio residual. O deslocamento agachado ou rastejando é a posição correta em ambientes tomados por fumaça sem SCBA, ou mesmo com ele para melhor visibilidade.",
+    "categoria": "Combate a incêndio",
+    "nivel": "medio"
   },
   {
     "id": 17,
-    "pergunta": "Qual extintor não deixa resíduo e é ideal para equipamentos eletrônicos?",
+    "pergunta": "Incêndios Classe D envolvem:",
     "alternativas": {
-      "A": "Água pressurizada",
-      "B": "Espuma mecânica",
-      "C": "Pó químico ABC",
-      "D": "CO₂ (dióxido de carbono)"
+      "A": "Metais combustíveis como magnésio, titânio, sódio e potássio",
+      "B": "Derivados de petróleo e combustíveis veiculares",
+      "C": "Equipamentos de informática e painéis elétricos",
+      "D": "Materiais plásticos e borrachas sintéticas"
     },
-    "resposta": "D",
-    "explicacao": "CO₂ não conduz eletricidade e não deixa resíduo, sendo ideal para equipamentos elétricos e eletrônicos.",
-    "categoria": "Extintores",
-    "nivel": "facil"
+    "resposta": "A",
+    "explicacao": "Classe D são metais que queimam: magnésio, titânio, lítio, sódio, potássio, zircônio. NUNCA usar água (reação violenta com metais alcalinos). O agente correto é pó específico para Classe D ou areia seca.",
+    "categoria": "Combate a incêndio",
+    "nivel": "medio"
   },
   {
     "id": 18,
-    "pergunta": "Qual extintor pode combater incêndios das Classes A, B e C?",
+    "pergunta": "Qual é a ordem correta de prioridades do bombeiro civil em uma ocorrência de incêndio?",
     "alternativas": {
-      "A": "Espuma física",
-      "B": "CO₂",
-      "C": "Água pressurizada",
-      "D": "Pó químico ABC"
+      "A": "Patrimônio, meio ambiente e vida humana",
+      "B": "Vida humana, meio ambiente e patrimônio",
+      "C": "Meio ambiente, vida humana e patrimônio",
+      "D": "Vida humana, patrimônio e meio ambiente"
     },
-    "resposta": "D",
-    "explicacao": "O extintor de Pó ABC é o mais versátil, cobrindo incêndios Classe A (sólidos), B (líquidos) e C (elétrico).",
-    "categoria": "Extintores",
+    "resposta": "B",
+    "explicacao": "A ordem de prioridades no salvamento é universal: 1º Vida humana (vítimas e o próprio bombeiro), 2º Meio ambiente (evitar contaminação), 3º Patrimônio. Nunca arrisque a própria vida para salvar bens materiais.",
+    "categoria": "Combate a incêndio",
     "nivel": "facil"
   },
   {
     "id": 19,
-    "pergunta": "Com que frequência extintores devem ser inspecionados conforme norma?",
+    "pergunta": "O que é 'ponto de ignição' de um material?",
     "alternativas": {
-      "A": "A cada 12 meses ou quando lacre/manômetro indicar falha",
-      "B": "Somente após uso",
-      "C": "A cada 5 anos apenas",
-      "D": "Nunca, se nunca foi usado"
+      "A": "A temperatura em que o material começa a derreter e liberar vapores",
+      "B": "A temperatura máxima suportada antes da explosão do material",
+      "C": "A temperatura mínima na qual o material entra em combustão e mantém a queima por conta própria",
+      "D": "A temperatura em que o extintor deve ser ativado para ser eficaz"
     },
-    "resposta": "A",
-    "explicacao": "A NBR 12962 estabelece inspeção anual e manutenção preventiva periódica para todos os extintores.",
-    "categoria": "Extintores",
+    "resposta": "C",
+    "explicacao": "Ponto de ignição (ou ponto de combustão) é a temperatura mínima para que a combustão seja autossustentada, mesmo sem fonte de ignição externa contínua. É diferente do ponto de fulgor, onde a chama não se mantém.",
+    "categoria": "Combate a incêndio",
     "nivel": "medio"
   },
   {
     "id": 20,
-    "pergunta": "Qual é a sequência correta de operação de um extintor (técnica PASS)?",
+    "pergunta": "Durante o combate, o bombeiro deve NUNCA abrir a porta de um compartimento em chamas sem antes:",
     "alternativas": {
-      "A": "Retirar o pino, apontar, pressionar a alavanca, varrer na base",
-      "B": "Pressionar, retirar pino, apontar, varrer",
-      "C": "Varrer, pressionar, apontar, retirar pino",
-      "D": "Apontar, varrer, pressionar, retirar pino"
+      "A": "Gritar para verificar se há vítimas no interior",
+      "B": "Acionar o sistema de sprinklers do edifício remotamente",
+      "C": "Ligar o ventilador de pressão positiva no corredor",
+      "D": "Verificar a temperatura da porta e maçaneta com o dorso da mão ou termômetro"
     },
-    "resposta": "A",
-    "explicacao": "A sigla PASS resume a técnica: Pull (puxar pino), Aim (apontar), Squeeze (pressionar), Sweep (varrer na base).",
-    "categoria": "Extintores",
-    "nivel": "facil"
+    "resposta": "D",
+    "explicacao": "Uma porta quente indica fogo ativo ou acúmulo de calor do outro lado — abrí-la pode causar backdraft ou flashover. O protocolo é tocar com o dorso da mão (mais sensível a calor) na porta, maçaneta e frestas antes de qualquer abertura.",
+    "categoria": "Combate a incêndio",
+    "nivel": "medio"
   },
   {
     "id": 21,
-    "pergunta": "Qual extintor é mais indicado para tanques de combustível líquido?",
+    "pergunta": "Com que frequência deve ser feita a recarga/manutenção obrigatória do extintor de pó químico seco, de acordo com a NBR 12962?",
     "alternativas": {
-      "A": "Água pressurizada",
-      "B": "CO₂",
-      "C": "Pó químico BC",
-      "D": "Espuma mecânica (AFFF)"
+      "A": "Anualmente, ou imediatamente após qualquer uso",
+      "B": "A cada dois anos, independentemente do uso",
+      "C": "A cada cinco anos, ou após uso total da carga",
+      "D": "Somente quando o indicador de pressão estiver no vermelho"
     },
-    "resposta": "D",
-    "explicacao": "A espuma cobre a superfície do líquido, impedindo o contato com oxigênio e abafando o fogo.",
+    "resposta": "A",
+    "explicacao": "A NBR 12962 exige inspeção mensal visual e manutenção anual obrigatória em todos os extintores, independente do uso. Após qualquer acionamento — mesmo parcial — o extintor deve ser imediatamente recarregado.",
     "categoria": "Extintores",
     "nivel": "medio"
   },
   {
     "id": 22,
-    "pergunta": "Incêndio em limalha de magnésio requer qual tipo de extintor?",
+    "pergunta": "O extintor de CO2 (gás carbônico) atua principalmente por qual método de extinção?",
     "alternativas": {
-      "A": "Água pressurizada",
-      "B": "Espuma AFFF",
-      "C": "Pó especial Classe D",
-      "D": "CO₂"
+      "A": "Apenas resfriamento direto da chama",
+      "B": "Abafamento e resfriamento simultâneos",
+      "C": "Inibição química da reação em cadeia",
+      "D": "Somente remoção do combustível por deslocamento"
     },
-    "resposta": "C",
-    "explicacao": "Metais como magnésio, titânio e sódio reagem violentamente com água e CO₂, exigindo pó especial Classe D.",
-    "categoria": "Extintores",
-    "nivel": "dificil"
-  },
-  {
-    "id": 23,
-    "pergunta": "Como verificar visualmente se um extintor está pronto para uso?",
-    "alternativas": {
-      "A": "Checar a data de fabricação apenas",
-      "B": "Abrir brevemente para testar o jato",
-      "C": "Pesar o extintor para verificar carga",
-      "D": "Verificar manômetro na zona verde e lacre intacto"
-    },
-    "resposta": "D",
-    "explicacao": "A inspeção visual periódica inclui verificação do manômetro (zona verde = pressurizado), lacre e pino de segurança.",
+    "resposta": "B",
+    "explicacao": "O CO2 age principalmente por abafamento (dilui o O2 ao redor da chama) e secundariamente por resfriamento (expande a -78°C ao sair do extintor). Não deixa resíduo, sendo ideal para equipamentos elétricos e eletrônicos.",
     "categoria": "Extintores",
     "nivel": "medio"
   },
   {
-    "id": 24,
-    "pergunta": "Qual a carga mínima de um extintor portátil conforme NBR 13714?",
+    "id": 23,
+    "pergunta": "Para incêndio em painel elétrico energizado, o extintor mais indicado é:",
     "alternativas": {
-      "A": "1 kg de pó ou 2 litros de água",
-      "B": "5 kg de pó ou 10 litros de água",
-      "C": "500 g de pó ou 1 litro de água",
-      "D": "2,5 kg de pó ou 6 litros de espuma/água"
+      "A": "Água pressurizada",
+      "B": "Espuma mecânica",
+      "C": "CO2 (gás carbônico)",
+      "D": "Pó químico ABC"
+    },
+    "resposta": "C",
+    "explicacao": "O CO2 é o agente ideal para equipamentos elétricos energizados: não conduz eletricidade, não deixa resíduo corrosivo e não danifica componentes eletrônicos. O pó ABC pode ser usado em emergência, mas deixa resíduo.",
+    "categoria": "Extintores",
+    "nivel": "facil"
+  },
+  {
+    "id": 24,
+    "pergunta": "A sequência correta de operação de um extintor portátil é descrita pela sigla PASS. O que significa?",
+    "alternativas": {
+      "A": "Pressionar, Acionar, Segurar e Soltar",
+      "B": "Puxar, Abrir, Segurar e Sacudir",
+      "C": "Posicionar, Apertar, Segurar e Soprar",
+      "D": "Pull (puxar o pino), Aim (apontar), Squeeze (apertar a alavanca), Sweep (varrer)"
     },
     "resposta": "D",
-    "explicacao": "A NBR 13714 define as capacidades mínimas de extintores para diferentes áreas de risco.",
+    "explicacao": "PASS é o protocolo universal de uso de extintores: P - Pull (puxar o pino de segurança); A - Aim (apontar o bico para a base das chamas); S - Squeeze (pressionar a alavanca); S - Sweep (varrer em movimentos horizontais).",
     "categoria": "Extintores",
-    "nivel": "dificil"
+    "nivel": "facil"
   },
   {
     "id": 25,
-    "pergunta": "Com que periodicidade o cilindro do extintor deve ser submetido a teste hidrostático?",
+    "pergunta": "O extintor de espuma mecânica (AFFF) é indicado para incêndio Classe B porque:",
     "alternativas": {
-      "A": "Nunca é necessário",
-      "B": "A cada 5 anos — recarga e teste hidrostático",
-      "C": "A cada 2 anos",
-      "D": "A cada 10 anos"
+      "A": "Forma uma camada que flutua sobre o líquido inflamável, impedindo o contato com o oxigênio",
+      "B": "Reage quimicamente com o líquido inflamável neutralizando-o permanentemente",
+      "C": "Resfria o líquido abaixo do ponto de fulgor instantaneamente",
+      "D": "Libera gás inerte que desloca o combustível para fora do recipiente"
     },
-    "resposta": "B",
-    "explicacao": "O cilindro do extintor deve passar por teste hidrostático a cada 5 anos para verificar integridade estrutural.",
+    "resposta": "A",
+    "explicacao": "A espuma AFFF (Aqueous Film-Forming Foam) forma um filme aquoso que flutua sobre hidrocarbonetos, impedindo a liberação de vapores e o contato com O2. É eficaz em incêndios de gasolina, diesel e óleos.",
     "categoria": "Extintores",
-    "nivel": "dificil"
+    "nivel": "medio"
   },
   {
     "id": 26,
-    "pergunta": "Como deve ser sinalizado um extintor conforme norma brasileira?",
+    "pergunta": "Qual é a distância mínima recomendada para posicionamento do operador ao usar extintor de CO2 em ambiente fechado?",
     "alternativas": {
-      "A": "Sinalização azul a 1,20 m",
-      "B": "Sem sinalização obrigatória se o local for pequeno",
-      "C": "Sinalização amarela no teto",
-      "D": "Sinalização vermelha com símbolo do extintor a 1,80 m do piso"
+      "A": "Diretamente em contato com o foco para máxima eficiência",
+      "B": "Pelo menos 1,5 metro do foco, mantendo rota de fuga desobstruída",
+      "C": "Mínimo de 10 metros por risco de explosão do cilindro",
+      "D": "5 metros, usando sempre proteção facial completa"
     },
-    "resposta": "D",
-    "explicacao": "A NBR 13434 exige sinalização de segurança contra incêndio, incluindo identificação de extintores em vermelho.",
+    "resposta": "B",
+    "explicacao": "O CO2 deve ser aplicado a cerca de 1 a 2 metros do foco. Em ambientes fechados, atenção ao risco de hipóxia (falta de O2) — o gás pode atingir concentrações perigosas rapidamente. Sempre manter a rota de saída desobstruída.",
     "categoria": "Extintores",
     "nivel": "medio"
   },
   {
     "id": 27,
-    "pergunta": "É seguro segurar o bico do extintor de CO₂ durante o uso?",
+    "pergunta": "O extintor de pó ABC tem esse nome porque:",
     "alternativas": {
-      "A": "Nunca — o CO₂ pode causar choque térmico e queimaduras",
-      "B": "Apenas em ambientes abertos",
-      "C": "Apenas se a chama for pequena",
-      "D": "Pode usar, mas com cuidado"
+      "A": "Contém três componentes químicos chamados A, B e C",
+      "B": "Foi desenvolvido nas décadas de 1940, 1950 e 1960",
+      "C": "É eficaz em incêndios das classes A (sólidos), B (líquidos) e C (elétrico)",
+      "D": "Possui três modos de acionamento distintos rotulados A, B e C"
     },
-    "resposta": "A",
-    "explicacao": "O bico do extintor de CO₂ atinge temperaturas muito baixas (-78°C). Segurar o bico durante o uso pode causar queimadura por frio.",
-    "categoria": "Extintores",
-    "nivel": "medio"
-  },
-  {
-    "id": 28,
-    "pergunta": "A que distância o operador deve ficar ao usar um extintor?",
-    "alternativas": {
-      "A": "Posicionar a 2 a 4 metros da base das chamas",
-      "B": "A distância não importa",
-      "C": "Posicionar o mais próximo possível",
-      "D": "Posicionar a mais de 10 metros"
-    },
-    "resposta": "A",
-    "explicacao": "A distância operacional recomendada garante que o agente extintor alcance a base das chamas sem expor o operador.",
+    "resposta": "C",
+    "explicacao": "O pó ABC (geralmente monoamônio fosfato) é um agente extintor versátil eficaz nas três classes: A (cobre e abafa sólidos), B (abafa líquidos) e C (não conduz eletricidade). É o extintor mais comum em edificações.",
     "categoria": "Extintores",
     "nivel": "facil"
   },
   {
-    "id": 29,
-    "pergunta": "O que fazer com um extintor que foi utilizado parcialmente?",
+    "id": 28,
+    "pergunta": "Qual é a consequência de usar extintor de água em incêndio de metal alcalino (Classe D)?",
     "alternativas": {
-      "A": "Recolocar no suporte — ainda pode ter carga residual",
-      "B": "Guardar deitado para conservar",
-      "C": "Verificar o manômetro e decidir",
-      "D": "Retirá-lo do local e levá-lo para recarga ou descarte"
+      "A": "Apenas ineficácia — o fogo continua sem piora da situação",
+      "B": "Formação de fumaça tóxica sem risco de explosão",
+      "C": "O metal se solidifica imediatamente interrompendo a reação",
+      "D": "Reação química violenta com liberação de hidrogênio e possível explosão"
     },
     "resposta": "D",
-    "explicacao": "Extintor usado, mesmo parcialmente, deve ser retirado de operação imediatamente para recarga, pois pode falhar numa próxima emergência.",
+    "explicacao": "Metais alcalinos (sódio, potássio, lítio) reagem violentamente com a água: Na + H2O → NaOH + H2↑. O hidrogênio liberado é altamente inflamável e pode causar explosão. Usar apenas areia seca ou pó específico Classe D.",
+    "categoria": "Extintores",
+    "nivel": "dificil"
+  },
+  {
+    "id": 29,
+    "pergunta": "A cor do cilindro do extintor, segundo a norma brasileira, indica:",
+    "alternativas": {
+      "A": "O tipo de agente extintor contido no cilindro",
+      "B": "A capacidade em quilogramas do extintor",
+      "C": "O fabricante e o ano de fabricação do equipamento",
+      "D": "A classificação de risco do local onde deve ser instalado"
+    },
+    "resposta": "A",
+    "explicacao": "No Brasil: vermelho = pó químico ABC/BC; vermelho com faixa amarela = CO2; vermelho com faixa verde = água; vermelho com faixa laranja = espuma. A cor facilita a identificação rápida do agente em emergência.",
     "categoria": "Extintores",
     "nivel": "medio"
   },
   {
     "id": 30,
-    "pergunta": "A que altura deve ser instalado o suporte de extintor conforme norma?",
+    "pergunta": "Um extintor que foi parcialmente descarregado deve ser:",
     "alternativas": {
-      "A": "Sem altura definida por norma",
-      "B": "A 1,00 m — altura do manômetro",
-      "C": "A 1,60 m do piso — parte inferior do extintor",
-      "D": "A 2,50 m — parte superior"
+      "A": "Mantido em uso até o esvaziamento total para evitar desperdício",
+      "B": "Recarregado imediatamente, pois mesmo parcialmente usado perde a pressão e a eficácia",
+      "C": "Verificado apenas na próxima manutenção anual programada",
+      "D": "Descartado e substituído por um novo, pois não pode ser recarregado"
+    },
+    "resposta": "B",
+    "explicacao": "Extintores parcialmente usados perdem pressão e o agente pode compactar (no caso do pó). A NBR determina recarga imediata após qualquer uso. Um extintor sem pressão adequada é ineficaz e perigoso de transportar.",
+    "categoria": "Extintores",
+    "nivel": "medio"
+  },
+  {
+    "id": 31,
+    "pergunta": "Qual é a altura máxima de instalação para extintores portáteis com carga de até 4 kg ou 4 litros?",
+    "alternativas": {
+      "A": "2,00 m do piso até a parte superior do extintor",
+      "B": "1,00 m do piso até a base do extintor",
+      "C": "1,60 m do piso até a parte superior do extintor",
+      "D": "Qualquer altura desde que sinalizado adequadamente"
     },
     "resposta": "C",
-    "explicacao": "A NBR 12693 determina que o suporte do extintor posicione sua parte inferior a no máximo 1,60 m do piso.",
+    "explicacao": "A NBR 12693 define: extintores até 4 kg/litros — parte superior a no máximo 1,60 m do piso; acima de 4 kg/litros — parte superior a no máximo 1,00 m. Isso garante acesso seguro por adultos, incluindo pessoas com limitações.",
     "categoria": "Extintores",
     "nivel": "dificil"
   },
   {
-    "id": 31,
-    "pergunta": "Capacete, luvas e botas de proteção são classificados como:",
-    "alternativas": {
-      "A": "EPR — Equipamento de Proteção Respiratória",
-      "B": "EPC — Equipamento de Proteção Coletiva",
-      "C": "EPI — Equipamento de Proteção Individual",
-      "D": "EPS — Equipamento de Proteção Sistêmica"
-    },
-    "resposta": "C",
-    "explicacao": "EPI é todo dispositivo de uso individual destinado a proteger o trabalhador de riscos à segurança e saúde.",
-    "categoria": "Equipamentos",
-    "nivel": "facil"
-  },
-  {
     "id": 32,
-    "pergunta": "Qual equipamento respiratório é usado em ambientes com atmosfera irrespirável ou desconhecida?",
+    "pergunta": "O agente extintor Halotron / HFC-227ea age principalmente por qual mecanismo?",
     "alternativas": {
-      "A": "SCBA — Self-Contained Breathing Apparatus (Aparelho de Respiração Autônomo)",
-      "B": "Respirador semifacial com filtro P2",
-      "C": "Máscara cirúrgica N95",
-      "D": "Capuz de proteção química"
+      "A": "Abafamento pela formação de espuma densa",
+      "B": "Resfriamento rápido do combustível abaixo do ponto de fulgor",
+      "C": "Deslocamento do oxigênio pela liberação de nitrogênio",
+      "D": "Inibição química da reação em cadeia da combustão"
     },
-    "resposta": "A",
-    "explicacao": "O SCBA fornece ar comprimido independente do ambiente, essencial em atmosferas IDLH (imediatamente perigosas à vida).",
-    "categoria": "Equipamentos",
-    "nivel": "medio"
+    "resposta": "D",
+    "explicacao": "Agentes halogenados limpos (Halotron, FM-200/HFC-227ea) interrompem a reação em cadeia capturando os radicais livres que sustentam a combustão. São usados em salas de servidores e museus por não deixar resíduo e não danificar equipamentos.",
+    "categoria": "Extintores",
+    "nivel": "dificil"
   },
   {
     "id": 33,
-    "pergunta": "Quais são as verificações mínimas do SCBA antes de uma entrada em ambiente confinado?",
+    "pergunta": "Para incêndio em fritadeira com óleo vegetal superaquecido (Classe K), o extintor correto é:",
     "alternativas": {
-      "A": "Verificar pressão do cilindro, alarme de baixa pressão e máscara",
-      "B": "Verificar somente a data de validade",
-      "C": "Apenas verificar se o cilindro está cheio",
-      "D": "Testar apenas o alarme"
+      "A": "Extintor Classe K com agente acetato de potássio",
+      "B": "Extintor de água pressurizada para resfriar o óleo",
+      "C": "Extintor de CO2 em jato direto sobre o óleo",
+      "D": "Extintor de pó ABC em aplicação prolongada"
     },
     "resposta": "A",
-    "explicacao": "Antes de usar o SCBA, o bombeiro deve checar pressão mínima (≥ 90%), funcionamento do alarme Pass e vedação da máscara.",
-    "categoria": "Equipamentos",
+    "explicacao": "Incêndios Classe K (óleos e gorduras de cozinha) têm temperatura muito elevada. Água causa explosão de vapor. O agente acetato de potássio reage com o óleo por saponificação, formando camada protetora e extinguindo. CO2 e pó podem causar re-ignição.",
+    "categoria": "Extintores",
     "nivel": "dificil"
   },
   {
     "id": 34,
-    "pergunta": "Qual conjunto mínimo de EPI é obrigatório para bombeiro em combate a incêndio estrutural?",
+    "pergunta": "Onde o extintor NÃO deve ser instalado?",
     "alternativas": {
-      "A": "Óculos de sol e botas de cano curto",
-      "B": "Capacete simples de obra e luvas de borracha",
-      "C": "Capacete, camiseta de algodão e tênis fechado",
-      "D": "Capacete com aba completa, capuz ignífugo, luvas e bota com biqueira"
+      "A": "Próximo às rotas de fuga e saídas de emergência",
+      "B": "Em local trancado, de difícil acesso ou atrás de móveis",
+      "C": "Em local visível e sinalizado com placa fotoluminescente",
+      "D": "No corredor central de cada pavimento do edifício"
     },
-    "resposta": "D",
-    "explicacao": "O uniforme de combate a incêndio inclui equipamentos ignífugos e de proteção mecânica específicos para a atividade.",
-    "categoria": "Equipamentos",
-    "nivel": "medio"
-  },
-  {
-    "id": 35,
-    "pergunta": "Qual equipamento de iluminação é essencial para operação em ambientes com fumaça densa?",
-    "alternativas": {
-      "A": "Velas e lanternas a gás",
-      "B": "Apenas a lanterna do celular",
-      "C": "Luz natural — nunca entrar sem luz natural",
-      "D": "Lanternas de cabeça com bateria reserva"
-    },
-    "resposta": "D",
-    "explicacao": "Em ambientes com fumaça, a visibilidade é zero. Lanternas de cabeça permitem mãos livres para outras tarefas.",
-    "categoria": "Equipamentos",
+    "resposta": "B",
+    "explicacao": "O extintor deve estar sempre em local visível, de fácil acesso e desobstruído. Trancá-lo ou obstruí-lo inviabiliza o uso em emergência. A sinalização com placa fotoluminescente é obrigatória pela NBR 12693.",
+    "categoria": "Extintores",
     "nivel": "facil"
   },
   {
-    "id": 36,
-    "pergunta": "Qual instrumento deve ser usado antes de entrar em espaço confinado para avaliar a atmosfera?",
+    "id": 35,
+    "pergunta": "Ao usar extintor de CO2, o operador deve segurar o difusor (corneta) pela empunhadura isolada porque:",
     "alternativas": {
-      "A": "Barômetro portátil",
-      "B": "Detector de gases (detector multi-gás)",
-      "C": "Oxímetro de pulso",
-      "D": "Termômetro de infravermelho"
+      "A": "A corneta vibra intensamente e pode machucar a mão sem proteção",
+      "B": "O gás pressurizado pode causar choque elétrico pelo bico metálico",
+      "C": "O CO2 sai a -78°C e pode causar queimadura por frio (criogênica) ao toque direto",
+      "D": "É apenas uma exigência ergonômica para melhor direcionamento do jato"
     },
-    "resposta": "B",
-    "explicacao": "O detector multi-gás monitora O₂, CO, H₂S e gases explosivos em tempo real, essencial antes de entrada.",
-    "categoria": "Equipamentos",
+    "resposta": "C",
+    "explicacao": "O CO2 expande saindo do cilindro e atinge -78°C na corneta. O toque direto no metal sem isolamento causa queimadura criogênica grave (semelhante a queimadura por fogo). Os extintores de CO2 têm empunhadura de borracha obrigatória.",
+    "categoria": "Extintores",
+    "nivel": "medio"
+  },
+  {
+    "id": 36,
+    "pergunta": "Qual é a frequência correta de compressões torácicas no RCP (Reanimação Cardiopulmonar) para adultos, segundo as diretrizes atuais?",
+    "alternativas": {
+      "A": "60 a 80 compressões por minuto",
+      "B": "40 a 60 compressões por minuto",
+      "C": "Mais de 140 compressões por minuto",
+      "D": "100 a 120 compressões por minuto"
+    },
+    "resposta": "D",
+    "explicacao": "As diretrizes da AHA/ERC definem 100-120 compressões por minuto como a frequência ideal. Abaixo de 100 é insuficiente para manter perfusão; acima de 120 reduz o enchimento cardíaco e a eficiência das compressões.",
+    "categoria": "Primeiros Socorros",
     "nivel": "medio"
   },
   {
     "id": 37,
-    "pergunta": "O que garante a conformidade legal de um EPI no Brasil?",
+    "pergunta": "A proporção correta de compressões x ventilações no RCP para adulto com dois socorristas treinados é:",
     "alternativas": {
-      "A": "Certificação ISO 9001",
-      "B": "Laudo do fabricante apenas",
-      "C": "CA — Certificado de Aprovação, emitido pelo MTE",
-      "D": "Registro na ABNT"
-    },
-    "resposta": "C",
-    "explicacao": "Todo EPI comercializado no Brasil deve ter CA (Certificado de Aprovação) emitido pelo Ministério do Trabalho.",
-    "categoria": "Equipamentos",
-    "nivel": "medio"
-  },
-  {
-    "id": 38,
-    "pergunta": "Qual roupa especial é usada em resgates próximos a grandes focos de calor radiante?",
-    "alternativas": {
-      "A": "Roupa de combate a incêndio estrutural",
-      "B": "Roupa de proteção biológica",
-      "C": "Roupa de proteção química Nível A",
-      "D": "Roupa de aproximação — reflexiva, para alta temperatura radiante"
-    },
-    "resposta": "D",
-    "explicacao": "A roupa de aproximação (aluminizada) reflete o calor radiante e é usada em situações de alta temperatura sem contato direto com chamas.",
-    "categoria": "Equipamentos",
-    "nivel": "dificil"
-  },
-  {
-    "id": 39,
-    "pergunta": "Como deve ser feita a manutenção de cordas de salvamento após uso?",
-    "alternativas": {
-      "A": "Guardar molhado enrolado",
-      "B": "Expor ao sol para secar rapidamente",
-      "C": "Lavar com solvente para limpar fuligem",
-      "D": "Verificar se há danos, lavar conforme norma e guardar longe de UV"
-    },
-    "resposta": "D",
-    "explicacao": "Cordas de vida devem ser inspecionadas após cada uso e lavadas com água morna e sabão neutro, longe de luz UV que degrada as fibras.",
-    "categoria": "Equipamentos",
-    "nivel": "dificil"
-  },
-  {
-    "id": 40,
-    "pergunta": "O que é uma 'linha de vida' em trabalhos em altura?",
-    "alternativas": {
-      "A": "Fita de amarração",
-      "B": "Cabo de aço fixo no chão",
-      "C": "Linha de vida — cabo ancorado que limita a queda",
-      "D": "Cinto abdominal simples"
-    },
-    "resposta": "C",
-    "explicacao": "A linha de vida é um sistema de ancoragem horizontal ou vertical que permite mobilidade com proteção contra queda.",
-    "categoria": "Equipamentos",
-    "nivel": "medio"
-  },
-  {
-    "id": 41,
-    "pergunta": "Qual capacete é exigido em trabalhos em altura conforme NR-35?",
-    "alternativas": {
-      "A": "Capacete classe A ou B com suspensão interna",
-      "B": "Capacete de motocicleta",
-      "C": "Capacete de ciclismo",
-      "D": "Boné de proteção UV"
+      "A": "30 compressões para 2 ventilações",
+      "B": "15 compressões para 2 ventilações",
+      "C": "5 compressões para 1 ventilação",
+      "D": "50 compressões para 5 ventilações"
     },
     "resposta": "A",
-    "explicacao": "Capacetes para trabalho em altura devem ter jugular e suspensão interna para absorver impacto, conforme NR-35.",
-    "categoria": "Equipamentos",
+    "explicacao": "O protocolo universal para adultos é 30:2 — 30 compressões seguidas de 2 ventilações (1 segundo cada). Com via aérea avançada (tubo orotraqueal), as compressões são contínuas a 100-120/min sem pausa para ventilação.",
+    "categoria": "Primeiros Socorros",
     "nivel": "facil"
   },
   {
-    "id": 42,
-    "pergunta": "Qual dispositivo trava automaticamente em caso de queda durante trabalho em altura?",
+    "id": 38,
+    "pergunta": "Em uma vítima inconsciente, como verificar rapidamente a presença de respiração?",
     "alternativas": {
-      "A": "Corda estática simples",
-      "B": "Trava-quedas retrátil — trava automaticamente em caso de queda",
-      "C": "Fita de poliéster sem dispositivo",
-      "D": "Mosquetão sem sistema de trava"
+      "A": "Colocar um espelho na frente da boca e aguardar embaçar",
+      "B": "Ver o movimento do tórax, ouvir o som da respiração e sentir o ar na face por até 10 segundos",
+      "C": "Verificar o pulso carotídeo por 30 segundos antes de qualquer outra ação",
+      "D": "Sacudir a vítima vigorosamente e observar a resposta"
     },
     "resposta": "B",
-    "explicacao": "O trava-quedas retrátil possui mecanismo centrífugo que trava instantaneamente ao detectar aceleração de queda.",
-    "categoria": "Equipamentos",
+    "explicacao": "O protocolo VOS (Ver-Ouvir-Sentir) deve ser feito em no máximo 10 segundos. Ver expansão torácica, ouvir sons de respiração, sentir o ar na bochecha do socorrista. Se ausente ou anormal (gasping), iniciar RCP imediatamente.",
+    "categoria": "Primeiros Socorros",
+    "nivel": "facil"
+  },
+  {
+    "id": 39,
+    "pergunta": "A profundidade correta das compressões torácicas em adultos no RCP é:",
+    "alternativas": {
+      "A": "Exatamente 2 cm para evitar fratura de costelas",
+      "B": "10 a 12 cm para garantir débito cardíaco suficiente",
+      "C": "Mínimo 5 cm, sem exceder 6 cm",
+      "D": "Qualquer profundidade enquanto o tórax retornar completamente"
+    },
+    "resposta": "C",
+    "explicacao": "A profundidade de 5-6 cm é essencial: menos de 5 cm é insuficiente para gerar pressão de perfusão coronariana; mais de 6 cm aumenta o risco de fraturas e lesão cardíaca sem melhora da eficácia. O retorno completo do tórax entre compressões é igualmente obrigatório.",
+    "categoria": "Primeiros Socorros",
+    "nivel": "medio"
+  },
+  {
+    "id": 40,
+    "pergunta": "Qual é a primeira ação ao encontrar uma vítima aparentemente inconsciente no chão?",
+    "alternativas": {
+      "A": "Iniciar imediatamente as compressões torácicas",
+      "B": "Ligar para o SAMU/192 antes de qualquer outro passo",
+      "C": "Verificar o pulso carotídeo por 10 segundos",
+      "D": "Verificar a segurança da cena antes de se aproximar"
+    },
+    "resposta": "D",
+    "explicacao": "Segurança da cena é sempre o primeiro passo — um socorrista ferido vira segunda vítima. Após confirmar segurança: checar responsividade, acionar socorro (192/SAMU ou 193/Bombeiros), verificar respiração e iniciar RCP se necessário.",
+    "categoria": "Primeiros Socorros",
+    "nivel": "facil"
+  },
+  {
+    "id": 41,
+    "pergunta": "Para controle de hemorragia externa grave em membro, a técnica de primeira escolha é:",
+    "alternativas": {
+      "A": "Pressão direta e firme sobre o ferimento com pano limpo ou bandagem",
+      "B": "Aplicar torniquete imediatamente em todo sangramento visível",
+      "C": "Lavar o ferimento com água corrente antes de qualquer compressão",
+      "D": "Elevar o membro sem comprimir o ferimento para reduzir o fluxo"
+    },
+    "resposta": "A",
+    "explicacao": "Pressão direta firme e contínua é a primeira medida. O torniquete é reservado para hemorragias massivas em membros que não respondem à pressão direta, ou amputações — seu uso prolongado pode causar necrose. Nunca remover o pano inicial se encharcar; adicionar mais sobre ele.",
+    "categoria": "Primeiros Socorros",
+    "nivel": "medio"
+  },
+  {
+    "id": 42,
+    "pergunta": "O DEA (Desfibrilador Externo Automático) deve ser usado:",
+    "alternativas": {
+      "A": "Somente após 5 ciclos completos de RCP (cerca de 2 minutos)",
+      "B": "Assim que disponível, com mínima interrupção das compressões torácicas",
+      "C": "Apenas por profissionais de saúde com treinamento avançado",
+      "D": "Antes de iniciar o RCP, pois substitui as compressões torácicas"
+    },
+    "resposta": "B",
+    "explicacao": "O DEA deve ser conectado assim que chegar — cada minuto sem desfibrilação reduz em 10% a chance de sobrevida em FV. O aparelho analisa o ritmo e instrui vocalmente. Leigos treinados podem e devem usá-lo. As compressões só param durante a análise e choque.",
+    "categoria": "Primeiros Socorros",
     "nivel": "medio"
   },
   {
     "id": 43,
-    "pergunta": "Qual cinto de segurança é obrigatório para trabalhos em altura conforme NR-35?",
+    "pergunta": "Vítima com suspeita de trauma de coluna cervical deve ser mobilizada:",
     "alternativas": {
-      "A": "Colete de flutuação",
-      "B": "Cinto abdominal simples (tipo A)",
-      "C": "Fita de amarração",
-      "D": "Cinto de segurança tipo paraquedista (completo)"
+      "A": "Pelo método de rolamento rápido sem equipamentos para evitar perda de tempo",
+      "B": "Apenas se estiver inconsciente; vítimas conscientes podem se mover sozinhas",
+      "C": "Com estabilização manual da cabeça e pescoço em posição neutra, usando colar cervical e prancha rígida",
+      "D": "Girando a cabeça levemente para um lado para facilitar a abertura de via aérea"
     },
-    "resposta": "D",
-    "explicacao": "O cinto paraquedista (tipo III) distribui as forças de queda pelo tórax, pélvis e coxas, sendo obrigatório em trabalhos em altura.",
-    "categoria": "Equipamentos",
+    "resposta": "C",
+    "explicacao": "Qualquer suspeita de trauma cervical exige imobilização manual imediata (cabeça neutra), colar cervical adequado ao tamanho e transferência em prancha rígida com tirantes e imobilizador lateral de cabeça. Mobilização incorreta pode causar lesão medular irreversível.",
+    "categoria": "Primeiros Socorros",
     "nivel": "medio"
   },
   {
     "id": 44,
-    "pergunta": "Com que frequência um EPI de proteção contra queda deve ser inspecionado?",
+    "pergunta": "Qual é o sinal clássico de reconhecimento de um AVC (Acidente Vascular Cerebral) usando a sigla SAMU?",
     "alternativas": {
-      "A": "Nunca — durabilidade vitalícia",
-      "B": "A cada uso e periodicamente conforme fabricante",
-      "C": "Uma vez por ano independente do uso",
-      "D": "Apenas quando houver dano visível"
+      "A": "Sudorese, Arritmia, Mal-estar e Unconsciousness",
+      "B": "Sangramento, Agitação, Midríase e Urticária",
+      "C": "Síncope, Aura visual, Membros rígidos e Urina involuntária",
+      "D": "Sorriso assimétrico, Alteração da fala, Membros (braços) com queda ao elevar e Urgência no atendimento"
     },
-    "resposta": "B",
-    "explicacao": "EPIs devem ser inspecionados antes de cada uso. Quedas ou impactos exigem substituição imediata mesmo sem dano visível.",
-    "categoria": "Equipamentos",
+    "resposta": "D",
+    "explicacao": "O reconhecimento rápido do AVC usa o SAMU: Sorriso torto (paralisia facial), Alteração da fala (disartria/afasia), Membros — pedir para levantar os dois braços (um cai), e Urgência — ligar 192 imediatamente. Cada minuto conta: 'Tempo é cérebro'.",
+    "categoria": "Primeiros Socorros",
     "nivel": "medio"
   },
   {
     "id": 45,
-    "pergunta": "O que fazer com um capacete que sofreu queda ou impacto severo?",
+    "pergunta": "Vítima com queimadura química por ácido deve ser tratada inicialmente com:",
     "alternativas": {
-      "A": "Descartar imediatamente — o impacto compromete a estrutura interna",
-      "B": "Pintar para identificar e continuar usando",
-      "C": "Verificar se há danos e continuar usando se parecer intacto",
-      "D": "Comunicar o supervisor e aguardar avaliação demorada"
+      "A": "Lavagem com grande volume de água corrente por pelo menos 20 minutos",
+      "B": "Aplicação de base (bicarbonato) para neutralizar o ácido imediatamente",
+      "C": "Cobertura seca com curativo estéril sem lavagem prévia",
+      "D": "Pasta de bicarbonato e água em camada espessa sobre a queimadura"
     },
     "resposta": "A",
-    "explicacao": "Capacetes que sofreram impacto severo devem ser descartados mesmo sem danos visíveis, pois sua estrutura absorvedora está comprometida.",
-    "categoria": "Equipamentos",
-    "nivel": "facil"
+    "explicacao": "A diluição com água corrente abundante é a única conduta correta inicial para queimaduras químicas — ácidos OU bases. Nunca tentar neutralização química (ácido + base gera reação exotérmica que piora a lesão). Remover roupas e joias contaminadas com cuidado.",
+    "categoria": "Primeiros Socorros",
+    "nivel": "dificil"
   },
   {
     "id": 46,
-    "pergunta": "Qual lei federal estabelece medidas de prevenção em estabelecimentos com aglomeração de pessoas?",
+    "pergunta": "Sinais de choque circulatório incluem:",
     "alternativas": {
-      "A": "Decreto 897/1993 — Bombeiros Militares",
-      "B": "Lei 13.425/2017 — Lei Kiss",
-      "C": "NBR 9077 — Saídas de Emergência",
-      "D": "Lei 8.213/1991 — Acidentes do Trabalho"
+      "A": "Pele quente e avermelhada, pulso lento e forte, euforia",
+      "B": "Pele fria e pálida, pulso rápido e fraco, alteração do nível de consciência",
+      "C": "Hipertensão arterial, bradicardia e midríase bilateral",
+      "D": "Febre alta, rigidez muscular e convulsões"
     },
     "resposta": "B",
-    "explicacao": "A Lei 13.425/2017, conhecida como Lei Kiss, surgiu após o incêndio da boate Kiss em 2013 e estabelece medidas de prevenção em locais de reunião.",
-    "categoria": "Legislação",
-    "nivel": "medio"
+    "explicacao": "O choque circulatório (hipovolêmico, distributivo, cardiogênico ou obstrutivo) resulta em perfusão tecidual insuficiente: pele fria/pálida/pegajosa, pulso fino e rápido (taquicardia compensatória), hipotensão, confusão mental e oligúria. Deitar a vítima, elevar membros (se sem trauma) e acionar socorro.",
+    "categoria": "Primeiros Socorros",
+    "nivel": "dificil"
   },
   {
     "id": 47,
-    "pergunta": "Qual Norma Regulamentadora trata especificamente de proteção contra incêndios no trabalho?",
+    "pergunta": "A manobra de Heimlich é indicada para:",
     "alternativas": {
-      "A": "NR-15 — Atividades Insalubres",
-      "B": "NR-35 — Trabalho em Altura",
-      "C": "NR-06 — Equipamentos de Proteção Individual",
-      "D": "NR-23 — Proteção Contra Incêndios"
-    },
-    "resposta": "D",
-    "explicacao": "A NR-23 regulamenta as medidas de proteção contra incêndios nos locais de trabalho.",
-    "categoria": "Legislação",
-    "nivel": "facil"
-  },
-  {
-    "id": 48,
-    "pergunta": "Qual norma regulamenta trabalho realizado a mais de 2 metros do nível inferior?",
-    "alternativas": {
-      "A": "NR-35 — Trabalho em Altura",
-      "B": "NR-33 — Espaços Confinados",
-      "C": "NR-23 — Proteção Contra Incêndios",
-      "D": "NR-12 — Segurança em Máquinas"
-    },
-    "resposta": "A",
-    "explicacao": "A NR-35 regulamenta trabalho em altura (acima de 2 metros com risco de queda), estabelecendo requisitos de capacitação e EPI.",
-    "categoria": "Legislação",
-    "nivel": "facil"
-  },
-  {
-    "id": 49,
-    "pergunta": "Qual norma regulamenta a entrada em espaços confinados?",
-    "alternativas": {
-      "A": "NR-23 — Proteção Contra Incêndios",
-      "B": "NR-35 — Trabalho em Altura",
-      "C": "NR-33 — Segurança e Saúde em Espaços Confinados",
-      "D": "NR-18 — Construção Civil"
+      "A": "Vítima inconsciente com suspeita de infarto agudo do miocárdio",
+      "B": "Engasgo leve onde a vítima ainda consegue tossir e falar",
+      "C": "Obstrução total de via aérea por corpo estranho em vítima consciente",
+      "D": "Qualquer caso de dificuldade respiratória em adultos"
     },
     "resposta": "C",
-    "explicacao": "A NR-33 define espaço confinado e estabelece medidas obrigatórias para entrada segura, incluindo supervisor, vigia e permissão de entrada.",
-    "categoria": "Legislação",
+    "explicacao": "Heimlich é indicada somente em OVACE total (vítima não consegue falar, tossir nem respirar). Em obstrução parcial (tosse eficaz), estimular a tosse. Se inconsciente, deitar e iniciar RCP. A compressão abdominal gera pressão que expele o objeto.",
+    "categoria": "Primeiros Socorros",
     "nivel": "medio"
   },
   {
-    "id": 50,
-    "pergunta": "Qual documento técnico define os requisitos de PPCI para cada tipo de edificação?",
+    "id": 48,
+    "pergunta": "A regra dos 9 (Wallace) é usada para:",
     "alternativas": {
-      "A": "IT (Instrução Técnica) do Corpo de Bombeiros do estado",
-      "B": "Apenas o Código Civil",
-      "C": "Apenas o alvará municipal",
-      "D": "Apenas a vontade do proprietário"
+      "A": "Determinar a profundidade de uma queimadura pelo número de camadas afetadas",
+      "B": "Definir o tempo de resfriamento de queimaduras com água corrente",
+      "C": "Classificar a gravidade do trauma por mecanismo de lesão",
+      "D": "Calcular a extensão da superfície corporal queimada em adultos"
+    },
+    "resposta": "D",
+    "explicacao": "A Regra dos 9 divide o corpo adulto em regiões de 9%: cabeça=9%, cada braço=9%, tórax anterior=9%, abdome=9%, tórax posterior=9%, lombar=9%, cada coxa=9%, cada perna=9%, períneo=1%. Fundamental para calcular reposição volêmica.",
+    "categoria": "Primeiros Socorros",
+    "nivel": "dificil"
+  },
+  {
+    "id": 49,
+    "pergunta": "Vítima diabética inconsciente com suspeita de hipoglicemia. A conduta correta é:",
+    "alternativas": {
+      "A": "Acionar o SAMU e NÃO oferecer nada por via oral — risco de aspiração",
+      "B": "Colocar açúcar embaixo da língua para absorção sublingual rápida",
+      "C": "Oferecer suco de laranja ou refrigerante açucarado imediatamente",
+      "D": "Aplicar insulina para estabilizar a glicemia rapidamente"
     },
     "resposta": "A",
-    "explicacao": "As ITs estaduais detalham os requisitos de segurança contra incêndio para cada tipo de ocupação, complementando a legislação estadual.",
-    "categoria": "Legislação",
+    "explicacao": "Vítima inconsciente não recebe NADA por via oral (risco grave de aspiração). Acionar socorro avançado para glicose endovenosa. Vítima consciente e capaz de deglutir pode receber açúcar via oral. NUNCA aplicar insulina em hipoglicemia — piora o quadro.",
+    "categoria": "Primeiros Socorros",
+    "nivel": "dificil"
+  },
+  {
+    "id": 50,
+    "pergunta": "Fraturas expostas devem ser tratadas no campo da seguinte forma:",
+    "alternativas": {
+      "A": "Lavar com água corrente, recolocar o osso e bandagear firmemente",
+      "B": "Cobrir com curativo úmido estéril, imobilizar sem tentar recolocar o osso e acionar socorro",
+      "C": "Deixar exposta ao ar, imobilizar com tala e aguardar socorro",
+      "D": "Reduzir manualmente o fragmento e fixar com ataduras compressivas"
+    },
+    "resposta": "B",
+    "explicacao": "No campo: nunca reintroduzir o fragmento ósseo (risco de infecção profunda). Cobrir com curativo úmido (soro se disponível) para evitar dessecamento, imobilizar o membro como está, controlar hemorragia ao redor e acionar transporte médico urgente.",
+    "categoria": "Primeiros Socorros",
     "nivel": "medio"
   },
   {
     "id": 51,
-    "pergunta": "Qual documento deve ser elaborado e aprovado pelo CBMM para edificações de risco?",
+    "pergunta": "Qual é o número de telefone do SAMU no Brasil?",
     "alternativas": {
-      "A": "PCMSO — Programa de Controle Médico",
-      "B": "PPCI — Plano de Prevenção e Proteção Contra Incêndio",
-      "C": "PGR — Programa de Gerenciamento de Riscos",
-      "D": "PPRA — Programa de Riscos Ambientais"
+      "A": "190",
+      "B": "193",
+      "C": "192",
+      "D": "197"
     },
-    "resposta": "B",
-    "explicacao": "O PPCI é elaborado por profissional habilitado e aprovado pelo Corpo de Bombeiros, sendo obrigatório para diversas edificações.",
-    "categoria": "Legislação",
-    "nivel": "medio"
+    "resposta": "C",
+    "explicacao": "192 é o número do SAMU (Serviço de Atendimento Móvel de Urgência). 190 = Polícia Militar; 193 = Corpo de Bombeiros; 197 = Polícia Civil. Em emergências médicas, o SAMU deve ser acionado para suporte de vida avançado.",
+    "categoria": "Primeiros Socorros",
+    "nivel": "facil"
   },
   {
     "id": 52,
-    "pergunta": "A partir de qual altura um trabalho é considerado 'trabalho em altura' pela NR-35?",
+    "pergunta": "Um ferimento com objeto encravado (empalar) deve ser tratado:",
     "alternativas": {
-      "A": "1 metro",
-      "B": "2 metros — qualquer trabalho acima dessa altura exige proteção",
-      "C": "5 metros",
-      "D": "3 metros"
+      "A": "Removendo o objeto imediatamente para facilitar o curativo",
+      "B": "Empurrando levemente o objeto para verificar a profundidade",
+      "C": "Cortando o objeto rente à pele para facilitar o transporte da vítima",
+      "D": "Estabilizando o objeto sem removê-lo, fixando com curativo ao redor"
     },
-    "resposta": "B",
-    "explicacao": "A NR-35 define trabalho em altura como toda atividade executada acima de 2 metros do nível inferior, com risco de queda.",
-    "categoria": "Legislação",
-    "nivel": "facil"
+    "resposta": "D",
+    "explicacao": "O objeto encravado NUNCA deve ser removido no campo — ele pode estar tamponando um vaso sanguíneo. A remoção pode causar hemorragia maciça. Fixar o objeto com curativos volumosos ao redor, imobilizar e transportar urgentemente.",
+    "categoria": "Primeiros Socorros",
+    "nivel": "medio"
   },
   {
     "id": 53,
-    "pergunta": "Qual documento formal é obrigatório antes de entrar em espaço confinado ou trabalhar em altura?",
+    "pergunta": "A posição lateral de segurança (PLS) é indicada para:",
     "alternativas": {
-      "A": "Ordem de serviço comum",
-      "B": "Autorização verbal do encarregado",
-      "C": "Permissão de Trabalho (PT) emitida pelo supervisor",
-      "D": "Ficha de registro de ponto"
-    },
-    "resposta": "C",
-    "explicacao": "A PT (Permissão de Trabalho) é documento formal obrigatório pela NR-33 e NR-35 que autoriza e define as condições de atividades perigosas.",
-    "categoria": "Legislação",
-    "nivel": "medio"
-  },
-  {
-    "id": 54,
-    "pergunta": "Qual comissão paritária de segurança é obrigatória nas empresas conforme NR-5?",
-    "alternativas": {
-      "A": "CIPA — Comissão Interna de Prevenção de Acidentes",
-      "B": "SESMT — Serviço Especializado em Eng. de Segurança",
-      "C": "Comitê de Qualidade",
-      "D": "Brigada de Incêndio"
+      "A": "Vítima inconsciente que respira com pulso, sem suspeita de trauma de coluna",
+      "B": "Vítimas em parada cardiorrespiratória aguardando o DEA",
+      "C": "Qualquer vítima traumatizada para facilitar o acesso da equipe",
+      "D": "Vítimas com suspeita de fratura de costelas para reduzir a dor"
     },
     "resposta": "A",
-    "explicacao": "A CIPA é constituída por representantes do empregador e empregados, com atribuição de identificar riscos e promover medidas preventivas.",
-    "categoria": "Legislação",
-    "nivel": "medio"
-  },
-  {
-    "id": 55,
-    "pergunta": "O que é a Brigada de Incêndio conforme IT dos Corpos de Bombeiros?",
-    "alternativas": {
-      "A": "SAMU",
-      "B": "Brigada de Incêndio — equipe treinada para resposta inicial",
-      "C": "Bombeiro profissional contratado",
-      "D": "Defesa Civil"
-    },
-    "resposta": "B",
-    "explicacao": "A brigada de incêndio é formada por funcionários treinados para agir na fase inicial de uma emergência antes do CBMM chegar.",
-    "categoria": "Legislação",
+    "explicacao": "A PLS coloca a vítima de lado, evitando que língua ou vômito obstrua a via aérea. Indicada APENAS quando há respiração espontânea E pulso, SEM suspeita de lesão cervical. Em parada, a posição correta é dorsal para RCP.",
+    "categoria": "Primeiros Socorros",
     "nivel": "facil"
   },
   {
-    "id": 56,
-    "pergunta": "Com que frequência deve ser realizado o treinamento de reciclagem da brigada de incêndio?",
+    "id": 54,
+    "pergunta": "O torniquete improvisado ou comercial deve ser aplicado:",
     "alternativas": {
-      "A": "A cada 2 anos conforme IT do CBMM",
-      "B": "Anualmente sem exceção",
-      "C": "Apenas na formação inicial",
-      "D": "A cada 5 anos"
+      "A": "Diretamente sobre a ferida para compressão máxima",
+      "B": "5 a 8 cm acima da ferida, apertado até parar o sangramento, com anotação da hora",
+      "C": "O mais longe possível da ferida, preferencialmente na raiz do membro",
+      "D": "Frouxo o suficiente para não causar dor, apenas reduzindo o fluxo"
     },
-    "resposta": "A",
-    "explicacao": "A maioria das ITs estaduais exige reciclagem da brigada de incêndio a cada 2 anos, podendo variar por estado.",
-    "categoria": "Legislação",
+    "resposta": "B",
+    "explicacao": "Torniquete: aplicar 5-8 cm proximal à ferida, apertar até cessação do sangramento (se frouxo, aumenta o sangramento venoso). Anotar hora de aplicação no torniquete ou na testa da vítima — fundamental para equipe hospitalar avaliar tempo de isquemia.",
+    "categoria": "Primeiros Socorros",
     "nivel": "dificil"
   },
   {
-    "id": 57,
-    "pergunta": "O que comprova que uma edificação está em conformidade com as normas de segurança contra incêndio?",
+    "id": 55,
+    "pergunta": "Qual é a conduta correta para vítima com suspeita de infarto agudo do miocárdio (IAM) consciente e sem alergia?",
     "alternativas": {
-      "A": "Vistoria pelo Corpo de Bombeiros e emissão do Auto de Vistoria (AVCB)",
-      "B": "Aprovação apenas da prefeitura",
-      "C": "Declaração do proprietário",
-      "D": "Laudo de empresa privada de segurança"
+      "A": "Deitar a vítima e forçar caminhada para estimular a circulação",
+      "B": "Oferecer dois copos de água para evitar desidratação do músculo cardíaco",
+      "C": "Manter a vítima sentada e em repouso, acionar socorro e oferecer AAS se disponível e sem contraindicação",
+      "D": "Aplicar pressão no peito manualmente para ajudar o coração a bombear"
+    },
+    "resposta": "C",
+    "explicacao": "No IAM: repouso absoluto (esforço aumenta a demanda do miocárdio isquêmico), posição sentada ou semissentada (reduz retorno venoso), acionar SAMU (192), AAS 100-200mg mastigado (antiagregante — se sem alergia e capaz de deglutir). Não oferecer nada mais.",
+    "categoria": "Primeiros Socorros",
+    "nivel": "dificil"
+  },
+  {
+    "id": 56,
+    "pergunta": "Durante a evacuação de um edifício em chamas, os elevadores devem ser:",
+    "alternativas": {
+      "A": "Usados preferencialmente para agilizar a descida dos andares superiores",
+      "B": "Usados apenas nos primeiros 5 minutos do incêndio, antes do calor afetar os cabos",
+      "C": "Usados por pessoas com mobilidade reduzida, enquanto os demais usam a escada",
+      "D": "Totalmente evitados — usar somente as escadas de emergência"
+    },
+    "resposta": "D",
+    "explicacao": "Em incêndio, os elevadores são armadilhas mortais: o calor pode fundir os cabos, a fumaça invade o shaft e o elevador pode parar no andar do fogo. Pessoas com mobilidade reduzida devem aguardar em 'área de refúgio' sinalizada, assistidas pela brigada.",
+    "categoria": "Evacuação e Abandono",
+    "nivel": "facil"
+  },
+  {
+    "id": 57,
+    "pergunta": "O ponto de encontro (ponto de reunião) após evacuação tem como principal finalidade:",
+    "alternativas": {
+      "A": "Contabilizar todos os ocupantes e confirmar se há pessoas faltando no interior",
+      "B": "Servir de local de primeiros socorros para todas as vítimas do incêndio",
+      "C": "Proteger os funcionários do calor radiante do incêndio a distância segura",
+      "D": "Aguardar a autorização da segurança patrimonial para retornar ao prédio"
     },
     "resposta": "A",
-    "explicacao": "O AVCB (Auto de Vistoria do Corpo de Bombeiros) é o documento que comprova que a edificação atende às normas de segurança contra incêndio.",
-    "categoria": "Legislação",
-    "nivel": "medio"
+    "explicacao": "O ponto de encontro permite que o líder de evacuação (brigadista) faça a chamada nominal e identifique ausentes — informação crítica para os bombeiros saberem se há vítimas no interior. Deve estar a pelo menos 30 metros do edifício e longe do acesso de viaturas.",
+    "categoria": "Evacuação e Abandono",
+    "nivel": "facil"
   },
   {
     "id": 58,
-    "pergunta": "Qual norma técnica brasileira regulamenta saídas de emergência em edificações?",
+    "pergunta": "Ao abandonar um ambiente com fumaça pela escada, a porta da escadaria deve ser:",
     "alternativas": {
-      "A": "NBR 9077 — Saídas de Emergência em Edificações",
-      "B": "NBR 15219 — Plano de Emergência",
-      "C": "NBR 12693 — Extintores",
-      "D": "NBR 17240 — Sistemas de Detecção"
+      "A": "Mantida aberta para que a fumaça se dissipe pela escada até o exterior",
+      "B": "Fechada (sem trancamento) para retardar a entrada de fumaça e calor na escada",
+      "C": "Trancada com chave para impedir que outros abram e entrem fumaça",
+      "D": "Quebrada para criar ventilação cruzada e reduzir a temperatura"
     },
-    "resposta": "A",
-    "explicacao": "A NBR 9077 especifica as rotas de fuga, dimensionamento e sinalização de saídas de emergência.",
-    "categoria": "Legislação",
+    "resposta": "B",
+    "explicacao": "Fechar (sem trancar) as portas durante evacuação é fundamental — portas corta-fogo resistem 90 minutos ou mais e são a única barreira que protege a escada de emergência. Uma porta aberta transforma a escada em chaminé de fumaça.",
+    "categoria": "Evacuação e Abandono",
     "nivel": "medio"
   },
   {
     "id": 59,
-    "pergunta": "O bombeiro civil se depara com incêndio fora de controle. O que deve fazer?",
+    "pergunta": "Qual é a velocidade de deslocamento recomendada durante evacuação de emergência?",
     "alternativas": {
-      "A": "Aguardar ordens da chefia",
-      "B": "Tentar apagar o fogo de qualquer forma",
-      "C": "Evacuar sozinho sem alertar ninguém",
-      "D": "Afastar-se em segurança e acionar o CBMM (193)"
+      "A": "Corrida em fila indiana para maximizar a velocidade de saída",
+      "B": "Deslocamento individual em velocidade própria sem formação de fila",
+      "C": "Passo rápido e organizado, sem correr, para evitar quedas e atropelamentos",
+      "D": "Marcha lenta e calma para não causar pânico nos outros ocupantes"
     },
-    "resposta": "D",
-    "explicacao": "O bombeiro civil tem formação limitada. Diante de incêndio além da sua capacidade, o protocolo é evacuar e acionar o CBMM.",
-    "categoria": "Legislação",
+    "resposta": "C",
+    "explicacao": "Correr em evacuação causa quedas, congestionamentos e pânico — que matam mais que o fogo. O ideal é caminhada rápida e organizada em fila, com brigada orientando nos pontos críticos. Em escadas, a taxa de evacuação é de 40-60 pessoas por minuto por saída.",
+    "categoria": "Evacuação e Abandono",
     "nivel": "medio"
   },
   {
     "id": 60,
-    "pergunta": "Qual é a carga horária mínima para formação de bombeiro civil?",
+    "pergunta": "Se você estiver preso em um compartimento com fumaça e não houver como sair, deve:",
     "alternativas": {
-      "A": "Mínimo de 40 horas de teoria e prática conforme IT estadual",
-      "B": "4 horas de treinamento teórico",
-      "C": "Sem carga horária mínima definida",
-      "D": "8 horas apenas práticas"
+      "A": "Abrir a janela completamente para ventilar o ambiente",
+      "B": "Tentar chegar ao telhado pelo shaft do elevador para ser resgatado",
+      "C": "Deitar no chão e aguardar a fumaça se dissipar sozinha",
+      "D": "Vedar frestas da porta com panos, sinalizar pela janela e aguardar o resgate"
     },
-    "resposta": "A",
-    "explicacao": "A formação de bombeiro civil exige carga horária mínima definida pelas ITs estaduais, geralmente 40h, com componentes teóricos e práticos.",
-    "categoria": "Legislação",
+    "resposta": "D",
+    "explicacao": "Se preso: fechar e vedar a porta com roupas/panos (retarda entrada de fumaça por horas), sinalizar pela janela com pano ou toalha colorida, ligar para bombeiros informando localização exata, manter-se agachado. Não abrir janela completamente — pode aspirar fumaça do exterior.",
+    "categoria": "Evacuação e Abandono",
     "nivel": "dificil"
   },
   {
     "id": 61,
-    "pergunta": "Ao detectar um incêndio, qual é a primeira comunicação a ser feita?",
+    "pergunta": "O brigadista de emergência é responsável por:",
     "alternativas": {
-      "A": "Acionar o alarme e ligar para o CBMM (193)",
-      "B": "Avisar apenas o supervisor imediato",
-      "C": "Publicar nas redes sociais",
-      "D": "Tentar apagar o fogo primeiro"
+      "A": "Coordenar a evacuação do setor, garantir que todos saiam e prestar primeiros socorros básicos",
+      "B": "Combater o incêndio até sua extinção completa antes de evacuar",
+      "C": "Apenas acionar o alarme e aguardar a chegada dos bombeiros sem outras ações",
+      "D": "Liderar o combate ao fogo com extintores em qualquer circunstância"
     },
     "resposta": "A",
-    "explicacao": "Em emergências, a comunicação imediata com o CBMM e acionamento do alarme são prioritários para garantir resposta rápida.",
-    "categoria": "Comunicação",
-    "nivel": "facil"
-  },
-  {
-    "id": 62,
-    "pergunta": "Qual é o número de emergência do Corpo de Bombeiros no Brasil?",
-    "alternativas": {
-      "A": "193 — Corpo de Bombeiros",
-      "B": "192 — SAMU",
-      "C": "190 — Polícia Militar",
-      "D": "197 — Polícia Civil"
-    },
-    "resposta": "A",
-    "explicacao": "O número 193 é o número de emergência do Corpo de Bombeiros em todo o Brasil.",
-    "categoria": "Comunicação",
-    "nivel": "facil"
-  },
-  {
-    "id": 63,
-    "pergunta": "Quais informações são essenciais ao acionar o Corpo de Bombeiros?",
-    "alternativas": {
-      "A": "Localização, natureza da emergência, número de vítimas e contato",
-      "B": "Apenas o endereço",
-      "C": "Apenas o tipo de emergência",
-      "D": "Apenas o nome de quem chama"
-    },
-    "resposta": "A",
-    "explicacao": "O acionamento eficiente inclui: onde (localização), o quê (natureza), quantos (vítimas) e como (contato para retorno).",
-    "categoria": "Comunicação",
-    "nivel": "facil"
-  },
-  {
-    "id": 64,
-    "pergunta": "Qual meio de comunicação é prioritário durante operações de emergência?",
-    "alternativas": {
-      "A": "Rádio comunicador (HT) em canal dedicado à operação",
-      "B": "Celular pessoal",
-      "C": "Gritos e gestos",
-      "D": "WhatsApp em grupo"
-    },
-    "resposta": "A",
-    "explicacao": "Em operações de emergência, o rádio comunicador garante comunicação confiável, mesmo em ambientes com fumaça ou sem sinal de celular.",
-    "categoria": "Comunicação",
+    "explicacao": "O brigadista lidera a evacuação do seu setor (fazendo varredura), aciona alarme/bombeiros, presta primeiros socorros básicos e combate princípios de incêndio APENAS se seguro e com extintor adequado. Sua prioridade é sempre a segurança das pessoas, nunca o bem material.",
+    "categoria": "Evacuação e Abandono",
     "nivel": "medio"
   },
   {
-    "id": 65,
-    "pergunta": "Em comunicação de emergência, o que significa o sinal 'MAYDAY'?",
+    "id": 62,
+    "pergunta": "Qual deve ser a frequência mínima de simulados de evacuação em empresas com brigada de emergência, conforme a NBR 14276?",
     "alternativas": {
-      "A": "SÉCURITÉ — aviso de segurança",
-      "B": "MAYDAY — situação de perigo de vida iminente",
-      "C": "PAN-PAN — urgência sem perigo imediato",
-      "D": "ROGER — confirmação de recebimento"
+      "A": "A cada cinco anos, exceto em indústrias de alto risco",
+      "B": "Pelo menos uma vez ao ano",
+      "C": "Mensalmente, para manter os ocupantes sempre preparados",
+      "D": "Não há periodicidade definida — apenas quando a brigada julgar necessário"
     },
     "resposta": "B",
-    "explicacao": "MAYDAY é o sinal internacional de socorro usado quando há risco imediato à vida. Deve ser repetido 3 vezes.",
-    "categoria": "Comunicação",
+    "explicacao": "A NBR 14276 (Brigada de Emergência) recomenda simulados anuais obrigatórios. Em instalações de alto risco (hospitais, indústrias químicas), recomenda-se a cada 6 meses. O simulado deve ser avaliado e registrado com relatório.",
+    "categoria": "Evacuação e Abandono",
+    "nivel": "medio"
+  },
+  {
+    "id": 63,
+    "pergunta": "Rotas de fuga e saídas de emergência devem ser sinalizadas com:",
+    "alternativas": {
+      "A": "Apenas tinta vermelha nas paredes próximas às saídas",
+      "B": "Alarmes sonoros nas portas de emergência que disparam ao abrir",
+      "C": "Placas fotoluminescentes (que brilham no escuro) e iluminação de emergência",
+      "D": "Sinalização somente no andar térreo e na cobertura do edifício"
+    },
+    "resposta": "C",
+    "explicacao": "A NBR 13434 exige sinalização fotoluminescente (não depende de energia elétrica) em todos os pontos das rotas de fuga. A iluminação de emergência (NBR 10898) garante visibilidade mínima por 1 hora em caso de falta de energia.",
+    "categoria": "Evacuação e Abandono",
+    "nivel": "medio"
+  },
+  {
+    "id": 64,
+    "pergunta": "A 'área de refúgio' em edificações é destinada a:",
+    "alternativas": {
+      "A": "Armazenar equipamentos de combate a incêndio para uso pelos bombeiros",
+      "B": "Servir de ponto de encontro externo após a evacuação completa",
+      "C": "Acolher todas as vítimas de queimaduras até a chegada do SAMU",
+      "D": "Pessoas com mobilidade reduzida aguardarem resgate em local protegido do fogo e fumaça"
+    },
+    "resposta": "D",
+    "explicacao": "A área de refúgio (NBR 9077) é um espaço protegido por paredes corta-fogo, com comunicação com central de alarme, destinado a PcD e idosos que não podem usar as escadas. A brigada deve conhecer sua localização e comunicar os bombeiros sobre ocupantes aguardando resgate.",
+    "categoria": "Evacuação e Abandono",
+    "nivel": "dificil"
+  },
+  {
+    "id": 65,
+    "pergunta": "Durante evacuação, ao cruzar com uma porta fechada em corredor com fumaça, o correto é:",
+    "alternativas": {
+      "A": "Testar a temperatura da porta antes de abrir e fechar todas as portas após passar",
+      "B": "Deixar todas as portas abertas para facilitar a passagem dos demais evacuantes",
+      "C": "Nunca abrir nenhuma porta durante a evacuação, apenas pelas janelas",
+      "D": "Quebrar a janela da porta para verificar o que há do outro lado"
+    },
+    "resposta": "A",
+    "explicacao": "Em evacuação com fumaça: testar temperatura de cada porta antes de abrir (dorso da mão), abrir cuidadosamente se fria, fechar após passar. Portas abertas criam correntes de ar que aceleram a propagação de fumaça e fogo. É protocolo básico de evacuação.",
+    "categoria": "Evacuação e Abandono",
     "nivel": "medio"
   },
   {
     "id": 66,
-    "pergunta": "Qual é o procedimento correto para uso de rádio comunicador em operações?",
+    "pergunta": "O plano de emergência de uma edificação deve obrigatoriamente conter:",
     "alternativas": {
-      "A": "Usar linguagem técnica complexa",
-      "B": "Transmitir tudo de uma vez sem pausas",
-      "C": "Falar rapidamente para liberar o canal",
-      "D": "Identificar-se, transmitir mensagem curta e objetiva, aguardar confirmação"
+      "A": "Apenas o telefone dos bombeiros e a localização dos extintores",
+      "B": "Organograma da brigada, fluxograma de acionamento, plantas de evacuação e localização de equipamentos",
+      "C": "Somente o mapa de rotas de fuga sem necessidade de outros documentos",
+      "D": "Lista de funcionários e seus endereços residenciais para contato pós-emergência"
     },
-    "resposta": "D",
-    "explicacao": "Comunicação em rádio deve seguir protocolo: identificação, mensagem clara e confirmação do receptor.",
-    "categoria": "Comunicação",
-    "nivel": "medio"
+    "resposta": "B",
+    "explicacao": "O Plano de Emergência (PE) deve incluir: organograma da brigada com responsabilidades, fluxograma de acionamento (quem chama quem), plantas baixas com rotas de fuga e localização de equipamentos, procedimentos por tipo de emergência e registros de treinamentos.",
+    "categoria": "Evacuação e Abandono",
+    "nivel": "dificil"
   },
   {
     "id": 67,
-    "pergunta": "O que é o 'Plano de Abandono' de uma edificação?",
+    "pergunta": "Em um edifício em chamas, ao descer pela escada de emergência, você sente o calor intenso em um andar. Qual é a atitude correta?",
     "alternativas": {
-      "A": "Mapa decorativo do edifício",
-      "B": "Regulamento interno",
-      "C": "Plano de Abandono — define rotas, pontos de encontro e responsáveis",
-      "D": "Lista de funcionários"
+      "A": "Descer rapidamente correndo pelo andar em chamas sem parar",
+      "B": "Deitar no chão e rolar pelo corredor do andar em chamas",
+      "C": "Não descer por esse andar — subir ao andar imediatamente acima e aguardar ou tentar outra rota",
+      "D": "Retornar ao andar de origem e aguardar os bombeiros no próprio local de trabalho"
     },
     "resposta": "C",
-    "explicacao": "O Plano de Abandono define procedimentos de evacuação, responsabilidades e pontos de encontro fora da edificação.",
-    "categoria": "Comunicação",
-    "nivel": "medio"
+    "explicacao": "Nunca atravesse um andar em chamas ou com calor extremo. Volte para cima (calor sobe, mas a escada acima do fogo pode estar mais segura), sinalize pela janela, vede a porta com panos e aguarde resgate. Retornar ao escritório é uma opção válida se estiver em andar acima do fogo.",
+    "categoria": "Evacuação e Abandono",
+    "nivel": "dificil"
   },
   {
     "id": 68,
-    "pergunta": "O que é o 'ponto de encontro' em um plano de evacuação?",
+    "pergunta": "Qual é o significado do símbolo de saída de emergência (homem correndo pela porta) com seta?",
     "alternativas": {
-      "A": "Área de contenção química",
-      "B": "Ponto de triagem médica",
-      "C": "Ponto de encontro — local seguro e pré-definido fora da edificação",
-      "D": "Posto de comando avançado"
+      "A": "Indica o local onde ficam os extintores de incêndio",
+      "B": "Sinaliza que aquela porta está bloqueada e não deve ser usada",
+      "C": "Indica o ponto de encontro externo após evacuação",
+      "D": "Indica a direção da rota de fuga para a saída de emergência mais próxima"
     },
-    "resposta": "C",
-    "explicacao": "O ponto de encontro é definido no plano de abandono e deve estar em local seguro, visível e afastado da edificação.",
-    "categoria": "Comunicação",
+    "resposta": "D",
+    "explicacao": "A pictografia ISO 7010-E001/E002 (homem correndo + seta) indica a direção da rota de fuga. O símbolo deve ser visível a pelo menos 10 metros, fotoluminescente e instalado na parede ou teto de forma que oriente em qualquer direção do corredor.",
+    "categoria": "Evacuação e Abandono",
     "nivel": "facil"
   },
   {
     "id": 69,
-    "pergunta": "Qual é o padrão de sirene mais comum para sinalizar evacuação total?",
+    "pergunta": "A porta corta-fogo (PCF) nas escadas de emergência deve:",
     "alternativas": {
-      "A": "Campainha simples para tudo",
-      "B": "Sirene contínua para início de abandono; intermitente para alerta",
-      "C": "Sirene intermitente para abandono; contínua para alerta",
-      "D": "Voz humana sem alarme sonoro"
+      "A": "Permanecer sempre fechada e nunca ser bloqueada ou amarrada aberta",
+      "B": "Ficar sempre aberta durante o horário comercial para facilitar o acesso",
+      "C": "Ser trancada com cadeado fora do horário comercial por segurança",
+      "D": "Ser substituída por portão de grade para melhor ventilação da escada"
     },
-    "resposta": "B",
-    "explicacao": "O padrão mais comum: alarme contínuo = evacuação imediata; alarme intermitente = alerta/pré-evacuação. Verificar IT local.",
-    "categoria": "Comunicação",
-    "nivel": "dificil"
+    "resposta": "A",
+    "explicacao": "A porta corta-fogo FECHADA é a barreira que protege a escada de emergência do fogo e fumaça por 60-90 minutos. Mantê-la aberta com cunha ou correia elimina completamente essa proteção. É exigência da NBR 11742 e das normas de segurança contra incêndio estaduais.",
+    "categoria": "Evacuação e Abandono",
+    "nivel": "medio"
   },
   {
     "id": 70,
-    "pergunta": "Após controlar um princípio de incêndio, qual é o procedimento de comunicação obrigatório?",
+    "pergunta": "Durante a evacuação, a varredura dos ambientes pelo brigadista significa:",
     "alternativas": {
-      "A": "Contar apenas verbalmente para o colega",
-      "B": "Postar no grupo da empresa",
-      "C": "Ignorar se o incêndio foi apagado",
-      "D": "Comunicar ao coordenador e registrar no livro de ocorrências"
+      "A": "Limpar o corredor de objetos para facilitar o deslocamento dos evacuantes",
+      "B": "Verificar todos os cômodos, banheiros e áreas de apoio para garantir que ninguém ficou para trás",
+      "C": "Vistoriar o ambiente em busca de focos de incêndio para combater com extintor",
+      "D": "Sinalizar com tinta spray as áreas já evacuadas para controle dos bombeiros"
     },
-    "resposta": "D",
-    "explicacao": "Todo incidente deve ser registrado formalmente para análise, prevenção e cumprimento legal.",
-    "categoria": "Comunicação",
+    "resposta": "B",
+    "explicacao": "Varredura de evacuação é a busca ativa pelo brigadista em todos os espaços do andar — incluindo banheiros, salas de reunião, depósitos e espaços confinados — para garantir que nenhum ocupante (especialmente inconscientes ou com mobilidade reduzida) fique para trás.",
+    "categoria": "Evacuação e Abandono",
     "nivel": "medio"
   },
   {
     "id": 71,
-    "pergunta": "Durante evacuação de emergência, qual grupo deve receber atenção especial da brigada?",
+    "pergunta": "Ao chegar em cena de emergência química com produto desconhecido, a primeira ação é:",
     "alternativas": {
-      "A": "Evacuar todos pelo elevador mais próximo",
-      "B": "Verificar se há pessoas com mobilidade reduzida e auxiliá-las",
-      "C": "Ligar para o celular de cada funcionário",
-      "D": "Trancar portas para conter o fogo"
+      "A": "Entrar na área para verificar as vítimas e identificar o produto",
+      "B": "Aplicar água sobre o produto para diluir e reduzir a concentração",
+      "C": "Isolar a área, identificar o produto à distância e acionar equipe especializada (HAZMAT)",
+      "D": "Remover as vítimas manualmente sem equipamento de proteção"
     },
-    "resposta": "B",
-    "explicacao": "Durante a evacuação, pessoas com mobilidade reduzida precisam de atenção especial, evitando elevadores (que não devem ser usados em incêndio).",
-    "categoria": "Comunicação",
+    "resposta": "C",
+    "explicacao": "Em emergência química: ISOLAR-IDENTIFICAR-NOTIFICAR. Nunca entre sem identificação do produto e EPI adequado. Manter distância de segurança, acionar HAZMAT/CBMDF e aguardar identificação pelo número ONU e painel de segurança do veículo.",
+    "categoria": "Emergências Químicas",
     "nivel": "facil"
   },
   {
     "id": 72,
-    "pergunta": "Durante um incêndio, o elevador pode ser usado para evacuação?",
+    "pergunta": "O número ONU (Organização das Nações Unidas) em embalagens de produtos perigosos serve para:",
     "alternativas": {
-      "A": "Podem ser usados para transporte de feridos",
-      "B": "Podem ser usados se forem à prova de fogo",
-      "C": "NUNCA — elevadores não devem ser usados em incêndio",
-      "D": "Podem ser usados se o incêndio for em outro andar"
+      "A": "Indicar a quantidade em litros ou kg do produto na embalagem",
+      "B": "Classificar o grau de periculosidade de 1 a 9 pelo número",
+      "C": "Informar o fabricante e o país de origem do produto",
+      "D": "Identificar o produto perigoso e permitir consulta sobre seus riscos e medidas de emergência"
     },
-    "resposta": "C",
-    "explicacao": "Em incêndios, o calor pode afetar os sistemas elétricos do elevador, prendendo ocupantes. Sempre usar escadas.",
-    "categoria": "Comunicação",
-    "nivel": "facil"
+    "resposta": "D",
+    "explicacao": "O número ONU (ex: 1203 = gasolina) permite consulta imediata no GUIA DE EMERGÊNCIA (livro laranja) para identificar riscos, EPIs necessários, zona de isolamento e medidas de emergência. Deve estar afixado no veículo de transporte de produtos perigosos.",
+    "categoria": "Emergências Químicas",
+    "nivel": "medio"
   },
   {
     "id": 73,
-    "pergunta": "Qual orientação deve ser dada aos ocupantes ao sair de uma sala durante incêndio?",
+    "pergunta": "Em vazamento de gás cloro (Cl2), a equipe de salvamento deve se posicionar:",
     "alternativas": {
-      "A": "Deixar as portas abertas para facilitar a fuga de outros",
-      "B": "Fechar as portas ao sair — retarda a propagação do fogo e fumaça",
-      "C": "Quebrar as janelas para ventilar",
-      "D": "Trancar as portas com cadeado"
+      "A": "A barlavento (contra o vento, ou seja, com o vento soprando do socorrista para o vazamento)",
+      "B": "A sotavento (com o vento soprando do vazamento para o socorrista)",
+      "C": "Em posição perpendicular ao vento para evitar exposição",
+      "D": "Sem restrição de posicionamento, pois o cloro é mais pesado que o ar e fica no chão"
     },
-    "resposta": "B",
-    "explicacao": "Fechar portas durante evacuação é fundamental: uma porta fechada pode resistir ao fogo por 20 a 30 minutos.",
-    "categoria": "Comunicação",
+    "resposta": "A",
+    "explicacao": "Barlavento significa posicionar-se de modo que o vento sopre do socorrista em direção ao vazamento — a nuvem tóxica vai na direção contrária. O cloro é mais denso que o ar (afunda), exigindo também atenção a áreas baixas, porões e ralos na zona de exclusão.",
+    "categoria": "Emergências Químicas",
     "nivel": "medio"
   },
   {
     "id": 74,
-    "pergunta": "Uma pessoa está ilhada por fumaça e não pode evacuar. O que deve fazer?",
+    "pergunta": "As zonas de controle em emergências com produtos perigosos são denominadas:",
     "alternativas": {
-      "A": "Abrir a porta imediatamente",
-      "B": "Abrir a janela e pular",
-      "C": "Permanecer abaixado onde o ar é mais limpo e sinalizar pela janela",
-      "D": "Ficar em pé e gritar por socorro"
+      "A": "Zona vermelha (perigo), zona amarela (atenção) e zona verde (segura)",
+      "B": "Zona quente (exclusão), zona morna (redução de contaminação) e zona fria (suporte)",
+      "C": "Zona primária, secundária e terciária de isolamento",
+      "D": "Perímetro interno, externo e de controle de acesso"
     },
-    "resposta": "C",
-    "explicacao": "A fumaça sobe — o ar mais limpo fica próximo ao chão. Sinalizar pela janela orienta o resgate sem expor ao risco de queda.",
-    "categoria": "Comunicação",
+    "resposta": "B",
+    "explicacao": "O sistema de três zonas HAZMAT: Zona Quente (hot zone) — área contaminada, apenas equipe com EPI Nível A/B; Zona Morna — corredor de descontaminação; Zona Fria — comando, suporte e tratamento médico, sem contaminação.",
+    "categoria": "Emergências Químicas",
     "nivel": "dificil"
   },
   {
     "id": 75,
-    "pergunta": "Por que, em algumas situações de emergência, recomenda-se usar o celular com cautela?",
+    "pergunta": "Vítima contaminada por produto químico deve ser descontaminada:",
     "alternativas": {
-      "A": "O celular emite faísca que pode causar incêndio",
-      "B": "Interferência de celular desativa detectores de fumaça",
-      "C": "O celular aquece e pode explodir",
-      "D": "Celular em modo avião consome menos bateria para ligações de emergência"
+      "A": "Diretamente no hospital, onde há estrutura adequada de descontaminação",
+      "B": "Apenas se o produto for ácido — bases não exigem descontaminação prévia",
+      "C": "Antes de entrar em ambulância ou hospital, na zona morna, com lavagem com água e sabão",
+      "D": "Na zona quente, para não contaminar a zona de suporte e os socorristas"
     },
-    "resposta": "D",
-    "explicacao": "Apesar de mito urbano, o modo avião pode ser útil para preservar bateria. O risco de faísca de celular causar incêndio não tem respaldo técnico em condições normais.",
-    "categoria": "Comunicação",
+    "resposta": "C",
+    "explicacao": "A descontaminação primária ocorre na zona morna ANTES do transporte — introduzir vítima contaminada em ambulância contamina a equipe e o veículo. O processo básico: remover roupa (elimina 80% da contaminação), lavagem com água abundante e sabão neutro.",
+    "categoria": "Emergências Químicas",
     "nivel": "dificil"
   },
   {
     "id": 76,
-    "pergunta": "Qual é a primeira avaliação ao chegar em uma cena de emergência?",
+    "pergunta": "O EPI Nível A para emergências químicas oferece:",
     "alternativas": {
-      "A": "A vítima primeiro, sempre",
-      "B": "A cena e a vítima ao mesmo tempo",
-      "C": "Segurança da cena, depois a vítima",
-      "D": "O socorrista e a equipe primeiro, depois a cena"
+      "A": "Apenas proteção respiratória com máscara de filtro, sem proteção da pele",
+      "B": "Proteção contra respingos com avental e luvas, sem proteção respiratória",
+      "C": "Proteção padrão equivalente ao traje de combate a incêndio com SCBA",
+      "D": "Proteção total com traje completamente encapsulado e SCBA interno, para produtos de alto risco por inalação e absorção cutânea"
     },
-    "resposta": "C",
-    "explicacao": "A regra de ouro do APH: nunca criar mais vítimas. Avalie a segurança da cena antes de abordar qualquer vítima.",
-    "categoria": "APH",
-    "nivel": "facil"
+    "resposta": "D",
+    "explicacao": "EPI Nível A: máxima proteção — traje totalmente encapsulado (vapor-tight), SCBA interno, luvas internas e externas duplas. Indicado para atmosferas desconhecidas com alto risco de vapor tóxico e absorção cutânea. Nível B: SCBA mas sem encapsulamento total.",
+    "categoria": "Emergências Químicas",
+    "nivel": "dificil"
   },
   {
     "id": 77,
-    "pergunta": "Qual é a relação de compressões e ventilações na RCP de adultos?",
+    "pergunta": "Qual é o significado do losango NFPA 704 com números 4-3-2-1?",
     "alternativas": {
-      "A": "Apenas ventilações, sem compressão",
-      "B": "30 compressões para 2 ventilações (30:2)",
-      "C": "15 compressões para 1 ventilação",
-      "D": "5 compressões para 1 ventilação"
+      "A": "Saúde=4 (muito perigoso), Inflamabilidade=3 (ignição fácil), Reatividade=2 (instável com calor) e Especial=1 (leve risco adicional)",
+      "B": "Temperatura de fulgor, pressão, densidade e código de armazenamento",
+      "C": "Concentração máxima permitida em quatro diferentes temperaturas",
+      "D": "Grau de toxicidade para 4 vias de exposição: inalação, ingestão, pele e olhos"
     },
-    "resposta": "B",
-    "explicacao": "O protocolo AHA/AHA 2020 para RCP em adultos é de 30 compressões torácicas para 2 ventilações de resgate.",
-    "categoria": "APH",
-    "nivel": "facil"
+    "resposta": "A",
+    "explicacao": "O losango NFPA 704 tem 4 quadrantes: Azul (saúde, 0-4), Vermelho (inflamabilidade, 0-4), Amarelo (reatividade/instabilidade, 0-4), Branco (risco especial: OX=oxidante, W=reage com água, RA=radioativo). Essencial para avaliação rápida do risco.",
+    "categoria": "Emergências Químicas",
+    "nivel": "dificil"
   },
   {
     "id": 78,
-    "pergunta": "Onde deve ser posicionada a mão para compressões torácicas em adultos?",
+    "pergunta": "Em vazamento de GLP (gás liquefeito de petróleo) em ambiente fechado, a conduta correta é:",
     "alternativas": {
-      "A": "Abdômen superior",
-      "B": "Centro do peito (esterno), entre os mamilos",
-      "C": "Clavícula direita",
-      "D": "Lado esquerdo do peito, sobre o coração"
+      "A": "Acender a luz para verificar o tamanho do vazamento e localizar a fuga",
+      "B": "Não acionar interruptores elétricos, ventilar abrindo janelas e portas pelo lado externo e eliminar fontes de ignição",
+      "C": "Usar ventilador elétrico para dissipar o gás rapidamente para o exterior",
+      "D": "Fechar todas as janelas para concentrar o gás e facilitar sua detecção"
     },
     "resposta": "B",
-    "explicacao": "As compressões torácicas devem ser aplicadas no centro do esterno, posicionando o calcanhar da mão entre os mamilos.",
-    "categoria": "APH",
-    "nivel": "facil"
+    "explicacao": "GLP é mais pesado que o ar (acumula em pontos baixos) e explode entre 1,8% e 9,5% de concentração no ar. Qualquer faísca — interruptor, campainha, até estática — pode detonar. Ventilar naturalmente pelo exterior, cortar o gás na rua, evacuar e acionar os bombeiros.",
+    "categoria": "Emergências Químicas",
+    "nivel": "medio"
   },
   {
     "id": 79,
-    "pergunta": "Qual a profundidade e frequência adequadas para compressões torácicas em adultos?",
+    "pergunta": "O FISPQ (Ficha de Informações de Segurança de Produtos Químicos) é obrigatório porque:",
     "alternativas": {
-      "A": "2 cm de profundidade, 60 por minuto",
-      "B": "10 cm, 150 por minuto",
-      "C": "3 cm, 80 por minuto",
-      "D": "Pelo menos 5 cm de profundidade, 100-120 por minuto"
+      "A": "É exigido apenas para exportação de produtos químicos para outros países",
+      "B": "Substitui a sinalização de risco na embalagem em ambientes industriais",
+      "C": "Contém informações sobre riscos, EPIs, primeiros socorros, armazenamento e procedimentos de emergência do produto",
+      "D": "É necessário apenas para produtos com número ONU acima de 2000"
     },
-    "resposta": "D",
-    "explicacao": "As diretrizes AHA 2020 recomendam compressões de 5 a 6 cm de profundidade, a uma taxa de 100 a 120/min.",
-    "categoria": "APH",
+    "resposta": "C",
+    "explicacao": "O FISPQ (equivalente ao SDS - Safety Data Sheet) é obrigatório pela NR-26 para todos os produtos químicos perigosos no ambiente de trabalho. Deve estar disponível para trabalhadores e equipes de emergência com 16 seções de informação padronizadas.",
+    "categoria": "Emergências Químicas",
     "nivel": "medio"
   },
   {
     "id": 80,
-    "pergunta": "Qual equipamento é usado para aplicar choque elétrico em parada cardíaca?",
+    "pergunta": "Ácido sulfúrico concentrado (H2SO4) em contato com a pele causa:",
     "alternativas": {
-      "A": "Oxímetro de pulso",
-      "B": "Bomba de infusão",
-      "C": "Monitor cardíaco portátil",
-      "D": "DEA — Desfibrilador Externo Automático"
+      "A": "Apenas irritação leve, pois a pele tem pH ácido similar ao ácido",
+      "B": "Coloração azul da pele sem dano tecidual profundo",
+      "C": "Reação alérgica com urticária e inchaço sem dano químico direto",
+      "D": "Queimadura química grave por reação exotérmica e desidratação dos tecidos"
     },
     "resposta": "D",
-    "explicacao": "O DEA analisa o ritmo cardíaco e orienta (ou aplica automaticamente) o choque elétrico para reverter FV/TVSP.",
-    "categoria": "APH",
-    "nivel": "facil"
+    "explicacao": "O H2SO4 concentrado é higroscópico (absorve água) e reage exotermicamente com tecidos, causando queimadura simultânea química e térmica. É um dos ácidos mais agressivos. Tratamento: lavagem imediata com GRANDE volume de água (20-30 min) — NÃO neutralizar.",
+    "categoria": "Emergências Químicas",
+    "nivel": "dificil"
   },
   {
     "id": 81,
-    "pergunta": "Qual é a sequência correta de uso do DEA?",
+    "pergunta": "Em incidente com material radioativo, a proteção segue o princípio ALARA, que significa:",
     "alternativas": {
-      "A": "Posicionar as pás com a vítima molhada",
-      "B": "Usar o DEA apenas após 10 minutos de RCP",
-      "C": "Continuar a RCP enquanto aplica o choque",
-      "D": "Ligar o DEA, posicionar as pás, afastar todos e seguir as instruções"
+      "A": "As Low As Reasonably Achievable — minimizar a exposição à radiação tanto quanto razoavelmente possível",
+      "B": "Alert Level And Radiation Assessment — avaliação do nível de alerta de radiação",
+      "C": "Automatic Limitation And Radiation Alarm — limitação automática por alarme",
+      "D": "Area Lockdown And Rescue Authorization — autorização de resgate em área bloqueada"
     },
-    "resposta": "D",
-    "explicacao": "O DEA deve ser ligado imediatamente. As pás são posicionadas na pele seca e todos devem se afastar antes do choque.",
-    "categoria": "APH",
-    "nivel": "medio"
+    "resposta": "A",
+    "explicacao": "ALARA (As Low As Reasonably Achievable) é o princípio de proteção radiológica que define manter a exposição à radiação no menor nível possível. Na prática: aumentar a DISTÂNCIA, reduzir o TEMPO de exposição e usar BLINDAGEM (os três princípios de proteção radiológica).",
+    "categoria": "Emergências Químicas",
+    "nivel": "dificil"
   },
   {
     "id": 82,
-    "pergunta": "Como posicionar uma vítima inconsciente que respira normalmente?",
+    "pergunta": "Produtos oxidantes (como perclorato de amônio) devem ser armazenados:",
     "alternativas": {
-      "A": "Posição lateral de segurança — decúbito lateral",
-      "B": "Posição supina com pernas elevadas",
-      "C": "Deixar na posição em que se encontra",
-      "D": "Posição sentada"
+      "A": "Junto com líquidos inflamáveis para facilitar o controle de estoque",
+      "B": "Separados de materiais combustíveis, em local fresco, ventilado e longe de fontes de calor",
+      "C": "Em qualquer local desde que dentro de recipientes fechados",
+      "D": "Próximos ao sistema de sprinklers para resfriamento imediato em emergência"
     },
-    "resposta": "A",
-    "explicacao": "A posição lateral de segurança mantém a via aérea aberta e previne aspiração em vítimas inconscientes que respiram.",
-    "categoria": "APH",
-    "nivel": "medio"
+    "resposta": "B",
+    "explicacao": "Oxidantes fornecem oxigênio para a combustão — em contato com combustíveis podem causar incêndio ou explosão espontânea. Armazenar separados de todo material orgânico e combustível, em local fresco (abaixo de 30°C), longe de ácidos, calor e umidade.",
+    "categoria": "Emergências Químicas",
+    "nivel": "dificil"
   },
   {
     "id": 83,
-    "pergunta": "Qual é o primeiro método para controle de hemorragia externa grave?",
+    "pergunta": "O painel de segurança (placa de risco) obrigatório em veículos de transporte de produtos perigosos contém:",
     "alternativas": {
-      "A": "Aplicar torniquete imediatamente em qualquer hemorragia",
-      "B": "Elevar o membro sem comprimir",
-      "C": "Lavar com água e esperar parar",
-      "D": "Pressão direta sobre o ferimento com material limpo"
+      "A": "Nome do fabricante na parte superior e peso da carga na parte inferior",
+      "B": "Classe de risco na parte superior e telefone de emergência na parte inferior",
+      "C": "Número de risco (Kemler) na parte superior e número ONU do produto na parte inferior",
+      "D": "Número da nota fiscal na parte superior e código de rastreamento na parte inferior"
     },
-    "resposta": "D",
-    "explicacao": "O controle inicial de hemorragia é sempre por pressão direta. O torniquete é reservado para sangramentos de membros não controlados.",
-    "categoria": "APH",
-    "nivel": "facil"
+    "resposta": "C",
+    "explicacao": "O painel de segurança (fundo laranja) tem: parte superior = número de risco Kemler (ex: 33 = líquido muito inflamável, 80 = corrosivo); parte inferior = número ONU. O número Kemler com X antes (ex: X338) indica reação perigosa com água.",
+    "categoria": "Emergências Químicas",
+    "nivel": "dificil"
   },
   {
     "id": 84,
-    "pergunta": "Como tratar uma vítima de acidente com suspeita de lesão na coluna?",
+    "pergunta": "Monóxido de carbono (CO) é perigoso principalmente porque:",
     "alternativas": {
-      "A": "Remover o capacete imediatamente",
-      "B": "Sentar a vítima para avaliar melhor",
-      "C": "Imobilizar no local encontrado e transportar com suporte espinhal",
-      "D": "Tracionar o pescoço para alinhar"
+      "A": "É facilmente detectável pelo odor forte de ovo podre que emite",
+      "B": "Causa queimaduras na garganta e pulmões ao ser inalado",
+      "C": "É extremamente inflamável e explode com qualquer faísca",
+      "D": "É incolor e inodoro, e se liga à hemoglobina com afinidade 240 vezes maior que o oxigênio"
     },
-    "resposta": "C",
-    "explicacao": "Suspeita de trauma de coluna exige imobilização no local e transporte com colar cervical e prancha rígida.",
-    "categoria": "APH",
+    "resposta": "D",
+    "explicacao": "O CO é o 'assassino silencioso': incolor, inodoro, causa intoxicação sem que a vítima perceba. Liga-se à hemoglobina formando carboxiemoglobina (COHb), impedindo o transporte de O2. Tratamento: remover para ar fresco, O2 a 100%, câmara hiperbárica em casos graves.",
+    "categoria": "Emergências Químicas",
     "nivel": "medio"
   },
   {
     "id": 85,
-    "pergunta": "Há um objeto encravado no tórax da vítima. O que o socorrista deve fazer?",
+    "pergunta": "Em derramamento de mercúrio metálico (Hg) em ambiente fechado, a conduta correta é:",
     "alternativas": {
-      "A": "Cortar o objeto rente à pele",
-      "B": "Verificar se o objeto está fixado e imobilizá-lo — NÃO retirar",
-      "C": "Retirar o objeto imediatamente para limpar o ferimento",
-      "D": "Empurrar o objeto para dentro"
+      "A": "Evacuar o ambiente, ventilar e chamar equipe especializada — NÃO usar aspirador de pó comum",
+      "B": "Varrer o mercúrio rapidamente com vassoura e colocar no lixo comum",
+      "C": "Usar aspirador de pó para recolher as gotículas rapidamente",
+      "D": "Jogar água para solidificar o mercúrio e facilitar a coleta"
     },
-    "resposta": "B",
-    "explicacao": "Objetos encravados nunca devem ser retirados no pré-hospitalar — eles funcionam como tampão hemostático. Imobilize e transporte.",
-    "categoria": "APH",
+    "resposta": "A",
+    "explicacao": "O mercúrio metálico vaporiza à temperatura ambiente — inalação crônica causa neurotoxicidade grave. O aspirador comum dispersa as gotículas em névoa inalável. Coletar manualmente com seringa ou conta-gotas, colocar em recipiente fechado com água, acionar HAZMAT para descarte.",
+    "categoria": "Emergências Químicas",
     "nivel": "dificil"
   },
   {
     "id": 86,
-    "pergunta": "Qual manobra abre a via aérea em vítima sem suspeita de trauma cervical?",
+    "pergunta": "Em resgate de vítima em acidente de trânsito com veículo tombado, a primeira prioridade é:",
     "alternativas": {
-      "A": "Hiperextensão da cabeça e elevação do queixo",
-      "B": "Flexão da cabeça para frente",
-      "C": "Rotação lateral da cabeça",
-      "D": "Pressão na traqueia"
+      "A": "Extrair a vítima o mais rápido possível, independentemente da posição do veículo",
+      "B": "Estabilizar o veículo para evitar movimentação durante o resgate",
+      "C": "Desligar o motor e remover a bateria antes de qualquer outra ação",
+      "D": "Cobrir a vítima com lona para proteção antes de estabilizar o veículo"
     },
-    "resposta": "A",
-    "explicacao": "A manobra de hiperextensão da cabeça com elevação do queixo desloca a língua e abre a via aérea em vítimas sem trauma.",
-    "categoria": "APH",
+    "resposta": "B",
+    "explicacao": "A estabilização do veículo é o primeiro passo obrigatório — um carro instável pode rolar sobre a vítima ou a equipe durante o resgate. Usa-se cunhas, calços, cintas de ancoragem e escoras. Apenas após a estabilização completa inicia-se o acesso à vítima.",
+    "categoria": "Salvamento Terrestre",
     "nivel": "medio"
   },
   {
     "id": 87,
-    "pergunta": "Como verificar corretamente se uma vítima está respirando?",
+    "pergunta": "O método de extração rápida ('extrication') de vítima em veículo é indicado quando:",
     "alternativas": {
-      "A": "Posicionar o paciente, inclinar a cabeça, observar, ouvir e sentir por 10 segundos",
-      "B": "Aguardar 1 minuto para decidir",
-      "C": "Apenas checar o pulso por 1 segundo",
-      "D": "Colocar espelho na frente da boca"
+      "A": "É sempre o método preferencial por ser mais eficiente e rápido",
+      "B": "A vítima está consciente e solicita sair do veículo rapidamente",
+      "C": "A vida da vítima está em risco imediato (incêndio, afogamento iminente) e não é possível aguardar a extração cuidadosa",
+      "D": "O veículo não possui airbag não ativado que possa causar lesão"
     },
-    "resposta": "A",
-    "explicacao": "A verificação de respiração adequada: posicionar, head-tilt/chin-lift, observar o tórax, ouvir e sentir o ar por até 10 segundos.",
-    "categoria": "APH",
-    "nivel": "medio"
-  },
-  {
-    "id": 88,
-    "pergunta": "Qual o primeiro procedimento para queimaduras de 1º e 2º grau?",
-    "alternativas": {
-      "A": "Estourar as bolhas para aliviar",
-      "B": "Cobrir com pasta de dente ou manteiga",
-      "C": "Aplicar gelo diretamente na queimadura",
-      "D": "Trauma + queimadura: resfriar com água corrente por 10-20 minutos"
-    },
-    "resposta": "D",
-    "explicacao": "Resfriamento com água corrente em temperatura ambiente por 10 a 20 minutos alivia a dor e limita a extensão do dano.",
-    "categoria": "APH",
-    "nivel": "facil"
-  },
-  {
-    "id": 89,
-    "pergunta": "Adulto engasgado, consciente, não consegue tossir nem falar. O que fazer?",
-    "alternativas": {
-      "A": "Inclinar a vítima para frente e aguardar",
-      "B": "Colocar o dedo na garganta sem ver",
-      "C": "Dar água para a vítima engolir o objeto",
-      "D": "Aplicar 5 golpes nas costas e 5 compressões abdominais (Heimlich)"
-    },
-    "resposta": "D",
-    "explicacao": "Para adulto consciente com obstrução de via aérea por corpo estranho: 5 tapas nas costas seguidos de 5 compressões abdominais (Heimlich).",
-    "categoria": "APH",
-    "nivel": "facil"
-  },
-  {
-    "id": 90,
-    "pergunta": "Quais são os sinais clínicos de choque circulatório?",
-    "alternativas": {
-      "A": "Pele quente, rubor, pulso lento e forte",
-      "B": "Pressão alta, respiração lenta",
-      "C": "Pupilas contraídas e vômitos",
-      "D": "Sinais de choque: pele fria/pálida, pulso rápido/fraco, confusão mental"
-    },
-    "resposta": "D",
-    "explicacao": "Choque circulatório cursa com hipoperfusão: pele fria e pálida (vasoconstrição), taquicardia e alteração do nível de consciência.",
-    "categoria": "APH",
+    "resposta": "C",
+    "explicacao": "A extração rápida sacrifica parte do controle cervical em prol da sobrevivência imediata (fogo, afogamento, parada cardíaca). Deve ser feita com suporte manual máximo da coluna por toda a equipe. Em situações estáveis, usa-se sempre a extração controlada com colar cervical e prancha.",
+    "categoria": "Salvamento Terrestre",
     "nivel": "dificil"
   },
   {
-    "id": 91,
-    "pergunta": "Qual é a conduta inicial ao chegar em emergência com produto químico desconhecido?",
+    "id": 88,
+    "pergunta": "Em resgate de vítima soterrada em desmoronamento, o socorrista deve:",
     "alternativas": {
-      "A": "Isolar a área, identificar o produto e acionar equipe especializada",
-      "B": "Entrar sem EPI para ajudar as vítimas",
-      "C": "Ignorar e aguardar o produto se dispersar",
-      "D": "Lavar o local com água imediatamente"
+      "A": "Usar maquinário pesado para desobstrução rápida para ganhar tempo",
+      "B": "Gritar constantemente para localizar a vítima sem parar para ouvir",
+      "C": "Escavar sempre pelo caminho mais curto, mesmo que diretamente sobre a vítima",
+      "D": "Parar e escutar por sinais de vida, escavar manualmente próximo à vítima com cuidado para não causar novo colapso"
+    },
+    "resposta": "D",
+    "explicacao": "No soterramento: PARAR-ESCUTAR (busca por sons de vida e sinais de vítimas), escavação manual na proximidade sem vibração (evita colapso secundário). Maquinário pesado só é usado longe da vítima para desobstrução do perímetro. Sinalizar a posição com estacas antes de escavar.",
+    "categoria": "Salvamento Terrestre",
+    "nivel": "dificil"
+  },
+  {
+    "id": 89,
+    "pergunta": "A 'síndrome do esmagamento' (Crush Syndrome) é uma complicação que pode ocorrer quando:",
+    "alternativas": {
+      "A": "A vítima é liberada após longo período de compressão muscular — mioglobina liberada pode causar falência renal",
+      "B": "A vítima sofre múltiplas fraturas simultâneas por impacto de alta energia",
+      "C": "O socorrista comprime a vítima incorretamente durante o resgate",
+      "D": "O torniquete é mantido por mais de 30 minutos em qualquer situação"
     },
     "resposta": "A",
-    "explicacao": "Em emergências com produtos perigosos, isolar a área e identificar o produto (rótulo, FISPQ, painel de segurança) é prioritário antes de qualquer ação.",
-    "categoria": "Emergências Químicas",
+    "explicacao": "Crush Syndrome: músculos comprimidos por horas liberam mioglobina ao serem descomprimidos. A mioglobina é tóxica para os rins (mioglobinúria → falência renal aguda). Protocolo: hidratação endovenosa agressiva ANTES da descompressão, alcalinização urinária, monitorização renal.",
+    "categoria": "Salvamento Terrestre",
+    "nivel": "dificil"
+  },
+  {
+    "id": 90,
+    "pergunta": "Em resgate veicular, os airbags não ativados representam risco porque:",
+    "alternativas": {
+      "A": "Contêm gás tóxico que pode ser liberado ao cortar a estrutura do veículo",
+      "B": "Podem ativar por vibração ou eletricidade residual e ferir a vítima ou a equipe com força de 200kg",
+      "C": "São fabricados com fibra de carbono cortante que danifica ferramentas de resgate",
+      "D": "Após acidente, os airbags sempre ativam automaticamente em até 30 segundos"
+    },
+    "resposta": "B",
+    "explicacao": "Airbags não disparados representam perigo real durante o resgate — podem ativar por: energia residual no capacitor (mesmo com bateria desconectada por até 30 min), vibração, calor. A equipe deve identificar todos os airbags do veículo e manter distância segura deles durante o trabalho.",
+    "categoria": "Salvamento Terrestre",
     "nivel": "medio"
   },
   {
-    "id": 92,
-    "pergunta": "O que é o número ONU presente no painel de segurança de veículos com produtos perigosos?",
+    "id": 91,
+    "pergunta": "Qual é a principal ferramenta de resgate veicular para abrir portas e colunas de veículos?",
     "alternativas": {
-      "A": "Registro na Anvisa",
-      "B": "Código de barras do fabricante",
-      "C": "Número ONU — identifica o produto perigoso no painel de segurança",
-      "D": "Número de lote de produção"
+      "A": "Marreta de aço para deformação das chapas metálicas",
+      "B": "Serra circular com disco de tungstênio para corte rápido",
+      "C": "Espalhador hidráulico (mandíbula de vida / Jaws of Life)",
+      "D": "Macaco pneumático de alta pressão para levantamento da estrutura"
     },
     "resposta": "C",
-    "explicacao": "O número ONU (1 a 4 dígitos) identifica internacionalmente substâncias perigosas e é exibido no painel laranja dos veículos.",
-    "categoria": "Emergências Químicas",
-    "nivel": "medio"
-  },
-  {
-    "id": 93,
-    "pergunta": "Qual documento detalha os riscos e medidas de segurança de um produto químico?",
-    "alternativas": {
-      "A": "Manual do operador",
-      "B": "Nota fiscal do produto",
-      "C": "FISPQ — Ficha de Informações de Segurança de Produto Químico",
-      "D": "Laudo de análise de qualidade"
-    },
-    "resposta": "C",
-    "explicacao": "A FISPQ (equivalente ao SDS internacionalmente) contém todas as informações de segurança, incluindo EPIs necessários e primeiros socorros.",
-    "categoria": "Emergências Químicas",
+    "explicacao": "O espalhador hidráulico (popularmente 'mandíbula de vida') é a ferramenta principal de resgate veicular, gerando forças de até 150 kN para abrir portas, colunas e afastar estruturas deformadas. Junto com o cortador hidráulico e o cilindro (ram), compõe o conjunto básico USAR.",
+    "categoria": "Salvamento Terrestre",
     "nivel": "facil"
   },
   {
-    "id": 94,
-    "pergunta": "Qual nível de EPI oferece maior proteção em emergência química com vapor tóxico desconhecido?",
+    "id": 92,
+    "pergunta": "No resgate de vítima em espaço confinado (poço, cisterna, caixa d'água), a atmosfera deve ser monitorada para:",
     "alternativas": {
-      "A": "Nível D — uniforme de trabalho comum",
-      "B": "Nível A — totalmente encapsulado com SCBA interno",
-      "C": "Nível B — encapsulado com SCBA externo",
-      "D": "Nível C — máscara com filtro e roupa tyvek"
+      "A": "Apenas a concentração de CO2, que é o principal risco em espaços fechados",
+      "B": "Temperatura e umidade relativa do ar, pois gases não são problema em espaços pequenos",
+      "C": "Somente presença de vapores de gasolina usando detector de chama catalítica",
+      "D": "Oxigênio (O2), gases inflamáveis, monóxido de carbono (CO) e sulfeto de hidrogênio (H2S)"
+    },
+    "resposta": "D",
+    "explicacao": "O detector multigás é obrigatório em espaço confinado (NR-33): O2 (normal 20,9% — abaixo de 19,5% é deficiente; acima de 23,5% é enriquecido), LEL (limite explosivo inferior de gases inflamáveis), CO e H2S (ovo podre — altamente tóxico acima de 10 ppm).",
+    "categoria": "Salvamento Terrestre",
+    "nivel": "dificil"
+  },
+  {
+    "id": 93,
+    "pergunta": "A NR-33 regulamenta:",
+    "alternativas": {
+      "A": "Segurança e saúde no trabalho em espaços confinados",
+      "B": "Proteção contra incêndio em indústrias de petróleo e gás",
+      "C": "Trabalho em altura acima de 2 metros em qualquer atividade",
+      "D": "Transporte e armazenamento de produtos químicos perigosos"
+    },
+    "resposta": "A",
+    "explicacao": "A NR-33 (Ministério do Trabalho) define espaço confinado como local não projetado para ocupação humana contínua, com meios limitados de entrada/saída e atmosfera potencialmente perigosa. Exige permissão de entrada (PE), vigia treinado e plano de resgate.",
+    "categoria": "Salvamento Terrestre",
+    "nivel": "medio"
+  },
+  {
+    "id": 94,
+    "pergunta": "Em resgate de vítima em espaço confinado com atmosfera tóxica, o socorrista de entrada deve:",
+    "alternativas": {
+      "A": "Usar apenas máscara N95 que filtra os gases tóxicos mais comuns",
+      "B": "Usar SCBA (ar autônomo), nunca máscara de filtro, e ter linha de segurança conectada ao vigia externo",
+      "C": "Entrar rapidamente sem equipamento para minimizar o tempo de exposição",
+      "D": "Usar máscara de gás com filtro combinado adequado ao produto identificado"
     },
     "resposta": "B",
-    "explicacao": "O Nível A oferece a máxima proteção: roupa totalmente encapsulada à vapor e SCBA interno. Para riscos dérmicos e respiratórios desconhecidos.",
-    "categoria": "Emergências Químicas",
+    "explicacao": "Em espaço confinado com atmosfera IDLH (Immediately Dangerous to Life or Health), APENAS SCBA garante proteção — máscaras de filtro não protegem contra deficiência de O2 ou concentrações IDLH de gases. A linha de vida permite retirada imediata do socorrista sem que terceiros precisem entrar.",
+    "categoria": "Salvamento Terrestre",
     "nivel": "dificil"
   },
   {
     "id": 95,
-    "pergunta": "Onde a equipe de resposta deve se posicionar em derramamento de produto químico?",
+    "pergunta": "Durante resgate em deslizamento de terra, o maior risco secundário é:",
     "alternativas": {
-      "A": "Contra o vento para ver a nuvem",
-      "B": "No ponto mais baixo do terreno",
-      "C": "A favor do vento e em área mais elevada (upwind/uphill)",
-      "D": "No centro da área afetada"
+      "A": "Contaminação por metais pesados presentes no solo argiloso",
+      "B": "Explosão de bolsões de gás metano liberados pela decomposição do solo",
+      "C": "Novo deslizamento causado pela instabilidade do terreno saturado ou por vibrações",
+      "D": "Choque elétrico por fios enterrados na área do deslizamento"
     },
     "resposta": "C",
-    "explicacao": "Posicionar a equipe a favor do vento (upwind) e em cota mais alta (uphill) evita exposição a vapores e líquidos que escoam.",
-    "categoria": "Emergências Químicas",
+    "explicacao": "Em deslizamentos, o terreno ainda instável representa o maior perigo. Chuva contínua, vibrações de maquinário, o próprio peso da equipe ou a remoção de material que servia de suporte podem desencadear novos deslizamentos. Vigias devem monitorar o terreno continuamente.",
+    "categoria": "Salvamento Terrestre",
     "nivel": "medio"
   },
   {
     "id": 96,
-    "pergunta": "Como realizar a descontaminação de pessoa com produto químico na pele?",
+    "pergunta": "A técnica de 'busca e localização' de vítimas em estruturas colapsadas usa a sigla LAST, que significa:",
     "alternativas": {
-      "A": "Cobrir com pano seco e aguardar médico",
-      "B": "Espremer o local para remover o produto",
-      "C": "Aplicar substância neutralizante imediatamente",
-      "D": "Lavar com água corrente por pelo menos 20 minutos"
+      "A": "Listen, Alarm, Search e Triage",
+      "B": "Level, Assess, Secure e Transfer",
+      "C": "Look, Alert, Stabilize e Treat",
+      "D": "Locate (localizar), Access (acessar), Stabilize (estabilizar) e Transport (transportar)"
     },
     "resposta": "D",
-    "explicacao": "A descontaminação primária de contato dérmico com produto químico é sempre água corrente abundante por mínimo de 20 minutos.",
-    "categoria": "Emergências Químicas",
-    "nivel": "facil"
+    "explicacao": "O protocolo LAST é o padrão internacional de USAR (Urban Search and Rescue): L-Localizar vítimas (cães, câmeras, escuta eletrônica), A-Acessar com segurança estrutural, S-Estabilizar clinicamente no local, T-Transportar com imobilização adequada para atendimento definitivo.",
+    "categoria": "Salvamento Terrestre",
+    "nivel": "dificil"
   },
   {
     "id": 97,
-    "pergunta": "Como identificar rapidamente um produto químico desconhecido em emergência?",
+    "pergunta": "Em acidente com múltiplas vítimas (AMV), o sistema START de triagem classifica as vítimas em:",
     "alternativas": {
-      "A": "Cheirar o produto para identificar",
-      "B": "Aguardar manual do fabricante por e-mail",
-      "C": "Verificar o símbolo de risco no rótulo e o painel de segurança do veículo",
-      "D": "Tocar o produto com luva fina"
+      "A": "Vermelho (imediato), Amarelo (retardado), Verde (menor/ambulante) e Preto (sem expectativa/óbito)",
+      "B": "Crítico, grave, moderado e leve",
+      "C": "Prioridade 1, 2, 3 e 4 sem código de cor",
+      "D": "Vermelho, laranja, azul e branco, em ordem de gravidade"
     },
-    "resposta": "C",
-    "explicacao": "A identificação rápida usa rótulo GHS (pictogramas), painel de segurança (número ONU e número de risco) e FISPQ.",
-    "categoria": "Emergências Químicas",
+    "resposta": "A",
+    "explicacao": "O sistema START (Simple Triage And Rapid Treatment): PRETO = não respira mesmo após abrir via aérea (morto/sem expectativa); VERMELHO = respiração, pulso ou nível de consciência alterados (imediato); AMARELO = estável mas não ambulante (retardado); VERDE = anda sem ajuda (menor).",
+    "categoria": "Salvamento Terrestre",
     "nivel": "medio"
   },
   {
     "id": 98,
-    "pergunta": "Qual é a divisão de zonas em uma emergência química?",
+    "pergunta": "Para cruzar uma estrutura com suspeita de comprometimento estrutural durante o resgate, o socorrista deve:",
     "alternativas": {
-      "A": "Zona vermelha, amarela e verde sem critério",
-      "B": "Zona quente (exclusão), zona morna (trabalho) e zona fria (apoio)",
-      "C": "Sem divisão — todos podem circular livremente",
-      "D": "Apenas zona de risco e zona segura"
+      "A": "Correr rapidamente para minimizar o tempo de carga sobre a estrutura",
+      "B": "Distribuir o peso deitando sobre uma prancha ou tábua larga e mover-se lentamente",
+      "C": "Saltar de ponto em ponto sobre as partes mais sólidas identificadas visualmente",
+      "D": "Usar apenas os próprios pés, evitando qualquer equipamento adicional que aumente o peso"
     },
     "resposta": "B",
-    "explicacao": "O sistema de zonas de controle: Zona quente (maior risco, acesso restrito), zona morna (descontaminação e trabalho com EPI), zona fria (comando e apoio).",
-    "categoria": "Emergências Químicas",
+    "explicacao": "Distribuir o peso em área maior (prancha, escada deitada) reduz a pressão por unidade de área sobre a estrutura fragilizada. Movimentos lentos evitam vibração e impacto súbito. Em estruturas comprometidas, carga dinâmica (impacto) é muito mais perigosa que carga estática equivalente.",
+    "categoria": "Salvamento Terrestre",
     "nivel": "dificil"
   },
   {
     "id": 99,
-    "pergunta": "O que indica o 'número de risco' no painel de segurança de veículo transportador?",
+    "pergunta": "O sistema de escoras usado para estabilização de estruturas colapsadas utiliza preferencialmente:",
     "alternativas": {
-      "A": "Código postal da origem",
-      "B": "Número de Risco — indica a natureza do perigo (ex: 33 = líquido inflamável)",
-      "C": "Número de fabricante",
-      "D": "Número de registro estadual"
+      "A": "Tubos de PVC de grande diâmetro por leveza e resistência química",
+      "B": "Barras de ferro trefilado por resistência à tração e flexibilidade",
+      "C": "Madeiras de pinus ou eucalipto (pontaletes) por sua resistência à compressão e disponibilidade",
+      "D": "Bambu verde por flexibilidade e absorção de impacto em réplicas de tremor"
     },
-    "resposta": "B",
-    "explicacao": "O número de risco (painel laranja superior) usa dígitos para indicar tipos de risco: 3=inflamável, 6=tóxico, 8=corrosivo, etc.",
-    "categoria": "Emergências Químicas",
+    "resposta": "C",
+    "explicacao": "Madeira (pinus, eucalipto) é o material padrão para escoramento emergencial em USAR: boa resistência à compressão, fácil de cortar e ajustar no campo, não conduz eletricidade, disponível. Os pontaletes são posicionados em sistemas triangulados para transmitir carga com segurança ao solo.",
+    "categoria": "Salvamento Terrestre",
     "nivel": "dificil"
   },
   {
     "id": 100,
-    "pergunta": "Como o pH classifica substâncias químicas quanto à acidez?",
+    "pergunta": "Em resgate veicular, desconectar a bateria do veículo acidentado é importante para:",
     "alternativas": {
-      "A": "Ácido: pH < 7; Base: pH > 7; neutro: pH = 7",
-      "B": "Ácido: pH > 7; Base: pH < 7",
-      "C": "pH não indica acidez ou basicidade",
-      "D": "Ambos têm pH = 7"
+      "A": "Facilitar o uso das ferramentas hidráulicas que operam em corrente contínua",
+      "B": "Desativar o sistema de freios para permitir mover o veículo manualmente",
+      "C": "Neutralizar o sistema de GPS para impedir rastreamento indevido da vítima",
+      "D": "Prevenir ativação de airbags por energia residual e risco de incêndio por curto-circuito"
     },
-    "resposta": "A",
-    "explicacao": "O pH mede a concentração de íons H⁺. Abaixo de 7 é ácido, acima de 7 é básico (alcalino) e 7 é neutro.",
-    "categoria": "Emergências Químicas",
+    "resposta": "D",
+    "explicacao": "A bateria deve ser desconectada (cabo negativo primeiro) para: evitar ativação de airbags por energia residual (aguardar 30 min após desconexão), prevenir curto-circuito que pode causar incêndio, evitar ativação de sistemas elétricos durante o corte da estrutura. Em veículos híbridos/elétricos, atenção à alta tensão (400V+).",
+    "categoria": "Salvamento Terrestre",
     "nivel": "medio"
   },
   {
     "id": 101,
-    "pergunta": "Como proceder em derramamento de ácido corrosivo no piso?",
+    "pergunta": "Ao encontrar vítima em parada cardiorrespiratória presa em veículo acidentado, o resgate deve:",
     "alternativas": {
-      "A": "Secar o local sem lavar",
-      "B": "Aplicar ácido mais forte para neutralizar",
-      "C": "Usar solvente orgânico",
-      "D": "Neutralizar o ácido com base fraca (bicarbonato) e lavar com água"
+      "A": "Iniciar RCP no local se possível, ou extrair rapidamente para área segura e iniciar RCP",
+      "B": "Aguardar a extração completa e cuidadosa antes de iniciar qualquer reanimação",
+      "C": "Acionar o SAMU e aguardar a equipe médica sem iniciar RCP antes de extração",
+      "D": "Não iniciar RCP dentro do veículo — o risco ao socorrista é sempre maior que o benefício"
     },
-    "resposta": "D",
-    "explicacao": "Derramamento de ácido deve ser neutralizado com base fraca (bicarbonato de sódio) após contenção, e a área lavada com água.",
-    "categoria": "Emergências Químicas",
-    "nivel": "medio"
+    "resposta": "A",
+    "explicacao": "PCR é uma emergência absoluta — cada minuto sem RCP reduz 10% a sobrevida. Se houver espaço mínimo, inicia-se RCP no veículo (às vezes adaptada). Se impossível, extração rápida imediata para área segura e RCP. O protocolo 'extração cuidadosa completa antes do RCP' não se aplica em PCR.",
+    "categoria": "Salvamento Terrestre",
+    "nivel": "dificil"
   },
   {
     "id": 102,
-    "pergunta": "O que significam as siglas LIE e LSE em relação a gases inflamáveis?",
+    "pergunta": "Em operação de busca noturna em área aberta, o socorrista deve:",
     "alternativas": {
-      "A": "pH mínimo e máximo do produto",
-      "B": "Temperatura de fusão e ebulição",
-      "C": "Pressão de vapor e ponto de fulgor",
-      "D": "LIE e LSE — Limite Inferior e Superior de Explosividade"
-    },
-    "resposta": "D",
-    "explicacao": "LIE e LSE definem a faixa de concentração de gás no ar em que a mistura é explosiva. Abaixo do LIE: muito pobre; acima do LSE: muito rica.",
-    "categoria": "Emergências Químicas",
-    "nivel": "dificil"
-  },
-  {
-    "id": 103,
-    "pergunta": "Pode-se usar água para controlar derramamento de qualquer produto químico?",
-    "alternativas": {
-      "A": "Sim — água neutraliza qualquer produto químico",
-      "B": "Não — o contato com água pode gerar reação violenta",
-      "C": "Sim, se usar jato de névoa",
-      "D": "Somente se for ácido"
+      "A": "Buscar aleatoriamente na direção onde há maior probabilidade de encontrar a vítima",
+      "B": "Usar padrão de varredura sistemática em linhas paralelas, com comunicação constante entre a equipe",
+      "C": "Usar apenas cães farejadores, pois lanternas são ineficazes à noite em área aberta",
+      "D": "Dividir a equipe individualmente para cobrir maior área no menor tempo"
     },
     "resposta": "B",
-    "explicacao": "Alguns produtos (metais alcalinos, ácido sulfúrico concentrado, cloreto de acetila) reagem violentamente com água, liberando calor ou gases tóxicos.",
-    "categoria": "Emergências Químicas",
-    "nivel": "dificil"
-  },
-  {
-    "id": 104,
-    "pergunta": "Como realizar a contenção de pequeno derramamento de produto químico no piso?",
-    "alternativas": {
-      "A": "Varrer o produto para o ralo",
-      "B": "Absorver com material inerte (areia, vermiculita) e recolher para descarte",
-      "C": "Diluir com grande volume de água sem contenção",
-      "D": "Incendiar o produto no local"
-    },
-    "resposta": "B",
-    "explicacao": "Produtos químicos derramados devem ser absorvidos com material inerte e descartados conforme norma de resíduos perigosos.",
-    "categoria": "Emergências Químicas",
+    "explicacao": "A busca sistemática em 'pente' (linhas paralelas com espaçamento definido pela visibilidade) garante cobertura total da área sem lacunas. A comunicação contínua evita perda de membros da equipe à noite. Cães, drones com câmera térmica e apitos complementam a busca mas não substituem a varredura sistemática.",
+    "categoria": "Salvamento Terrestre",
     "nivel": "medio"
   },
   {
-    "id": 105,
-    "pergunta": "Como resgatar uma vítima consciente em zona de contaminação química?",
+    "id": 103,
+    "pergunta": "Qual é o equipamento obrigatório do socorrista de resgate terrestre para proteção individual em acidente veicular?",
     "alternativas": {
-      "A": "Jogar água na vítima à distância",
-      "B": "Retirar a vítima pela roupa sem contato direto com o produto",
-      "C": "Aguardar a vítima se mover sozinha",
-      "D": "Entrar na zona quente sem EPI para resgatar"
+      "A": "Apenas capacete e luvas de látex descartáveis para atendimento à vítima",
+      "B": "Traje completo de combate a incêndio com SCBA em todos os resgates veiculares",
+      "C": "Capacete, óculos de proteção, luvas de couro, jaqueta de aproximação e botas com biqueira de aço",
+      "D": "Roupa de mergulho neoprene para proteção contra combustível e fluidos do veículo"
     },
-    "resposta": "B",
-    "explicacao": "Em emergência química, a retirada de vítima da zona contaminada exige EPI adequado. Técnicas de arrastamento pela roupa minimizam contato.",
-    "categoria": "Emergências Químicas",
+    "resposta": "C",
+    "explicacao": "No resgate veicular, os riscos incluem: vidros quebrados (óculos), estrutura metálica cortante (luvas de couro), impactos (capacete), combustível e fluidos (jaqueta), pisoteamento de vidros e metais (botas com biqueira). O traje de combate a incêndio é adicional se houver risco de fogo.",
+    "categoria": "Salvamento Terrestre",
+    "nivel": "medio"
+  },
+  {
+    "id": 104,
+    "pergunta": "Em resgate de vítima em ferrovia (atropelamento por trem), a primeira providência é:",
+    "alternativas": {
+      "A": "Acessar imediatamente a vítima independentemente do status da linha ferroviária",
+      "B": "Posicionar a viatura na linha para sinalizar aos trens que reduzam a velocidade",
+      "C": "Aguardar o trem parar naturalmente antes de acessar a vítima",
+      "D": "Acionar a concessionária ferroviária para interromper o tráfego de trens na linha"
+    },
+    "resposta": "D",
+    "explicacao": "Trens precisam de 1-3 km para parar em frenagem de emergência. A linha deve ser bloqueada ANTES do acesso à vítima — a concessionária tem sistema de comunicação direta com os maquinistas. Nunca confiar apenas em sinalização física: trens também trafegam em sentido oposto na mesma linha.",
+    "categoria": "Salvamento Terrestre",
     "nivel": "dificil"
   },
   {
-    "id": 106,
-    "pergunta": "Qual é a primeira ação em um resgate terrestre com vítima presa?",
+    "id": 105,
+    "pergunta": "A 'golden hour' no trauma é o conceito que define:",
     "alternativas": {
-      "A": "Iniciar RCP sem avaliar a cena",
-      "B": "Ligar para a família primeiro",
-      "C": "Avaliar a cena, garantir segurança e só então abordar a vítima",
-      "D": "Correr até a vítima imediatamente"
+      "A": "A primeira hora após o trauma grave como o período crítico para intervenção definitiva que aumenta a sobrevida",
+      "B": "O tempo máximo que uma vítima pode sobreviver sem atendimento após qualquer tipo de trauma",
+      "C": "A duração máxima de uma operação de resgate antes de ser necessário revezar a equipe",
+      "D": "O intervalo de 60 minutos em que todos os procedimentos de resgate devem ser concluídos"
     },
-    "resposta": "C",
-    "explicacao": "Em salvamento terrestre, a avaliação da cena é sempre primeiro para evitar que o socorrista se torne mais uma vítima.",
+    "resposta": "A",
+    "explicacao": "A 'golden hour' (hora de ouro) de Dr. R. Adams Cowley define que vítimas de trauma grave têm maior chance de sobrevida quando recebem intervenção definitiva (cirurgia) dentro de 60 minutos do trauma. Não é um prazo rígido, mas um conceito que reforça a urgência do transporte rápido para hospital de trauma.",
     "categoria": "Salvamento Terrestre",
+    "nivel": "medio"
+  },
+  {
+    "id": 106,
+    "pergunta": "A NR-35 (Trabalho em Altura) define trabalho em altura como todo aquele realizado acima de:",
+    "alternativas": {
+      "A": "5 metros do nível do solo em qualquer situação",
+      "B": "2 metros do nível inferior, onde haja risco de queda",
+      "C": "3 metros, apenas quando não houver proteção coletiva instalada",
+      "D": "1,5 metro, independentemente da existência de proteção coletiva"
+    },
+    "resposta": "B",
+    "explicacao": "A NR-35 define trabalho em altura como qualquer atividade acima de 2 metros do nível inferior onde haja risco de queda, com ou sem proteção coletiva. Exige planejamento, análise de risco, permissão de trabalho (PT), capacitação e uso de EPI/EPC específicos.",
+    "categoria": "Salvamento em Altura",
     "nivel": "facil"
   },
   {
     "id": 107,
-    "pergunta": "Como remover uma vítima com suspeita de trauma de coluna em situação de perigo imediato?",
+    "pergunta": "O equipamento de proteção contra quedas em altura é composto obrigatoriamente por:",
     "alternativas": {
-      "A": "Tracionar pelo pescoço",
-      "B": "Arrastar pelos pés rapidamente",
-      "C": "Técnica de arrastamento pelo eixo — cabeça-pescoço-tronco alinhados",
-      "D": "Carregar nos braços sem apoio cervical"
+      "A": "Cinto de segurança do tipo abdominal conectado a qualquer ponto fixo disponível",
+      "B": "Cinto paraquedista sem talabarte, pois o próprio cinto absorve o impacto da queda",
+      "C": "Cinto paraquedista, talabarte de duplo gancho e ponto de ancoragem com resistência mínima de 1500 kgf",
+      "D": "Apenas capacete com jugular e calçado antiderrapante em alturas até 5 metros"
     },
     "resposta": "C",
-    "explicacao": "O arrastamento pelo eixo mantém a coluna alinhada, reduzindo risco de lesão medular durante a remoção de urgência.",
-    "categoria": "Salvamento Terrestre",
+    "explicacao": "O sistema de proteção contra queda inclui: cinto paraquedista (tipo III — distribui a força da queda pelo tronco e coxas), talabarte de duplo gancho (permite ancoragem contínua — um gancho sempre preso), ancoragem certificada mínimo 1500 kgf ou 15 kN (absorve a energia da queda).",
+    "categoria": "Salvamento em Altura",
     "nivel": "medio"
   },
   {
     "id": 108,
-    "pergunta": "Quais são os elementos mínimos de um sistema de resgate terrestre em declive?",
+    "pergunta": "Em resgate de vítima pendurada inconsciente no cinto paraquedista (síndrome do cinto), a ação prioritária é:",
     "alternativas": {
-      "A": "Fita adesiva e corda fina",
-      "B": "Corda molhada e nó simples",
-      "C": "Apenas uma corda sem ancoragem",
-      "D": "Ponto de ancoragem fixo, corda de resgate e freio descendente"
+      "A": "Aguardar equipe médica antes de mover a vítima para não agravar lesão cervical",
+      "B": "Cortar o cinto paraquedista com faca para libertar a vítima rapidamente",
+      "C": "Erguer a vítima pelo cinto para aliviar a compressão abdominal e aguardar resgate",
+      "D": "Resgatar rapidamente pois a compressão dos vasos femorais pelo cinto pode causar morte em minutos"
     },
     "resposta": "D",
-    "explicacao": "Um sistema de resgate seguro exige ancoragem confiável, corda de resgate certificada e dispositivo de controle de descida.",
-    "categoria": "Salvamento Terrestre",
-    "nivel": "medio"
+    "explicacao": "A síndrome do arnês/cinto é uma emergência real: a suspensão estática comprime as veias femorais, impedindo retorno venoso. Em 5-30 minutos pode causar síncope, falência cardíaca por hipovolemia relativa e morte. O resgate deve ser rápido, mantendo a vítima inclinada (não deitada abruptamente) para evitar colapso circulatório repentino.",
+    "categoria": "Salvamento em Altura",
+    "nivel": "dificil"
   },
   {
     "id": 109,
-    "pergunta": "Qual nó é considerado padrão para ancoragem em sistemas de resgate?",
+    "pergunta": "O nó 'oito' (figura-8) é amplamente usado em salvamento em altura porque:",
     "alternativas": {
-      "A": "Nó borboleta — para meio de corda",
-      "B": "Nó simples — o mais seguro",
-      "C": "Nó de oito em figura — confiável e fácil de verificar",
-      "D": "Nó quadrado — para junção de cordas"
+      "A": "É forte, fácil de verificar visualmente, não escorrega e permite desfazê-lo após carga",
+      "B": "É o único nó aprovado pelo Corpo de Bombeiros para qualquer tipo de resgate",
+      "C": "Multiplica a força aplicada, permitindo içar vítimas com menor esforço",
+      "D": "Pode ser feito rapidamente com uma mão, ideal para situações de emergência"
     },
-    "resposta": "C",
-    "explicacao": "O nó de oito (figure-eight) é o nó de ancoragem padrão em salvamento por ser confiável, não escorregar e ser facilmente verificável.",
-    "categoria": "Salvamento Terrestre",
+    "resposta": "A",
+    "explicacao": "O nó oito (e seus derivados: oito-duplo, oito-em-alça) é padrão em resgate em altura: visualmente verificável (a figura '8' confirma a estrutura correta), alta resistência (retém 75-80% da resistência da corda), não corre e pode ser aberto após ser carregado (ao contrário do nó simples).",
+    "categoria": "Salvamento em Altura",
     "nivel": "medio"
   },
   {
     "id": 110,
-    "pergunta": "Como verificar a adequação de uma corda antes de usá-la em resgate?",
+    "pergunta": "A resistência mínima exigida para cordas de uso em resgate em altura (tipo A, NFPA 1983) é de:",
     "alternativas": {
-      "A": "Verificar diâmetro, carga máxima e ausência de danos antes de cada uso",
-      "B": "Pesar a corda para estimar resistência",
-      "C": "Usar qualquer corda disponível se for emergência",
-      "D": "Verificar apenas a cor da corda"
+      "A": "5 kN — suficiente para segurar uma pessoa em queda livre",
+      "B": "40 kN (aproximadamente 4000 kgf)",
+      "C": "100 kN — resistência para içamento de cargas industriais pesadas",
+      "D": "20 kN — padrão europeu aplicado no Brasil por equivalência"
     },
-    "resposta": "A",
-    "explicacao": "Cordas de salvamento devem ser inspecionadas visualmente e certificadas. Danos como cortes, desgaste ou contaminação química exigem descarte.",
-    "categoria": "Salvamento Terrestre",
-    "nivel": "facil"
+    "resposta": "B",
+    "explicacao": "A NFPA 1983 classifica cordas de resgate: Life Safety Rope Tipo I (uso geral) — mínimo 40 kN; Tipo II (uso único/escape) — mínimo 27 kN. No Brasil, o CB adota padrão mínimo de 22 kN para sistemas de dois cabos. Cordas devem ser inspecionadas após cada uso e têm vida útil definida.",
+    "categoria": "Salvamento em Altura",
+    "nivel": "dificil"
   },
   {
     "id": 111,
-    "pergunta": "Qual técnica de movimentação é indicada em terreno instável ou íngreme?",
+    "pergunta": "O sistema de descida em rapel controlado para resgate de vítima utiliza como freio o dispositivo:",
     "alternativas": {
-      "A": "Saltar de pedra em pedra",
-      "B": "Deslizar sentado sem equipamento",
-      "C": "Caminhada de quatro pontos — três pontos de contato sempre",
-      "D": "Correr para ganhar tempo"
+      "A": "Bloqueador ascendente (Jumar) que permite descida com trava automática",
+      "B": "Roldana simples que redireciona a corda sem controlar a velocidade",
+      "C": "Stop, ID ou figura-8 (descendor) que permite descida controlada com liberação gradual da corda",
+      "D": "Gancho de segurança (mosquetão) sem dispositivo específico de frenagem"
     },
     "resposta": "C",
-    "explicacao": "Em terreno acidentado, manter três pontos de contato (duas mãos e um pé, ou dois pés e uma mão) garante estabilidade.",
-    "categoria": "Salvamento Terrestre",
-    "nivel": "facil"
+    "explicacao": "Descendores (Stop, ID, Rack, figura-8) são dispositivos de atrito que permitem descida controlada em rapel. O STOP e o ID possuem trava automática (mão morta) — soltando a manete, a descida para automaticamente, ideal para resgate onde o operador precisa de mãos livres.",
+    "categoria": "Salvamento em Altura",
+    "nivel": "medio"
   },
   {
     "id": 112,
-    "pergunta": "Qual equipamento é padrão para transporte de vítima com suspeita de lesão na coluna?",
+    "pergunta": "Para o içamento de vítima no sistema de polia com vantagem mecânica 3:1 (Z-rig), a força necessária é:",
     "alternativas": {
-      "A": "Maca rígida (prancha longa) com imobilização lateral",
-      "B": "Maca flexível — mais confortável",
-      "C": "Arrastar sem imobilização",
-      "D": "Carregar nos braços em posição fetal"
+      "A": "Equivalente ao peso total da vítima mais o equipamento",
+      "B": "O dobro do peso da vítima, pois a polia duplica a força necessária",
+      "C": "Independente do peso — a vantagem mecânica elimina a necessidade de força",
+      "D": "Aproximadamente um terço do peso total a ser içado"
     },
-    "resposta": "A",
-    "explicacao": "A prancha longa (longboard) com fixadores laterais e imobilizador de cabeça é o padrão para transporte de vítima com suspeita de trauma espinhal.",
-    "categoria": "Salvamento Terrestre",
-    "nivel": "medio"
+    "resposta": "D",
+    "explicacao": "Sistema 3:1 (Z-rig ou C-rig): a vantagem mecânica teórica é 3:1, ou seja, para içar 90 kg são necessários teoricamente 30 kg de força. Na prática, o atrito reduz para 2:1 a 2,5:1. Para içamentos pesados usa-se sistema 6:1 ou 9:1. A vantagem mecânica nunca elimina a força — apenas a reduz.",
+    "categoria": "Salvamento em Altura",
+    "nivel": "dificil"
   },
   {
     "id": 113,
-    "pergunta": "Como aplicar corretamente um torniquete em hemorragia grave de membro?",
+    "pergunta": "A ancoragem em resgate em altura deve ser:",
     "alternativas": {
-      "A": "Não registrar horário — não é necessário",
-      "B": "Aplicar direto sobre o ferimento",
-      "C": "Aplicar abaixo do ferimento",
-      "D": "Torniquete aplicado 5 cm acima do ferimento — registrar horário"
+      "A": "Em pelo menos dois pontos independentes, cada um capaz de suportar a carga sozinho",
+      "B": "Em um único ponto muito resistente para simplificar o sistema de resgate",
+      "C": "Em qualquer ponto fixo da estrutura, desde que pareça sólido ao socorrista",
+      "D": "Apenas na própria cintura do socorrista usando o cinto paraquedista como ancoragem"
     },
-    "resposta": "D",
-    "explicacao": "O torniquete deve ser aplicado 5 a 7 cm acima da lesão e o horário de aplicação deve ser registrado para evitar isquemia prolongada.",
-    "categoria": "Salvamento Terrestre",
-    "nivel": "dificil"
-  },
-  {
-    "id": 114,
-    "pergunta": "Em acidente com múltiplas vítimas, qual sistema é usado para priorizar atendimentos?",
-    "alternativas": {
-      "A": "Atender os mais graves por último",
-      "B": "Atender por ordem de chegada",
-      "C": "Triagem START — classificação por prioridade de atendimento",
-      "D": "Aguardar médico para triagem"
-    },
-    "resposta": "C",
-    "explicacao": "O método START (Simple Triage And Rapid Treatment) classifica vítimas em vermelho, amarelo, verde e preto em até 60 segundos por vítima.",
-    "categoria": "Salvamento Terrestre",
-    "nivel": "dificil"
-  },
-  {
-    "id": 115,
-    "pergunta": "Na triagem START, o que significa a tag vermelha?",
-    "alternativas": {
-      "A": "Verde — lesões leves",
-      "B": "Preto — vítima fatal",
-      "C": "Vermelho — prioridade 1 (imediato), risco de vida tratável",
-      "D": "Amarelo — urgente, pode aguardar"
-    },
-    "resposta": "C",
-    "explicacao": "Na triagem START, a tag vermelha indica vítima com risco de vida que pode ser salva com intervenção imediata.",
-    "categoria": "Salvamento Terrestre",
+    "resposta": "A",
+    "explicacao": "O princípio de ancoragem redundante exige pelo menos 2 pontos independentes (se um falhar, o outro suporta tudo). Cada ponto deve ser testado com a carga total prevista. Ancoragens válidas: colunas de concreto armado, vigas estruturais, argolas de resgate certificadas — NUNCA parapeitos, grades ornamentais ou tubulações.",
+    "categoria": "Salvamento em Altura",
     "nivel": "medio"
   },
   {
-    "id": 116,
-    "pergunta": "Ao chegar em acidente veicular com vítima presa, qual é a primeira avaliação?",
+    "id": 114,
+    "pergunta": "O capacete de resgate em altura difere do capacete de obras porque:",
     "alternativas": {
-      "A": "Iniciar RCP pelo lado de fora",
-      "B": "Identificar riscos secundários: instabilidade do veículo, combustível, energia",
-      "C": "Quebrar o vidro imediatamente",
-      "D": "Chamar a imprensa para registrar"
+      "A": "É fabricado em aço inox para suportar impactos maiores em quedas de altura",
+      "B": "Possui jugular de três pontos para não sair durante queda, proteção lateral e suporte para lanterna",
+      "C": "Tem ventilação superior fechada para proteger contra queda de objetos pesados",
+      "D": "É idêntico ao de obras, apenas com cor diferente para identificação da equipe"
     },
     "resposta": "B",
-    "explicacao": "Em acidente veicular, antes de acessar a vítima: estabilizar o veículo, desligar a ignição, verificar vazamentos e afastar curiosos.",
-    "categoria": "Salvamento Terrestre",
+    "explicacao": "Capacetes de resgate em altura (tipo EN 12492 ou NFPA 1951): jugular de três pontos (fronte, nuca e queixo) que mantém o capacete na cabeça em qualquer posição, inclusive invertida; proteção lateral (diferente do capacete de obras que protege só o topo); trilhos para lanterna de cabeça.",
+    "categoria": "Salvamento em Altura",
+    "nivel": "medio"
+  },
+  {
+    "id": 115,
+    "pergunta": "Em qual situação o uso do talabarte de absorção de energia (talabarte com amortecedor) é obrigatório?",
+    "alternativas": {
+      "A": "Apenas em trabalhos acima de 10 metros de altura, independentemente do risco de queda",
+      "B": "Em todos os trabalhos em altura, substituindo o talabarte simples em qualquer situação",
+      "C": "Quando há risco de queda livre maior que 1 metro antes da retenção pelo talabarte",
+      "D": "Somente em trabalhos em telhados com inclinação acima de 45 graus"
+    },
+    "resposta": "C",
+    "explicacao": "O amortecedor de energia absorve parte da força de choque (reduz de ~12 kN para ~6 kN no pico) em quedas de até 1 metro. É obrigatório quando a distância de queda livre permite que a força transmitida ao corpo ultrapasse 6 kN. Sem amortecedor, a queda mesmo curta pode causar lesões na coluna.",
+    "categoria": "Salvamento em Altura",
+    "nivel": "dificil"
+  },
+  {
+    "id": 116,
+    "pergunta": "O mosquetão de segurança (com rosca ou trava dupla) deve ser inspecionado antes de cada uso verificando:",
+    "alternativas": {
+      "A": "Apenas a data de fabricação gravada no corpo do mosquetão",
+      "B": "O peso do mosquetão, pois modelos acima de 80g são considerados seguros",
+      "C": "A cor da fita de inspeção anual colada pelo fabricante",
+      "D": "Abertura e fechamento suave da porta, funcionamento da trava, ausência de deformação e corrosão"
+    },
+    "resposta": "D",
+    "explicacao": "Inspeção pré-uso do mosquetão: porta abre e fecha suavemente, trava engata corretamente (dupla ou de rosca), sem deformação permanente (indicativa de sobrecarga), sem corrosão interna ou externa, sem marcas de impacto ou calor. Mosquetões com qualquer defeito devem ser inutilizados imediatamente.",
+    "categoria": "Salvamento em Altura",
     "nivel": "medio"
   },
   {
     "id": 117,
-    "pergunta": "Vítima de soterramento apresenta tremores, confusão e temperatura baixa. Qual é o quadro suspeito?",
+    "pergunta": "Em resgate de vítima em estrutura vertical (fachada de edifício), o socorrista utiliza o sistema de acesso por corda (SAC) porque:",
     "alternativas": {
-      "A": "Hipotermia — exposição prolongada ao frio, temperatura corporal abaixo de 35°C",
-      "B": "Anemia — falta de hemoglobina",
-      "C": "Desidratação — perda de água",
-      "D": "Hipertermia — temperatura acima de 37°C"
+      "A": "Permite posicionamento preciso e mãos livres para atendimento à vítima em qualquer ponto da fachada",
+      "B": "É mais rápido que o uso de plataforma elevatória em qualquer situação",
+      "C": "Não exige ancoragem estrutural no topo, podendo usar qualquer superfície",
+      "D": "É o único método aprovado para edifícios acima de 20 andares no Brasil"
     },
     "resposta": "A",
-    "explicacao": "Hipotermia ocorre quando a temperatura corporal central cai abaixo de 35°C, podendo evoluir para parada cardíaca.",
-    "categoria": "Salvamento Terrestre",
-    "nivel": "medio"
+    "explicacao": "O SAC (EN 13795 / NR-35) permite que o socorrista se suspenda em dois cabos independentes (trabalho e segurança), se posicione com precisão em qualquer ponto da fachada e mantenha mãos livres para atendimento, aplicação de maca etc. É fundamental em fachadas onde plataformas não alcançam.",
+    "categoria": "Salvamento em Altura",
+    "nivel": "dificil"
   },
   {
     "id": 118,
-    "pergunta": "Ao encontrar vítima soterrada sob escombros, o que NÃO deve ser feito?",
+    "pergunta": "A inspeção de cordas de resgate deve ser feita:",
     "alternativas": {
-      "A": "Cavar manualmente sem avaliação",
-      "B": "Remover a estrutura com alavanca manual",
-      "C": "Não movimentar a estrutura e aguardar equipe especializada de USAR",
-      "D": "Puxar a vítima rapidamente"
+      "A": "Apenas anualmente por empresa certificada, seguindo o prazo do fabricante",
+      "B": "Antes de cada uso, com verificação visual e manual de toda a extensão, buscando cortes, deformações e dureza anormal",
+      "C": "Somente após quedas ou cargas sobre a corda — o uso normal não a danifica",
+      "D": "Visualmente apenas nas extremidades, onde os danos são mais frequentes"
     },
-    "resposta": "C",
-    "explicacao": "Em soterramento, movimentar estruturas pode provocar colapso secundário. Equipes USAR (Urban Search and Rescue) têm treinamento específico.",
-    "categoria": "Salvamento Terrestre",
-    "nivel": "dificil"
-  },
-  {
-    "id": 119,
-    "pergunta": "Como localizar uma vítima consciente sob escombros?",
-    "alternativas": {
-      "A": "Aguardar a vítima sair sozinha",
-      "B": "Escavar sem critério",
-      "C": "Gritar o nome da vítima, bater com objeto metálico — ouvir resposta",
-      "D": "Usar detector de calor apenas"
-    },
-    "resposta": "C",
-    "explicacao": "A localização de vítimas em escombros usa comunicação sonora (voz e percussão) e, quando disponível, câmeras e detectores de CO₂.",
-    "categoria": "Salvamento Terrestre",
+    "resposta": "B",
+    "explicacao": "Cordas de resgate: inspeção PRÉ-USO de toda a extensão (manhã e após cada sessão de trabalho) — visual (danos, desgaste, coloração anormal) e tátil (rigidez que indica fibras internas rompidas, núcleo danificado). Após queda de fator 1 ou mais: corda aposentada imediatamente, mesmo sem dano visível.",
+    "categoria": "Salvamento em Altura",
     "nivel": "medio"
   },
   {
-    "id": 120,
-    "pergunta": "Qual é a técnica correta de imobilização de fratura em membro?",
+    "id": 119,
+    "pergunta": "O 'fator de queda' em sistemas de resgate em altura é usado para calcular:",
     "alternativas": {
-      "A": "Tracionar o membro para alinhar",
-      "B": "Não imobilizar — pode piorar",
-      "C": "Imobilizar o segmento fraturado incluindo as articulações acima e abaixo",
-      "D": "Imobilizar apenas o osso fraturado"
+      "A": "A porcentagem de resistência perdida pela corda após uma queda",
+      "B": "A velocidade máxima atingida pela vítima antes da retenção pelo sistema",
+      "C": "A severidade da queda, relacionando a distância de queda com o comprimento de corda disponível",
+      "D": "O número de ancoragens necessárias em função da altura do trabalho"
     },
     "resposta": "C",
-    "explicacao": "A imobilização de fratura deve incluir a articulação acima e abaixo do osso fraturado para evitar movimentação no transporte.",
-    "categoria": "Salvamento Terrestre",
+    "explicacao": "Fator de Queda = distância de queda ÷ comprimento de corda. Fator 0 = sem queda livre (corda sempre tensionada); Fator 1 = queda igual ao comprimento da corda; Fator 2 = máximo (ancoragem abaixo do ponto de trabalho). Quanto maior o fator, maior a força de choque transmitida ao sistema e à vítima.",
+    "categoria": "Salvamento em Altura",
     "nivel": "dificil"
   },
   {
-    "id": 121,
-    "pergunta": "Como tratar queimadura de segundo grau em vítima de acidente industrial?",
+    "id": 120,
+    "pergunta": "Em resgate de vítima acidentada no telhado de uma residência, antes de subir o socorrista deve:",
     "alternativas": {
-      "A": "Estourar as bolhas e secar",
-      "B": "Lavar com água corrente por 20 minutos e cobrir com curativo úmido",
-      "C": "Aplicar pasta de dente para resfriar",
-      "D": "Colocar gelo diretamente"
+      "A": "Subir imediatamente para avaliar a vítima antes de qualquer preparação",
+      "B": "Usar apenas o próprio cinto como ancoragem conectado a si mesmo",
+      "C": "Aguardar confirmação de que a vítima está consciente antes de qualquer ação de altura",
+      "D": "Verificar a integridade estrutural do telhado e instalar ancoragem no cumeeira ou estrutura resistente"
     },
-    "resposta": "B",
-    "explicacao": "O tratamento inicial de queimadura é resfriamento com água corrente (não gelada) por 20 min, nunca gelo ou substâncias caseiras.",
-    "categoria": "Salvamento Terrestre",
+    "resposta": "D",
+    "explicacao": "Telhados podem estar comprometidos pelo incêndio, chuva ou pela própria queda. A avaliação estrutural prévia (verificar madeiramento, telhas frouxas, áreas amolecidas) é obrigatória. Ancoragem no cumeeira (ponto mais alto e mais resistente) ou em estrutura sólida do edifício com fita de ancoragem.",
+    "categoria": "Salvamento em Altura",
+    "nivel": "medio"
+  },
+  {
+    "id": 121,
+    "pergunta": "A maca de resgate para içamento de vítima em altura deve posicioná-la em:",
+    "alternativas": {
+      "A": "Posição horizontal com leve inclinação da cabeça para cima (15-30 graus)",
+      "B": "Posição vertical com pés para baixo para facilitar o içamento pela abertura",
+      "C": "Posição completamente invertida (cabeça para baixo) para drenagem de fluidos",
+      "D": "Posição horizontal plana sem qualquer inclinação em qualquer direção"
+    },
+    "resposta": "A",
+    "explicacao": "A posição semi-horizontal (leve inclinação cefálica de 15-30°) durante o içamento mantém a perfusão cerebral, reduz o risco de vômito e aspiração, e facilita o monitoramento da vítima. Posição vertical (pé-baixo) pode causar síncope e piora do choque hipovolêmico.",
+    "categoria": "Salvamento em Altura",
     "nivel": "medio"
   },
   {
     "id": 122,
-    "pergunta": "O que a presença de pulso radial indica sobre a pressão arterial da vítima em triagem de campo?",
+    "pergunta": "Em resgate de pessoa com tentativa de suicídio em beiral de edifício, a abordagem inicial do bombeiro é:",
     "alternativas": {
-      "A": "Pulso radial presente — pressão sistólica > 80 mmHg",
-      "B": "Pulso radial indica pressão normal de 120/80",
-      "C": "Pulso radial ausente indica hipertensão",
-      "D": "Pulso carotídeo indica pressão baixa"
+      "A": "Aproximar-se e agarrar a pessoa imediatamente para evitar a queda",
+      "B": "Estabelecer comunicação verbal calma, manter distância segura e aguardar negociador especializado",
+      "C": "Gritar com a vítima para alertá-la do perigo e provocar reação de recuo",
+      "D": "Posicionar a maca de resgate embaixo sem qualquer comunicação com a vítima"
     },
-    "resposta": "A",
-    "explicacao": "Na avaliação rápida de campo, presença de pulso radial sugere PAS > 80 mmHg; presença apenas de pulso carotídeo sugere PAS > 60 mmHg.",
-    "categoria": "Salvamento Terrestre",
+    "resposta": "B",
+    "explicacao": "Em tentativa de suicídio em altura: NUNCA agarrar abruptamente (pode causar a queda em reação de susto). O protocolo é: manter comunicação calma, não confrontar, ganhar tempo para o negociador, preparar ancoragem e equipe de resgate discretamente, nunca deixar a vítima sem contato visual da equipe.",
+    "categoria": "Salvamento em Altura",
     "nivel": "dificil"
   },
   {
     "id": 123,
-    "pergunta": "Qual escala é usada para avaliar o nível de consciência de uma vítima de trauma?",
+    "pergunta": "O equipamento de bloqueio ascendente (tipo Jumar ou Petzl Croll) é utilizado para:",
     "alternativas": {
-      "A": "Escala de Ramsay — sedação",
-      "B": "Escala de Borg — esforço percebido",
-      "C": "Escala de Apgar — recém-nascido",
-      "D": "Escala de Glasgow — avalia abertura ocular, resposta verbal e motora"
+      "A": "Controlar a velocidade de descida em rapel de forma progressiva",
+      "B": "Criar vantagem mecânica em sistemas de içamento horizontal",
+      "C": "Subir na corda, bloqueando a descida e deslizando para cima quando empurrado",
+      "D": "Frear automaticamente a corda em caso de queda acidental do socorrista"
     },
-    "resposta": "D",
-    "explicacao": "A Escala de Glasgow avalia o nível de consciência com pontuação de 3 a 15, sendo crítico abaixo de 8.",
-    "categoria": "Salvamento Terrestre",
+    "resposta": "C",
+    "explicacao": "O ascendeur (bloqueador) desliza para cima na corda mas trava imediatamente ao receber carga descendente, funcionando como catraca. O Jumar (manual, para subida ativa de cordas) e o Croll (peitoral, conectado ao cinto, para progressão em cordata com dois ascendeurs) são os principais modelos.",
+    "categoria": "Salvamento em Altura",
     "nivel": "medio"
   },
   {
     "id": 124,
-    "pergunta": "Como são classificados os atendimentos de saúde quanto à prioridade de tempo?",
+    "pergunta": "Qual é o ângulo máximo recomendado nas ancoragens em 'V' (dois pontos) para não sobrecarregar excessivamente os pontos de fixação?",
     "alternativas": {
-      "A": "Vermelho, amarelo e verde",
-      "B": "Grave, moderado e leve",
-      "C": "Emergência (E), Urgência (U) e Não Urgência (NU)",
-      "D": "Crítico, sério e estável"
+      "A": "Qualquer ângulo até 180 graus, pois a força é dividida igualmente entre os dois pontos",
+      "B": "Máximo 120 graus, pois acima disso a carga em cada ponto ultrapassa o peso original",
+      "C": "Mínimo 90 graus — abaixo disso a carga é concentrada apenas em um dos pontos",
+      "D": "Máximo 60 graus entre os dois ramos da ancoragem"
     },
-    "resposta": "C",
-    "explicacao": "A classificação de Manchester e outros protocolos de urgência categorizam atendimentos conforme risco de deterioração clínica.",
-    "categoria": "Salvamento Terrestre",
-    "nivel": "medio"
+    "resposta": "D",
+    "explicacao": "Na ancoragem em V: com 60° cada ponto suporta 58% da carga total (ótimo); com 120° cada ponto suporta 100% (sem ganho); com 180° (paralelo) cada ponto suporta força infinita teoricamente. O ângulo ≤60° é o padrão de segurança. Acima de 90° já há sobrecarga significativa nos pontos.",
+    "categoria": "Salvamento em Altura",
+    "nivel": "dificil"
   },
   {
     "id": 125,
-    "pergunta": "Qual é a sequência correta ao encontrar adulto inconsciente no chão?",
+    "pergunta": "A vida útil de uma corda de resgate é determinada por:",
     "alternativas": {
-      "A": "Aplicar DEA imediatamente sem verificar",
-      "B": "Aguardar o SAMU para qualquer decisão",
-      "C": "Verificar responsividade, chamar ajuda e iniciar RCP se sem pulso",
-      "D": "Dar agua a vítima"
+      "A": "Combinação de idade (máximo 10 anos de fabricação), frequência de uso e histórico de cargas",
+      "B": "Apenas a data de vencimento impressa no fabricante, independente do uso",
+      "C": "Somente pela inspeção visual — cordas sem dano visível são sempre seguras",
+      "D": "Exclusivamente pelo número de quedas — cada queda desconta 2 anos da vida útil"
     },
-    "resposta": "C",
-    "explicacao": "O protocolo de parada cardiorrespiratória: checar responsividade, pedir ajuda/DEA, verificar respiração/pulso por até 10 segundos, iniciar RCP.",
-    "categoria": "Salvamento Terrestre",
-    "nivel": "facil"
+    "resposta": "A",
+    "explicacao": "Vida útil de cordas (UIAA/CE): máximo 10 anos do fabricante; uso intenso diário = 1 ano; uso semanal = até 5 anos; uso mensal = até 7 anos; armazenada sem uso = 10 anos. Corda que sofreu queda fator ≥1 = aposentadoria imediata. Fatores que reduzem: UV, calor, produtos químicos, abrasão.",
+    "categoria": "Salvamento em Altura",
+    "nivel": "dificil"
   },
   {
     "id": 126,
-    "pergunta": "O que define 'trabalho em altura' conforme NR-35?",
+    "pergunta": "A Norma Regulamentadora que trata especificamente de segurança em espaços confinados no Brasil é:",
     "alternativas": {
-      "A": "Apenas serviços em telhados",
-      "B": "Trabalho em caverna ou mina",
-      "C": "Qualquer serviço em escada",
-      "D": "Trabalho em altura — qualquer atividade acima de 2 metros com risco de queda"
+      "A": "NR-35 — Trabalho em Altura",
+      "B": "NR-33 — Segurança e Saúde nos Trabalhos em Espaços Confinados",
+      "C": "NR-10 — Segurança em Instalações Elétricas",
+      "D": "NR-15 — Atividades e Operações Insalubres"
     },
-    "resposta": "D",
-    "explicacao": "Pela NR-35, trabalho em altura é toda atividade executada acima de 2 metros do nível inferior com risco de queda.",
-    "categoria": "Salvamento em Altura",
+    "resposta": "B",
+    "explicacao": "A NR-33 (Portaria MTE 202/2006) é a norma específica para espaços confinados no Brasil. Define responsabilidades, requisitos de entrada, permissão de trabalho (PE), treinamento, vigia, equipe de resgate e equipamentos obrigatórios.",
+    "categoria": "Resgate em Espaço Confinado",
     "nivel": "facil"
   },
   {
     "id": 127,
-    "pergunta": "Qual cinto é obrigatório em trabalho em altura acima de 2 metros?",
+    "pergunta": "Segundo a NR-33, espaço confinado é definido como qualquer área ou ambiente que:",
     "alternativas": {
-      "A": "Cinto pélvico sem alças de perna",
-      "B": "Cinto tipo paraquedista (Tipo III) — distribui forças no corpo todo",
-      "C": "Cinto peitoral apenas",
-      "D": "Cinto abdominal simples (Tipo I)"
+      "A": "Possui volume interno inferior a 10 m³ e acesso restrito a uma única abertura",
+      "B": "Está completamente fechado, sem janelas, e possui atmosfera com CO2 acima de 1%",
+      "C": "Não foi projetado para ocupação humana contínua, tem meios limitados de entrada e saída e pode ter atmosfera perigosa",
+      "D": "Fica abaixo do nível do solo com profundidade superior a 1,5 metro"
     },
-    "resposta": "B",
-    "explicacao": "O cinto paraquedista distribui a força de impacto pelo tórax, pelve e coxas, evitando lesões graves em caso de queda.",
-    "categoria": "Salvamento em Altura",
+    "resposta": "C",
+    "explicacao": "NR-33 define espaço confinado pelos três critérios: 1) não projetado para ocupação humana contínua, 2) meios limitados de entrada/saída (tamanho, forma ou localização), 3) pode conter ou desenvolver atmosfera perigosa. Exemplos: poços, cisternas, silos, dutos, valas profundas.",
+    "categoria": "Resgate em Espaço Confinado",
     "nivel": "facil"
   },
   {
     "id": 128,
-    "pergunta": "O que é a 'síndrome do arnês' e por que é perigosa em trabalho em altura?",
+    "pergunta": "O documento obrigatório antes de qualquer entrada em espaço confinado é:",
     "alternativas": {
-      "A": "Câibra de escalada",
-      "B": "Tontura por altitude",
-      "C": "Lesão por esforço repetitivo",
-      "D": "Síndrome do arnês — compressão das veias femorais em suspensão estática"
+      "A": "Laudo de vistoria estrutural emitido por engenheiro civil responsável",
+      "B": "Declaração verbal do vigia de que a atmosfera está segura para entrada",
+      "C": "Ordem de serviço padrão da empresa, sem necessidade de documento específico",
+      "D": "Permissão de Entrada e Trabalho (PET), preenchida e assinada pelo supervisor de entrada"
     },
     "resposta": "D",
-    "explicacao": "A síndrome do arnês ocorre quando o trabalhador fica suspenso passivamente: o arnês comprime as veias femorais e compromete retorno venoso, podendo ser fatal.",
-    "categoria": "Salvamento em Altura",
-    "nivel": "dificil"
+    "explicacao": "A Permissão de Entrada e Trabalho (PET) é documento obrigatório pela NR-33, preenchido antes de cada entrada. Contém: identificação do espaço, data/hora, riscos identificados, medidas de controle, resultados das medições atmosféricas, EPIs necessários, equipe autorizada e assinatura do supervisor.",
+    "categoria": "Resgate em Espaço Confinado",
+    "nivel": "medio"
   },
   {
     "id": 129,
-    "pergunta": "Trabalhador inconsciente suspenso no arnês. Qual é a urgência do resgate?",
+    "pergunta": "As concentrações atmosféricas que tornam um espaço confinado IMEDIATAMENTE perigoso à vida (IDLH) incluem O2 abaixo de:",
     "alternativas": {
-      "A": "Aguardar o trabalhador se recuperar sozinho",
-      "B": "Resgate imediato — síndrome do arnês pode ser fatal em 30 minutos",
-      "C": "Aguardar ambulância no solo",
-      "D": "Lançar corda e pedir para subir"
+      "A": "16% de oxigênio na atmosfera",
+      "B": "10% de oxigênio na atmosfera",
+      "C": "18% de oxigênio na atmosfera",
+      "D": "12% de oxigênio na atmosfera"
     },
-    "resposta": "B",
-    "explicacao": "A síndrome do arnês pode ser fatal em 15 a 30 minutos. O resgate deve ser imediato, posicionando a vítima horizontal ao chegar ao solo.",
-    "categoria": "Salvamento em Altura",
+    "resposta": "A",
+    "explicacao": "Concentração normal de O2 = 20,9%. Deficiente: abaixo de 19,5%; IDLH (risco imediato à vida): abaixo de 16%. Enriquecida (risco de incêndio): acima de 23,5%. Com 16% ocorre comprometimento cognitivo grave; abaixo de 6% a inconsciência é imediata. O monitor de O2 é equipamento obrigatório.",
+    "categoria": "Resgate em Espaço Confinado",
     "nivel": "dificil"
   },
   {
     "id": 130,
-    "pergunta": "O que é a 'ancoragem' em um sistema de trabalho em altura?",
+    "pergunta": "O papel do VIGIA em operações em espaço confinado é:",
     "alternativas": {
-      "A": "Polia — muda direção da carga",
-      "B": "Freio — controla descida",
-      "C": "Conector — liga componentes",
-      "D": "Ancoragem — ponto fixo que suporta a carga do sistema"
+      "A": "Entrar primeiro para verificar a segurança antes dos demais trabalhadores",
+      "B": "Permanecer externamente, monitorar os entrantes e acionar socorro sem entrar no espaço",
+      "C": "Operar as ferramentas elétricas externas para apoio à equipe interna",
+      "D": "Registrar o tempo de permanência de cada trabalhador e controlar as pausas"
     },
-    "resposta": "D",
-    "explicacao": "A ancoragem é o ponto de fixação do sistema ao local. Deve suportar no mínimo 15 kN (aproximadamente 1.500 kgf) conforme norma.",
-    "categoria": "Salvamento em Altura",
+    "resposta": "B",
+    "explicacao": "O vigia (NR-33) deve: permanecer FORA do espaço durante toda a operação, manter contato contínuo com os entrantes, monitorar a atmosfera, controlar o número de pessoas no interior, acionar o plano de resgate em caso de emergência — NUNCA entrar sem substituto treinado e equipado no posto.",
+    "categoria": "Resgate em Espaço Confinado",
     "nivel": "medio"
   },
   {
     "id": 131,
-    "pergunta": "O que é 'fator de queda' em sistemas de proteção contra quedas?",
+    "pergunta": "Em resgate de vítima inconsciente em espaço confinado com atmosfera tóxica desconhecida, o socorrista de entrada obrigatoriamente usa:",
     "alternativas": {
-      "A": "Fator de queda — relação entre comprimento da queda e do cabo",
-      "B": "Peso máximo do trabalhador",
-      "C": "Força máxima do mosquetão",
-      "D": "Coeficiente de elasticidade da corda"
+      "A": "Máscara semifacial com filtro combinado para gases e vapores orgânicos",
+      "B": "Respirador purificador de ar motorizado (PAPR) com filtro HEPA P100",
+      "C": "SCBA (aparelho de respiração autônoma com ar comprimido) — máscaras de filtro são proibidas",
+      "D": "Máscara cirúrgica N95 com escudo facial para proteção contra respingos"
     },
-    "resposta": "A",
-    "explicacao": "Fator de queda = comprimento da queda / comprimento do cabo. Fator 2 é o pior cenário (queda acima do ponto de ancoragem).",
-    "categoria": "Salvamento em Altura",
+    "resposta": "C",
+    "explicacao": "Em atmosfera IDLH ou desconhecida, APENAS SCBA (pressão positiva) garante proteção absoluta. Máscaras de filtro falham em: deficiência de O2, concentrações acima da capacidade do filtro e gases não filtráveis. PAPR também falha em deficiência de O2. SCBA é requisito mínimo absoluto da NR-33.",
+    "categoria": "Resgate em Espaço Confinado",
     "nivel": "dificil"
   },
   {
     "id": 132,
-    "pergunta": "Qual dispositivo trava automaticamente em caso de queda em trabalho em altura?",
+    "pergunta": "O detector multigás usado antes e durante a entrada em espaço confinado deve medir obrigatoriamente:",
     "alternativas": {
-      "A": "Fita de poliéster sem dispositivo",
-      "B": "Trava-quedas retrátil — trava automaticamente ao detectar aceleração de queda",
-      "C": "Corda estática presa ao cinto",
-      "D": "Mosquetão sem trava automática"
+      "A": "Apenas CO2 e temperatura interna do espaço confinado",
+      "B": "Somente O2 e umidade relativa do ar",
+      "C": "CO, CO2, NH3 e temperatura, nessa ordem de prioridade",
+      "D": "O2, LEL (limite explosivo inferior), CO e H2S simultaneamente"
     },
-    "resposta": "B",
-    "explicacao": "O trava-quedas retrátil possui mecanismo centrífugo: em velocidade normal retrai normalmente; em queda, trava em milissegundos.",
-    "categoria": "Salvamento em Altura",
+    "resposta": "D",
+    "explicacao": "O monitor multigás padrão para espaço confinado (NR-33): O2 (deficiência ou enriquecimento), LEL % (gases inflamáveis — alarme a 10% do LEL), CO em ppm (alarme a 25 ppm — TWA), H2S em ppm (alarme a 1 ppm — TLV-Ceiling 10 ppm). A medição deve ser feita de cima para baixo (gases mais leves e mais pesados).",
+    "categoria": "Resgate em Espaço Confinado",
     "nivel": "medio"
   },
   {
     "id": 133,
-    "pergunta": "O que é um sistema de hasteamento em salvamento em altura?",
+    "pergunta": "O H2S (sulfeto de hidrogênio) é especialmente perigoso em espaços confinados porque:",
     "alternativas": {
-      "A": "Sistema de freio para corrida",
-      "B": "Sistema de ventilação forçada",
-      "C": "Sistema de hasteamento — polias e cordas para içar carga ou vítima",
-      "D": "Sistema de rappel para descida"
+      "A": "Paralisa o olfato em altas concentrações, e a vítima perde a capacidade de detectar o gás pelo cheiro",
+      "B": "É mais leve que o ar e se acumula no topo do espaço onde os socorristas respiram",
+      "C": "Reage com metais e destrói os equipamentos de detecção antes de ser identificado",
+      "D": "Tem cor amarelada que confunde com vapor d'água, dificultando a identificação visual"
     },
-    "resposta": "C",
-    "explicacao": "Sistemas de polias (hasteamento) multiplicam a força aplicada, permitindo içar vítimas ou equipamentos pesados com menor esforço.",
-    "categoria": "Salvamento em Altura",
-    "nivel": "medio"
+    "resposta": "A",
+    "explicacao": "O H2S (cheiro de ovo podre) causa paralisia olfativa acima de 100-150 ppm — a vítima deixa de sentir o odor e acredita estar segura. A 300 ppm causa inconsciência em minutos; a 1000 ppm é imediatamente fatal. É mais pesado que o ar (acumula em pontos baixos). TLV-TWA: 1 ppm.",
+    "categoria": "Resgate em Espaço Confinado",
+    "nivel": "dificil"
   },
   {
     "id": 134,
-    "pergunta": "Como se chama a técnica de descida controlada em corda utilizada por bombeiros?",
+    "pergunta": "Antes de entrar em um espaço confinado suspeito de atmosfera deficiente em O2, o procedimento correto é:",
     "alternativas": {
-      "A": "Tirolesa — travessia horizontal",
-      "B": "Jumaring — descida em corda simples",
-      "C": "Rappel — técnica de descida controlada em corda dupla",
-      "D": "Rapel — subida em corda"
+      "A": "Entrar rapidamente para avaliar a situação e sair antes de ser afetado",
+      "B": "Ventilar forçosamente com soprador/exaustor por tempo suficiente e re-medir a atmosfera antes de qualquer entrada",
+      "C": "Colocar apenas a cabeça dentro do espaço para farejar e avaliar o odor",
+      "D": "Fazer ventilação natural abrindo a tampa e aguardar 5 minutos sem medir"
     },
-    "resposta": "C",
-    "explicacao": "Rappel (ou rapel) é a técnica de descida controlada usando atrito em dispositivo (oito, grigri, rack) sobre corda ancorada.",
-    "categoria": "Salvamento em Altura",
-    "nivel": "facil"
+    "resposta": "B",
+    "explicacao": "A ventilação mecânica forçada (soprador de ar fresco ou exaustor) é obrigatória antes e durante trabalhos em espaço confinado com risco atmosférico. Após ventilar, re-medir com detector ANTES de entrar. Ventilação natural é insuficiente e não confiável. O tempo de ventilação depende do volume e do contaminante.",
+    "categoria": "Resgate em Espaço Confinado",
+    "nivel": "medio"
   },
   {
     "id": 135,
-    "pergunta": "Quais verificações são obrigatórias antes de iniciar um rappel de resgate?",
+    "pergunta": "A linha de vida (lifeline) conectada à vítima durante o resgate em espaço confinado serve para:",
     "alternativas": {
-      "A": "Nenhuma verificação — confiar no equipamento",
-      "B": "Verificar apenas o cinto",
-      "C": "Verificar ancoragem, cinto, conector e comunicação com a equipe",
-      "D": "Verificar apenas o clima"
+      "A": "Medir a profundidade máxima de descida segura no espaço confinado",
+      "B": "Servir de guia para o socorrista se orientar no interior em caso de perda de visibilidade",
+      "C": "Permitir a retirada mecânica da vítima sem que outro socorrista precise entrar no espaço",
+      "D": "Conectar o monitor de gases à vítima para monitoramento contínuo da atmosfera"
     },
     "resposta": "C",
-    "explicacao": "Antes de qualquer descida em rappel: ABCDE — Ancoragem, Baudrier (cinto), Conector, Dispositivo de freio, Equipe (comunicação).",
-    "categoria": "Salvamento em Altura",
+    "explicacao": "A lifeline é conectada ao cinto da vítima ANTES da entrada. Em emergência, a equipe externa puxa a vítima para fora mecanicamente (trípode + guincho ou tração manual) sem necessitar de entrada adicional. Este é o princípio básico de resgate em espaço confinado: resgatar de fora.",
+    "categoria": "Resgate em Espaço Confinado",
     "nivel": "medio"
   },
   {
     "id": 136,
-    "pergunta": "O que é a 'linha de belay' e por que é obrigatória no rappel de resgate?",
+    "pergunta": "O trípode de resgate posicionado sobre a abertura do espaço confinado tem como função principal:",
     "alternativas": {
-      "A": "Descer sem dispositivo para agilizar",
-      "B": "Usar dois freios no mesmo ponto",
-      "C": "Usar corda molhada para mais atrito",
-      "D": "Linha de segurança independente (belay) — corda de segurança adicional"
+      "A": "Impedir a entrada de pessoas não autorizadas na área do espaço confinado",
+      "B": "Suportar o soprador de ventilação posicionado sobre a abertura",
+      "C": "Medir a concentração de gases na coluna de ar acima do espaço confinado",
+      "D": "Servir de ponto de ancoragem e sistema de içamento/descida sobre a abertura do espaço"
     },
     "resposta": "D",
-    "explicacao": "Em rappel de resgate, sempre deve haver uma linha de segurança (belay) independente operada por um segundo socorrista.",
-    "categoria": "Salvamento em Altura",
-    "nivel": "dificil"
+    "explicacao": "O trípode (com guincho ou sistema de roldana) é posicionado diretamente sobre a abertura do espaço confinado para: içar e baixar equipamentos/socorristas com controle, e extrair a vítima mecanicamente pela abertura. Deve ser ancoragem certificada, capaz de suportar no mínimo o peso combinado de vítima + socorrista + equipamento.",
+    "categoria": "Resgate em Espaço Confinado",
+    "nivel": "facil"
   },
   {
     "id": 137,
-    "pergunta": "Qual técnica permite ao socorrista descer junto com uma vítima inconsciente?",
+    "pergunta": "Em espaço confinado com LEL acima de 10% do limite explosivo inferior, a conduta é:",
     "alternativas": {
-      "A": "Sistema de içamento — vítima sobe",
-      "B": "Sistema de ancoragem estática",
-      "C": "Sistema D (Direct Action) — socorrista desce junto com a vítima",
-      "D": "Sistema de tirolesa — travessia horizontal"
+      "A": "Proibir qualquer entrada, eliminar fontes de ignição e ventilar até LEL cair abaixo de 10%",
+      "B": "Entrar apenas com equipamento antiestático e completar a tarefa rapidamente",
+      "C": "Usar ventilação com exaustor elétrico para acelerar a remoção do gás inflamável",
+      "D": "Aceitar o risco se o trabalho for considerado urgente pelo supervisor de entrada"
     },
-    "resposta": "C",
-    "explicacao": "No sistema D (ou pick-off), o socorrista desce junto com a vítima presa no mesmo ponto de ancoragem, sendo mais rápido em emergência.",
-    "categoria": "Salvamento em Altura",
+    "resposta": "A",
+    "explicacao": "LEL acima de 10% = proibição absoluta de entrada (risco de explosão). A ventilação deve ser feita com equipamento à prova de explosão (Ex-proof) — nunca com exaustor elétrico comum (faísca). Eliminar TODAS as fontes de ignição no raio de segurança. Só reentrar após LEL < 10% confirmado por medição.",
+    "categoria": "Resgate em Espaço Confinado",
     "nivel": "dificil"
   },
   {
     "id": 138,
-    "pergunta": "Como inspecionar um mosquetão antes de uso em trabalho em altura?",
+    "pergunta": "Quando ocorre a chamada 'múltipla vítima em espaço confinado' (tentativa de resgate mal-sucedida), o fenômeno é causado porque:",
     "alternativas": {
-      "A": "Confiar na última inspeção registrada",
-      "B": "Apenas verificar se fecha o gatilho",
-      "C": "Verificar apenas o peso do equipamento",
-      "D": "Inspeção visual: desgaste, cortes, deformações, corrosão e data de fabricação"
+      "A": "O espaço colapsou estruturalmente prendendo toda a equipe simultaneamente",
+      "B": "Socorristas entram sem EPI adequado para salvar colegas e também são incapacitados pela atmosfera perigosa",
+      "C": "O equipamento de resgate falhou causando queda de toda a equipe de resgate",
+      "D": "O produto químico se torna mais tóxico ao contato com o suor dos socorristas"
     },
-    "resposta": "D",
-    "explicacao": "Mosquetões e conectores devem ser inspecionados antes de cada uso: buscar trincas, deformações, corrosão e verificar o mecanismo de fechamento.",
-    "categoria": "Salvamento em Altura",
-    "nivel": "medio"
+    "resposta": "B",
+    "explicacao": "A maioria das mortes em espaços confinados ocorre em resgates mal-sucedidos: alguém entra sem equipamento para socorrer um colega inconsciente e também é incapacitado. O ciclo se repete com cada nova pessoa que entra. NUNCA entre em espaço confinado com atmosfera perigosa sem SCBA e ancoragem, independentemente da urgência aparente.",
+    "categoria": "Resgate em Espaço Confinado",
+    "nivel": "dificil"
   },
   {
     "id": 139,
-    "pergunta": "Qual nó é usado como autosseguro deslizante em corda de rappel?",
+    "pergunta": "A ventilação em espaço confinado deve ser feita preferencialmente com:",
     "alternativas": {
-      "A": "Nó quadrado — para junção de cordas",
-      "B": "Nó de prussik — permite subir em corda e bloqueia em carga",
-      "C": "Nó borboleta — para meio de corda",
-      "D": "Nó de oito — para ancoragem fixa"
+      "A": "Oxigênio puro para repor rapidamente a concentração na atmosfera interna",
+      "B": "CO2 comprimido para deslocar os gases tóxicos mais leves por ser mais pesado",
+      "C": "Ar fresco do ambiente externo (não oxigênio puro), usando soprador com mangueira que alcance o fundo",
+      "D": "Ventilação natural por diferença de pressão entre a abertura superior e inferior"
     },
-    "resposta": "B",
-    "explicacao": "O prussik é um nó de fricção que desliza quando tensionado levemente, mas bloqueia com carga total. Usado como nó de segurança e para subida.",
-    "categoria": "Salvamento em Altura",
+    "resposta": "C",
+    "explicacao": "NUNCA ventilar espaço confinado com oxigênio puro — concentrações acima de 23,5% tornam qualquer material combustível extremamente inflamável (roupas, gordura corporal, plásticos). Usar AR COMPRIMIDO ou soprador de ar atmosférico. A mangueira deve chegar ao fundo para renovar a camada mais pesada/tóxica.",
+    "categoria": "Resgate em Espaço Confinado",
     "nivel": "dificil"
   },
   {
     "id": 140,
-    "pergunta": "Qual é o requisito mínimo de ancoragem para sistemas de salvamento em altura?",
+    "pergunta": "Após o resgate de vítima de espaço confinado com intoxicação por CO, o tratamento prioritário é:",
     "alternativas": {
-      "A": "Parafuso em divisória de gesso",
-      "B": "Ancoragem múltipla — pelo menos dois pontos independentes",
-      "C": "Um único ponto muito robusto",
-      "D": "Ancoragem em estrutura de gesso"
+      "A": "Aplicar respiração boca a boca mesmo se a vítima respirar espontaneamente",
+      "B": "Manter a vítima em repouso sem O2 suplementar para evitar hiperóxia",
+      "C": "Induzir vômito para eliminar o CO absorvido pelo sistema digestivo",
+      "D": "Remoção imediata para área fresca, oxigenoterapia a 100% e avaliação para câmara hiperbárica"
     },
-    "resposta": "B",
-    "explicacao": "Sistemas de salvamento exigem ancoragem redundante: dois ou mais pontos independentes que garantam segurança mesmo se um falhar.",
-    "categoria": "Salvamento em Altura",
+    "resposta": "D",
+    "explicacao": "Intoxicação por CO: O2 a 100% (reduz meia-vida da COHb de 5h para 60-90 min); câmara hiperbárica (pressão 3 atm: meia-vida cai para 20-30 min) em casos graves (inconsciência, COHb >25%, gestantes, cardiopatas). CO não é eliminado por vômito — é absorvido pelos pulmões.",
+    "categoria": "Resgate em Espaço Confinado",
     "nivel": "dificil"
   },
   {
     "id": 141,
-    "pergunta": "Qual risco específico de trabalho em altura afeta as pessoas no nível inferior?",
+    "pergunta": "Qual é o protocolo correto quando o vigia perde comunicação com o entrante em espaço confinado?",
     "alternativas": {
-      "A": "Avaliação do risco de queda de materiais sobre a equipe abaixo",
-      "B": "Verificar a temperatura ambiente",
-      "C": "Verificar o horário do turno",
-      "D": "Avaliar o custo do equipamento"
+      "A": "Acionar imediatamente o plano de resgate e chamar socorro especializado — nunca entrar sozinho",
+      "B": "Entrar no espaço imediatamente para verificar o estado do entrante",
+      "C": "Aguardar 5 minutos antes de acionar o resgate para evitar alarmes falsos",
+      "D": "Gritar pelo nome do entrante por 30 segundos e depois acionar o resgate"
     },
     "resposta": "A",
-    "explicacao": "Em trabalho em altura, o risco de queda de ferramentas e materiais sobre pessoas abaixo é um dos principais perigos — isolar a área abaixo é obrigatório.",
-    "categoria": "Salvamento em Altura",
+    "explicacao": "Perda de comunicação = emergência imediata. O vigia ACIONA O PLANO DE RESGATE e NÃO entra. Um vigia dentro do espaço vira segunda vítima e não há mais ninguém externamente para acionar socorro. O tempo de resposta do resgate já foi calculado no plano de emergência — qualquer atraso reduz chances de sobrevida.",
+    "categoria": "Resgate em Espaço Confinado",
     "nivel": "medio"
   },
   {
     "id": 142,
-    "pergunta": "Em ambiente de trabalho em altura, o protocolo STOP significa:",
+    "pergunta": "Em espaço confinado com presença de material biológico (esgoto, chorume), o risco adicional ao CO e H2S é:",
     "alternativas": {
-      "A": "START — triagem de múltiplas vítimas",
-      "B": "STOP — Parar, Pensar, Observar, Proceder (ou Planejar)",
-      "C": "PASS — Puxar, Apontar, Pressionar, Varrer",
-      "D": "ABCDE — protocolo de trauma"
+      "A": "Ozônio (O3) produzido pela decomposição de matéria orgânica em altas temperaturas",
+      "B": "Metano (CH4) produzido pela decomposição anaeróbica, que pode estar em concentração explosiva",
+      "C": "Cloro (Cl2) liberado pela reação do esgoto com tubulações galvanizadas",
+      "D": "Dióxido de enxofre (SO2) gerado pela oxidação do sulfeto em ambientes úmidos"
     },
     "resposta": "B",
-    "explicacao": "O protocolo STOP é usado em situações de dúvida em ambiente de risco: pare, pense, observe o cenário e só então proceda com segurança.",
-    "categoria": "Salvamento em Altura",
-    "nivel": "medio"
+    "explicacao": "Espaços com esgoto ou matéria orgânica em decomposição anaeróbica geram a 'mistura letal': H2S (tóxico, mais pesado), CH4 (explosivo, mais leve — LEL 5%, UEL 15%) e CO2 (asfixiante, mais pesado). O detector de LEL é essencial. Espaços de esgoto estão entre os mais perigosos — maior número de mortes por espaço confinado no Brasil.",
+    "categoria": "Resgate em Espaço Confinado",
+    "nivel": "dificil"
   },
   {
     "id": 143,
-    "pergunta": "Como manter comunicação eficiente em operação de salvamento em altura com ruído e distância?",
+    "pergunta": "A comunicação entre vigia e entrante em espaço confinado deve ser:",
     "alternativas": {
-      "A": "Apenas gestos improvisados",
-      "B": "Comunicação verbal clara + sinal de mão predefinido entre equipe",
-      "C": "Gritar em direção ao vento",
-      "D": "Rádio somente após a operação"
+      "A": "Apenas no início e ao final da operação para não distrair o trabalhador",
+      "B": "Somente por sinais de puxão na corda lifeline — comunicação verbal é desnecessária",
+      "C": "Contínua durante toda a operação, com protocolo de resposta periódica (ex: a cada 5 minutos)",
+      "D": "Opcional se o espaço tiver menos de 3 metros de profundidade e boa iluminação"
     },
-    "resposta": "B",
-    "explicacao": "Em operações em altura, ruído e distância prejudicam comunicação. Sinais de mão padronizados complementam comunicação por rádio ou voz.",
-    "categoria": "Salvamento em Altura",
-    "nivel": "facil"
+    "resposta": "C",
+    "explicacao": "A NR-33 exige comunicação contínua vigia-entrante. O protocolo inclui: check verbal periódico (a cada 5 min é padrão), rádio comunicador ou sinal por corda (1 puxão = OK; 2 = problema; 3 = resgate). A perda do check é tratada como emergência imediata. Comunicação visual não é suficiente em espaços profundos ou com curvas.",
+    "categoria": "Resgate em Espaço Confinado",
+    "nivel": "medio"
   },
   {
     "id": 144,
-    "pergunta": "Qual requisito médico é obrigatório para trabalho em altura conforme NR-35?",
+    "pergunta": "O treinamento obrigatório para trabalho em espaço confinado segundo a NR-33 deve ser realizado:",
     "alternativas": {
-      "A": "Apenas treinamento técnico é suficiente",
-      "B": "Avaliação apenas após o serviço",
-      "C": "Qualquer pessoa pode realizar trabalho em altura",
-      "D": "Avaliação médica prévia e análise das condições de saúde do trabalhador"
+      "A": "Apenas uma vez na admissão do trabalhador, com validade vitalícia",
+      "B": "A cada cinco anos, com reciclagem obrigatória apenas após acidente",
+      "C": "Somente para trabalhadores que entrarão no espaço — o vigia não precisa de treinamento específico",
+      "D": "Antes do início das atividades e sempre que houver mudança nas condições ou nos procedimentos"
     },
     "resposta": "D",
-    "explicacao": "A NR-35 exige Aptidão Clínica certificada por médico do trabalho antes de qualquer trabalhador exercer atividade em altura.",
-    "categoria": "Salvamento em Altura",
+    "explicacao": "A NR-33 exige treinamento inicial (antes de qualquer entrada) e reciclagem sempre que: houver mudança nos procedimentos, introdução de novos equipamentos, mudança no tipo de espaço confinado, ou após qualquer incidente/acidente. O VIGIA precisa de treinamento específico — é ele que ativa o resgate.",
+    "categoria": "Resgate em Espaço Confinado",
     "nivel": "medio"
   },
   {
     "id": 145,
-    "pergunta": "Qual é a hierarquia de controle de riscos em trabalho em altura?",
+    "pergunta": "Em cisterna de água potável vazia sendo acessada para manutenção, o principal risco atmosférico é:",
     "alternativas": {
-      "A": "Proteção coletiva e individual são equivalentes",
-      "B": "Apenas EPI é obrigatório — sem proteção coletiva",
-      "C": "EPI individual é sempre prioritário",
-      "D": "Proteção coletiva tem prioridade sobre individual (guarda-corpo antes de cinto)"
+      "A": "Deficiência de oxigênio por consumo biológico de bactérias e oxidação das paredes",
+      "B": "Excesso de cloro residual da última desinfecção em concentração IDLH",
+      "C": "Explosão por acúmulo de hidrogênio produzido pela eletrólise da água residual",
+      "D": "Concentração de CO2 acima do normal por respiração de trabalhadores anteriores"
     },
-    "resposta": "D",
-    "explicacao": "A hierarquia de controle de riscos: eliminação > substituição > proteção coletiva (guarda-corpo, andaime) > proteção individual (cinto).",
-    "categoria": "Salvamento em Altura",
+    "resposta": "A",
+    "explicacao": "Cisternas 'limpas' são traiçoeiras: parecem seguras mas podem ter atmosfera deficiente em O2 por: consumo biológico de bactérias aeróbicas nas paredes úmidas, oxidação de metais e concreto, baixa renovação de ar. A medição com detector é OBRIGATÓRIA mesmo em espaços aparentemente seguros — a deficiência de O2 não tem cheiro.",
+    "categoria": "Resgate em Espaço Confinado",
     "nivel": "dificil"
   }
 ]
