@@ -1,1892 +1,2032 @@
 [
   {
     "id": 1,
-    "pergunta": "Pergunta 1 sobre Combate a incêndio",
+    "pergunta": "Qual é o princípio básico para extinção de um incêndio?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Aplicar acelerador de combustão",
+      "B": "Misturar gases inertes sem técnica",
+      "C": "Retirar o oxigênio, o calor ou o combustível",
+      "D": "Aumentar a pressão do ambiente"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Combate a incêndio",
+    "resposta": "C",
+    "explicacao": "O triângulo do fogo é composto por combustível, comburente (oxigênio) e calor. Eliminar qualquer um desses elementos extingue o fogo.",
     "categoria": "Combate a incêndio",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 2,
-    "pergunta": "Pergunta 2 sobre Combate a incêndio",
+    "pergunta": "Um quadro elétrico em chamas representa qual classe de incêndio?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Incêndio Classe C — equipamentos elétricos energizados",
+      "B": "Incêndio Classe D — metais combustíveis",
+      "C": "Incêndio Classe B — líquidos inflamáveis",
+      "D": "Incêndio Classe A — sólidos comuns"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Combate a incêndio",
+    "explicacao": "Classe C engloba equipamentos elétricos sob tensão. Nunca use água, pois há risco de choque elétrico.",
     "categoria": "Combate a incêndio",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 3,
-    "pergunta": "Pergunta 3 sobre Combate a incêndio",
+    "pergunta": "Qual método é mais indicado para combater incêndio Classe A?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Abafamento com pó químico",
+      "B": "Quebra de cadeia com halon",
+      "C": "Abafamento com CO₂",
+      "D": "Resfriamento com água"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Combate a incêndio",
+    "resposta": "D",
+    "explicacao": "Incêndios Classe A (sólidos comuns como madeira e papel) são combatidos principalmente pelo resfriamento com água.",
     "categoria": "Combate a incêndio",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 4,
-    "pergunta": "Pergunta 4 sobre Combate a incêndio",
+    "pergunta": "Ao tampar uma frigideira em chamas, qual método de extinção é utilizado?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Isolamento — retirada do combustível",
+      "B": "Resfriamento — retirada do calor",
+      "C": "Abafamento — retirada do comburente",
+      "D": "Quebra de cadeia — interrupção da reação"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Combate a incêndio",
+    "resposta": "C",
+    "explicacao": "Tampar um recipiente em chamas retira o oxigênio (comburente), caracterizando o método de abafamento.",
     "categoria": "Combate a incêndio",
     "nivel": "medio"
   },
   {
     "id": 5,
-    "pergunta": "Pergunta 5 sobre Combate a incêndio",
+    "pergunta": "Qual é a posição correta para operar um extintor em área aberta?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Neutro ao vento, agachado, bico no meio das chamas",
+      "B": "Favor do vento, de joelhos, bico no fogo",
+      "C": "Contra o vento, em pé, bico no teto",
+      "D": "A favor do vento, em pé, bico na base"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Combate a incêndio",
+    "resposta": "B",
+    "explicacao": "O correto é posicionar-se a favor do vento para evitar que o agente extintor ou o calor retorne ao operador, manter baixo centro de gravidade e mirar na base das chamas.",
     "categoria": "Combate a incêndio",
     "nivel": "medio"
   },
   {
     "id": 6,
-    "pergunta": "Pergunta 6 sobre Combate a incêndio",
+    "pergunta": "Qual é a primeira medida ao chegar a um incêndio em edificação?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Isolamento da área e controle do perímetro",
+      "B": "Abertura de janelas para ventilar o local",
+      "C": "Evacuação apenas de quem solicitou",
+      "D": "Início imediato do combate sem avaliação"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Combate a incêndio",
+    "explicacao": "A primeira ação é sempre isolar a área e controlar o perímetro para evitar propagação e proteger vítimas.",
     "categoria": "Combate a incêndio",
     "nivel": "medio"
   },
   {
     "id": 7,
-    "pergunta": "Pergunta 7 sobre Combate a incêndio",
+    "pergunta": "Incêndio em posto de gasolina se enquadra em qual classe?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Classe C — equipamentos elétricos",
+      "B": "Classe A — sólidos comuns",
+      "C": "Classe B — líquidos e gases inflamáveis",
+      "D": "Classe D — metais combustíveis"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Combate a incêndio",
+    "resposta": "C",
+    "explicacao": "Gasolina, álcool e GLP são combustíveis líquidos ou gasosos, enquadrando-se na Classe B.",
     "categoria": "Combate a incêndio",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 8,
-    "pergunta": "Pergunta 8 sobre Combate a incêndio",
+    "pergunta": "Para combater incêndio em equipamento elétrico energizado, qual agente é indicado?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Areia úmida",
+      "B": "Água pressurizada",
+      "C": "Pó químico seco ou CO₂",
+      "D": "Espuma mecânica em jato direto"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Combate a incêndio",
+    "resposta": "C",
+    "explicacao": "Para metais combustíveis (Classe D), como magnésio e titânio, usam-se agentes especiais. Para Classe C usa-se CO₂ ou pó seco, nunca água.",
     "categoria": "Combate a incêndio",
     "nivel": "medio"
   },
   {
     "id": 9,
-    "pergunta": "Pergunta 9 sobre Combate a incêndio",
+    "pergunta": "O que é ponto de fulgor de um líquido inflamável?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Ponto de fulgor indica que o material não pode se inflamar",
+      "B": "Ponto de fulgor é a temperatura mínima para ignição momentânea",
+      "C": "Ponto de fulgor e ponto de combustão são sinônimos",
+      "D": "Ponto de fulgor é a temperatura de ebulição do combustível"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Combate a incêndio",
+    "resposta": "B",
+    "explicacao": "O ponto de fulgor é a menor temperatura em que um líquido produz vapores suficientes para inflamar momentaneamente ao contato com uma fonte de ignição.",
     "categoria": "Combate a incêndio",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 10,
-    "pergunta": "Pergunta 10 sobre Combate a incêndio",
+    "pergunta": "O fogo se propaga para andares superiores por gases quentes em circulação. Qual mecanismo é esse?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Propagação por condução — transferência por contato sólido",
+      "B": "Propagação por irradiação — transferência por ondas de calor",
+      "C": "Propagação por explosão — transferência por onda de pressão",
+      "D": "Propagação por convecção — transferência por gases quentes"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Combate a incêndio",
+    "resposta": "D",
+    "explicacao": "A convecção é a transferência de calor por movimento de fluidos (gases quentes sobem e aquecem novos materiais).",
     "categoria": "Combate a incêndio",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 11,
-    "pergunta": "Pergunta 11 sobre Combate a incêndio",
+    "pergunta": "Ao abrir uma porta em ambiente com fogo, há uma explosão para fora. Esse fenômeno é chamado de:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Backdraft — entrada de oxigênio em ambiente superaquecido",
+      "B": "Boilover — expulsão de óleo aquecido por vapor d'água",
+      "C": "Bleve — explosão de recipiente pressurizado",
+      "D": "Flashover — ignição simultânea de todos os materiais do ambiente"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Combate a incêndio",
+    "explicacao": "Backdraft ocorre quando oxigênio entra repentinamente em ambiente com gases superaquecidos, causando explosão.",
     "categoria": "Combate a incêndio",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 12,
-    "pergunta": "Pergunta 12 sobre Combate a incêndio",
+    "pergunta": "Qual é a prioridade máxima na chegada a um incêndio com vítimas presas?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Cortar a energia elétrica antes de qualquer ação",
+      "B": "Aguardar o CBMM chegar",
+      "C": "Iniciar o combate ao fogo imediatamente",
+      "D": "Verificar se há vítimas antes de iniciar o combate"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Combate a incêndio",
+    "resposta": "D",
+    "explicacao": "O salvamento de vítimas tem prioridade sobre o combate ao fogo. Vida sempre em primeiro lugar.",
     "categoria": "Combate a incêndio",
     "nivel": "medio"
   },
   {
     "id": 13,
-    "pergunta": "Pergunta 13 sobre Combate a incêndio",
+    "pergunta": "Em qual fenômeno todos os materiais de um cômodo entram em ignição simultaneamente?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Backdraft — explosão por entrada de oxigênio",
+      "B": "Flashover — ignição generalizada do ambiente",
+      "C": "Bleve — explosão de recipiente",
+      "D": "Boilover — expulsão de óleo"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Combate a incêndio",
+    "resposta": "B",
+    "explicacao": "Flashover é o momento em que todos os materiais do ambiente atingem temperatura de ignição simultaneamente, tornando o ambiente insuportável.",
     "categoria": "Combate a incêndio",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 14,
-    "pergunta": "Pergunta 14 sobre Combate a incêndio",
+    "pergunta": "Ao utilizar um extintor, onde deve ser direcionado o jato do agente extintor?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Aplicar o agente em arco amplo",
+      "B": "Aplicar o agente extintor na base das chamas",
+      "C": "Aplicar o agente no topo das chamas",
+      "D": "Molhar o teto para resfriamento geral"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Combate a incêndio",
+    "resposta": "B",
+    "explicacao": "Mirar na base das chamas atinge a fonte do combustível, extinguindo o fogo de forma eficiente.",
     "categoria": "Combate a incêndio",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 15,
-    "pergunta": "Pergunta 15 sobre Combate a incêndio",
+    "pergunta": "O que é a técnica de 'corta-fogo' utilizada em incêndios florestais?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Isolamento químico — neutralização do combustível",
+      "B": "Corta-fogo — faixa sem combustível para barrar propagação",
+      "C": "Abafamento antecipado — cobrir o combustível",
+      "D": "Resfriamento preventivo — molhar áreas adjacentes"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Combate a incêndio",
+    "resposta": "B",
+    "explicacao": "O corta-fogo é uma técnica usada especialmente em incêndios florestais, removendo vegetação para criar barreira sem combustível.",
     "categoria": "Combate a incêndio",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 16,
-    "pergunta": "Pergunta 1 sobre Extintores",
+    "pergunta": "Qual extintor é indicado para incêndio em arquivo de papel?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "CO₂ — metais Classe D",
+      "B": "Espuma — gases Classe C",
+      "C": "Água pressurizada (AP) — sólidos comuns Classe A",
+      "D": "Pó ABC — líquidos Classe B"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Extintores",
+    "resposta": "C",
+    "explicacao": "O extintor de água pressurizada é indicado exclusivamente para Classe A (madeira, papel, tecido). Nunca usar em elétrico.",
     "categoria": "Extintores",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 17,
-    "pergunta": "Pergunta 2 sobre Extintores",
+    "pergunta": "Qual extintor não deixa resíduo e é ideal para equipamentos eletrônicos?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Água pressurizada",
+      "B": "Espuma mecânica",
+      "C": "Pó químico ABC",
+      "D": "CO₂ (dióxido de carbono)"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Extintores",
+    "resposta": "D",
+    "explicacao": "CO₂ não conduz eletricidade e não deixa resíduo, sendo ideal para equipamentos elétricos e eletrônicos.",
     "categoria": "Extintores",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 18,
-    "pergunta": "Pergunta 3 sobre Extintores",
+    "pergunta": "Qual extintor pode combater incêndios das Classes A, B e C?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Espuma física",
+      "B": "CO₂",
+      "C": "Água pressurizada",
+      "D": "Pó químico ABC"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Extintores",
+    "resposta": "D",
+    "explicacao": "O extintor de Pó ABC é o mais versátil, cobrindo incêndios Classe A (sólidos), B (líquidos) e C (elétrico).",
     "categoria": "Extintores",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 19,
-    "pergunta": "Pergunta 4 sobre Extintores",
+    "pergunta": "Com que frequência extintores devem ser inspecionados conforme norma?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "A cada 12 meses ou quando lacre/manômetro indicar falha",
+      "B": "Somente após uso",
+      "C": "A cada 5 anos apenas",
+      "D": "Nunca, se nunca foi usado"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Extintores",
+    "explicacao": "A NBR 12962 estabelece inspeção anual e manutenção preventiva periódica para todos os extintores.",
     "categoria": "Extintores",
     "nivel": "medio"
   },
   {
     "id": 20,
-    "pergunta": "Pergunta 5 sobre Extintores",
+    "pergunta": "Qual é a sequência correta de operação de um extintor (técnica PASS)?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Retirar o pino, apontar, pressionar a alavanca, varrer na base",
+      "B": "Pressionar, retirar pino, apontar, varrer",
+      "C": "Varrer, pressionar, apontar, retirar pino",
+      "D": "Apontar, varrer, pressionar, retirar pino"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Extintores",
+    "explicacao": "A sigla PASS resume a técnica: Pull (puxar pino), Aim (apontar), Squeeze (pressionar), Sweep (varrer na base).",
     "categoria": "Extintores",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 21,
-    "pergunta": "Pergunta 6 sobre Extintores",
+    "pergunta": "Qual extintor é mais indicado para tanques de combustível líquido?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Água pressurizada",
+      "B": "CO₂",
+      "C": "Pó químico BC",
+      "D": "Espuma mecânica (AFFF)"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Extintores",
+    "resposta": "D",
+    "explicacao": "A espuma cobre a superfície do líquido, impedindo o contato com oxigênio e abafando o fogo.",
     "categoria": "Extintores",
     "nivel": "medio"
   },
   {
     "id": 22,
-    "pergunta": "Pergunta 7 sobre Extintores",
+    "pergunta": "Incêndio em limalha de magnésio requer qual tipo de extintor?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Água pressurizada",
+      "B": "Espuma AFFF",
+      "C": "Pó especial Classe D",
+      "D": "CO₂"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Extintores",
+    "resposta": "C",
+    "explicacao": "Metais como magnésio, titânio e sódio reagem violentamente com água e CO₂, exigindo pó especial Classe D.",
     "categoria": "Extintores",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 23,
-    "pergunta": "Pergunta 8 sobre Extintores",
+    "pergunta": "Como verificar visualmente se um extintor está pronto para uso?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Checar a data de fabricação apenas",
+      "B": "Abrir brevemente para testar o jato",
+      "C": "Pesar o extintor para verificar carga",
+      "D": "Verificar manômetro na zona verde e lacre intacto"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Extintores",
+    "resposta": "D",
+    "explicacao": "A inspeção visual periódica inclui verificação do manômetro (zona verde = pressurizado), lacre e pino de segurança.",
     "categoria": "Extintores",
     "nivel": "medio"
   },
   {
     "id": 24,
-    "pergunta": "Pergunta 9 sobre Extintores",
+    "pergunta": "Qual a carga mínima de um extintor portátil conforme NBR 13714?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "1 kg de pó ou 2 litros de água",
+      "B": "5 kg de pó ou 10 litros de água",
+      "C": "500 g de pó ou 1 litro de água",
+      "D": "2,5 kg de pó ou 6 litros de espuma/água"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Extintores",
+    "resposta": "D",
+    "explicacao": "A NBR 13714 define as capacidades mínimas de extintores para diferentes áreas de risco.",
     "categoria": "Extintores",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 25,
-    "pergunta": "Pergunta 10 sobre Extintores",
+    "pergunta": "Com que periodicidade o cilindro do extintor deve ser submetido a teste hidrostático?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Nunca é necessário",
+      "B": "A cada 5 anos — recarga e teste hidrostático",
+      "C": "A cada 2 anos",
+      "D": "A cada 10 anos"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Extintores",
+    "resposta": "B",
+    "explicacao": "O cilindro do extintor deve passar por teste hidrostático a cada 5 anos para verificar integridade estrutural.",
     "categoria": "Extintores",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 26,
-    "pergunta": "Pergunta 11 sobre Extintores",
+    "pergunta": "Como deve ser sinalizado um extintor conforme norma brasileira?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Sinalização azul a 1,20 m",
+      "B": "Sem sinalização obrigatória se o local for pequeno",
+      "C": "Sinalização amarela no teto",
+      "D": "Sinalização vermelha com símbolo do extintor a 1,80 m do piso"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Extintores",
+    "resposta": "D",
+    "explicacao": "A NBR 13434 exige sinalização de segurança contra incêndio, incluindo identificação de extintores em vermelho.",
     "categoria": "Extintores",
     "nivel": "medio"
   },
   {
     "id": 27,
-    "pergunta": "Pergunta 12 sobre Extintores",
+    "pergunta": "É seguro segurar o bico do extintor de CO₂ durante o uso?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Nunca — o CO₂ pode causar choque térmico e queimaduras",
+      "B": "Apenas em ambientes abertos",
+      "C": "Apenas se a chama for pequena",
+      "D": "Pode usar, mas com cuidado"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Extintores",
+    "explicacao": "O bico do extintor de CO₂ atinge temperaturas muito baixas (-78°C). Segurar o bico durante o uso pode causar queimadura por frio.",
     "categoria": "Extintores",
     "nivel": "medio"
   },
   {
     "id": 28,
-    "pergunta": "Pergunta 13 sobre Extintores",
+    "pergunta": "A que distância o operador deve ficar ao usar um extintor?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Posicionar a 2 a 4 metros da base das chamas",
+      "B": "A distância não importa",
+      "C": "Posicionar o mais próximo possível",
+      "D": "Posicionar a mais de 10 metros"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Extintores",
+    "explicacao": "A distância operacional recomendada garante que o agente extintor alcance a base das chamas sem expor o operador.",
     "categoria": "Extintores",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 29,
-    "pergunta": "Pergunta 14 sobre Extintores",
+    "pergunta": "O que fazer com um extintor que foi utilizado parcialmente?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Recolocar no suporte — ainda pode ter carga residual",
+      "B": "Guardar deitado para conservar",
+      "C": "Verificar o manômetro e decidir",
+      "D": "Retirá-lo do local e levá-lo para recarga ou descarte"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Extintores",
+    "resposta": "D",
+    "explicacao": "Extintor usado, mesmo parcialmente, deve ser retirado de operação imediatamente para recarga, pois pode falhar numa próxima emergência.",
     "categoria": "Extintores",
     "nivel": "medio"
   },
   {
     "id": 30,
-    "pergunta": "Pergunta 15 sobre Extintores",
+    "pergunta": "A que altura deve ser instalado o suporte de extintor conforme norma?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Sem altura definida por norma",
+      "B": "A 1,00 m — altura do manômetro",
+      "C": "A 1,60 m do piso — parte inferior do extintor",
+      "D": "A 2,50 m — parte superior"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Extintores",
+    "resposta": "C",
+    "explicacao": "A NBR 12693 determina que o suporte do extintor posicione sua parte inferior a no máximo 1,60 m do piso.",
     "categoria": "Extintores",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 31,
-    "pergunta": "Pergunta 1 sobre Equipamentos",
+    "pergunta": "Capacete, luvas e botas de proteção são classificados como:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "EPR — Equipamento de Proteção Respiratória",
+      "B": "EPC — Equipamento de Proteção Coletiva",
+      "C": "EPI — Equipamento de Proteção Individual",
+      "D": "EPS — Equipamento de Proteção Sistêmica"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Equipamentos",
+    "resposta": "C",
+    "explicacao": "EPI é todo dispositivo de uso individual destinado a proteger o trabalhador de riscos à segurança e saúde.",
     "categoria": "Equipamentos",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 32,
-    "pergunta": "Pergunta 2 sobre Equipamentos",
+    "pergunta": "Qual equipamento respiratório é usado em ambientes com atmosfera irrespirável ou desconhecida?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "SCBA — Self-Contained Breathing Apparatus (Aparelho de Respiração Autônomo)",
+      "B": "Respirador semifacial com filtro P2",
+      "C": "Máscara cirúrgica N95",
+      "D": "Capuz de proteção química"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Equipamentos",
+    "explicacao": "O SCBA fornece ar comprimido independente do ambiente, essencial em atmosferas IDLH (imediatamente perigosas à vida).",
     "categoria": "Equipamentos",
     "nivel": "medio"
   },
   {
     "id": 33,
-    "pergunta": "Pergunta 3 sobre Equipamentos",
+    "pergunta": "Quais são as verificações mínimas do SCBA antes de uma entrada em ambiente confinado?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Verificar pressão do cilindro, alarme de baixa pressão e máscara",
+      "B": "Verificar somente a data de validade",
+      "C": "Apenas verificar se o cilindro está cheio",
+      "D": "Testar apenas o alarme"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Equipamentos",
+    "explicacao": "Antes de usar o SCBA, o bombeiro deve checar pressão mínima (≥ 90%), funcionamento do alarme Pass e vedação da máscara.",
     "categoria": "Equipamentos",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 34,
-    "pergunta": "Pergunta 4 sobre Equipamentos",
+    "pergunta": "Qual conjunto mínimo de EPI é obrigatório para bombeiro em combate a incêndio estrutural?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Óculos de sol e botas de cano curto",
+      "B": "Capacete simples de obra e luvas de borracha",
+      "C": "Capacete, camiseta de algodão e tênis fechado",
+      "D": "Capacete com aba completa, capuz ignífugo, luvas e bota com biqueira"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Equipamentos",
+    "resposta": "D",
+    "explicacao": "O uniforme de combate a incêndio inclui equipamentos ignífugos e de proteção mecânica específicos para a atividade.",
     "categoria": "Equipamentos",
     "nivel": "medio"
   },
   {
     "id": 35,
-    "pergunta": "Pergunta 5 sobre Equipamentos",
+    "pergunta": "Qual equipamento de iluminação é essencial para operação em ambientes com fumaça densa?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Velas e lanternas a gás",
+      "B": "Apenas a lanterna do celular",
+      "C": "Luz natural — nunca entrar sem luz natural",
+      "D": "Lanternas de cabeça com bateria reserva"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Equipamentos",
+    "resposta": "D",
+    "explicacao": "Em ambientes com fumaça, a visibilidade é zero. Lanternas de cabeça permitem mãos livres para outras tarefas.",
     "categoria": "Equipamentos",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 36,
-    "pergunta": "Pergunta 6 sobre Equipamentos",
+    "pergunta": "Qual instrumento deve ser usado antes de entrar em espaço confinado para avaliar a atmosfera?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Barômetro portátil",
+      "B": "Detector de gases (detector multi-gás)",
+      "C": "Oxímetro de pulso",
+      "D": "Termômetro de infravermelho"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Equipamentos",
+    "resposta": "B",
+    "explicacao": "O detector multi-gás monitora O₂, CO, H₂S e gases explosivos em tempo real, essencial antes de entrada.",
     "categoria": "Equipamentos",
     "nivel": "medio"
   },
   {
     "id": 37,
-    "pergunta": "Pergunta 7 sobre Equipamentos",
+    "pergunta": "O que garante a conformidade legal de um EPI no Brasil?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Certificação ISO 9001",
+      "B": "Laudo do fabricante apenas",
+      "C": "CA — Certificado de Aprovação, emitido pelo MTE",
+      "D": "Registro na ABNT"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Equipamentos",
+    "resposta": "C",
+    "explicacao": "Todo EPI comercializado no Brasil deve ter CA (Certificado de Aprovação) emitido pelo Ministério do Trabalho.",
     "categoria": "Equipamentos",
     "nivel": "medio"
   },
   {
     "id": 38,
-    "pergunta": "Pergunta 8 sobre Equipamentos",
+    "pergunta": "Qual roupa especial é usada em resgates próximos a grandes focos de calor radiante?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Roupa de combate a incêndio estrutural",
+      "B": "Roupa de proteção biológica",
+      "C": "Roupa de proteção química Nível A",
+      "D": "Roupa de aproximação — reflexiva, para alta temperatura radiante"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Equipamentos",
+    "resposta": "D",
+    "explicacao": "A roupa de aproximação (aluminizada) reflete o calor radiante e é usada em situações de alta temperatura sem contato direto com chamas.",
     "categoria": "Equipamentos",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 39,
-    "pergunta": "Pergunta 9 sobre Equipamentos",
+    "pergunta": "Como deve ser feita a manutenção de cordas de salvamento após uso?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Guardar molhado enrolado",
+      "B": "Expor ao sol para secar rapidamente",
+      "C": "Lavar com solvente para limpar fuligem",
+      "D": "Verificar se há danos, lavar conforme norma e guardar longe de UV"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Equipamentos",
+    "resposta": "D",
+    "explicacao": "Cordas de vida devem ser inspecionadas após cada uso e lavadas com água morna e sabão neutro, longe de luz UV que degrada as fibras.",
     "categoria": "Equipamentos",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 40,
-    "pergunta": "Pergunta 10 sobre Equipamentos",
+    "pergunta": "O que é uma 'linha de vida' em trabalhos em altura?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Fita de amarração",
+      "B": "Cabo de aço fixo no chão",
+      "C": "Linha de vida — cabo ancorado que limita a queda",
+      "D": "Cinto abdominal simples"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Equipamentos",
+    "resposta": "C",
+    "explicacao": "A linha de vida é um sistema de ancoragem horizontal ou vertical que permite mobilidade com proteção contra queda.",
     "categoria": "Equipamentos",
     "nivel": "medio"
   },
   {
     "id": 41,
-    "pergunta": "Pergunta 11 sobre Equipamentos",
+    "pergunta": "Qual capacete é exigido em trabalhos em altura conforme NR-35?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Capacete classe A ou B com suspensão interna",
+      "B": "Capacete de motocicleta",
+      "C": "Capacete de ciclismo",
+      "D": "Boné de proteção UV"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Equipamentos",
+    "explicacao": "Capacetes para trabalho em altura devem ter jugular e suspensão interna para absorver impacto, conforme NR-35.",
     "categoria": "Equipamentos",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 42,
-    "pergunta": "Pergunta 12 sobre Equipamentos",
+    "pergunta": "Qual dispositivo trava automaticamente em caso de queda durante trabalho em altura?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Corda estática simples",
+      "B": "Trava-quedas retrátil — trava automaticamente em caso de queda",
+      "C": "Fita de poliéster sem dispositivo",
+      "D": "Mosquetão sem sistema de trava"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Equipamentos",
+    "resposta": "B",
+    "explicacao": "O trava-quedas retrátil possui mecanismo centrífugo que trava instantaneamente ao detectar aceleração de queda.",
     "categoria": "Equipamentos",
     "nivel": "medio"
   },
   {
     "id": 43,
-    "pergunta": "Pergunta 13 sobre Equipamentos",
+    "pergunta": "Qual cinto de segurança é obrigatório para trabalhos em altura conforme NR-35?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Colete de flutuação",
+      "B": "Cinto abdominal simples (tipo A)",
+      "C": "Fita de amarração",
+      "D": "Cinto de segurança tipo paraquedista (completo)"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Equipamentos",
+    "resposta": "D",
+    "explicacao": "O cinto paraquedista (tipo III) distribui as forças de queda pelo tórax, pélvis e coxas, sendo obrigatório em trabalhos em altura.",
     "categoria": "Equipamentos",
     "nivel": "medio"
   },
   {
     "id": 44,
-    "pergunta": "Pergunta 14 sobre Equipamentos",
+    "pergunta": "Com que frequência um EPI de proteção contra queda deve ser inspecionado?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Nunca — durabilidade vitalícia",
+      "B": "A cada uso e periodicamente conforme fabricante",
+      "C": "Uma vez por ano independente do uso",
+      "D": "Apenas quando houver dano visível"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Equipamentos",
+    "resposta": "B",
+    "explicacao": "EPIs devem ser inspecionados antes de cada uso. Quedas ou impactos exigem substituição imediata mesmo sem dano visível.",
     "categoria": "Equipamentos",
     "nivel": "medio"
   },
   {
     "id": 45,
-    "pergunta": "Pergunta 15 sobre Equipamentos",
+    "pergunta": "O que fazer com um capacete que sofreu queda ou impacto severo?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Descartar imediatamente — o impacto compromete a estrutura interna",
+      "B": "Pintar para identificar e continuar usando",
+      "C": "Verificar se há danos e continuar usando se parecer intacto",
+      "D": "Comunicar o supervisor e aguardar avaliação demorada"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Equipamentos",
+    "explicacao": "Capacetes que sofreram impacto severo devem ser descartados mesmo sem danos visíveis, pois sua estrutura absorvedora está comprometida.",
     "categoria": "Equipamentos",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 46,
-    "pergunta": "Pergunta 1 sobre Legislação",
+    "pergunta": "Qual lei federal estabelece medidas de prevenção em estabelecimentos com aglomeração de pessoas?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Decreto 897/1993 — Bombeiros Militares",
+      "B": "Lei 13.425/2017 — Lei Kiss",
+      "C": "NBR 9077 — Saídas de Emergência",
+      "D": "Lei 8.213/1991 — Acidentes do Trabalho"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Legislação",
+    "resposta": "B",
+    "explicacao": "A Lei 13.425/2017, conhecida como Lei Kiss, surgiu após o incêndio da boate Kiss em 2013 e estabelece medidas de prevenção em locais de reunião.",
     "categoria": "Legislação",
     "nivel": "medio"
   },
   {
     "id": 47,
-    "pergunta": "Pergunta 2 sobre Legislação",
+    "pergunta": "Qual Norma Regulamentadora trata especificamente de proteção contra incêndios no trabalho?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "NR-15 — Atividades Insalubres",
+      "B": "NR-35 — Trabalho em Altura",
+      "C": "NR-06 — Equipamentos de Proteção Individual",
+      "D": "NR-23 — Proteção Contra Incêndios"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Legislação",
+    "resposta": "D",
+    "explicacao": "A NR-23 regulamenta as medidas de proteção contra incêndios nos locais de trabalho.",
     "categoria": "Legislação",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 48,
-    "pergunta": "Pergunta 3 sobre Legislação",
+    "pergunta": "Qual norma regulamenta trabalho realizado a mais de 2 metros do nível inferior?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "NR-35 — Trabalho em Altura",
+      "B": "NR-33 — Espaços Confinados",
+      "C": "NR-23 — Proteção Contra Incêndios",
+      "D": "NR-12 — Segurança em Máquinas"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Legislação",
+    "explicacao": "A NR-35 regulamenta trabalho em altura (acima de 2 metros com risco de queda), estabelecendo requisitos de capacitação e EPI.",
     "categoria": "Legislação",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 49,
-    "pergunta": "Pergunta 4 sobre Legislação",
+    "pergunta": "Qual norma regulamenta a entrada em espaços confinados?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "NR-23 — Proteção Contra Incêndios",
+      "B": "NR-35 — Trabalho em Altura",
+      "C": "NR-33 — Segurança e Saúde em Espaços Confinados",
+      "D": "NR-18 — Construção Civil"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Legislação",
+    "resposta": "C",
+    "explicacao": "A NR-33 define espaço confinado e estabelece medidas obrigatórias para entrada segura, incluindo supervisor, vigia e permissão de entrada.",
     "categoria": "Legislação",
     "nivel": "medio"
   },
   {
     "id": 50,
-    "pergunta": "Pergunta 5 sobre Legislação",
+    "pergunta": "Qual documento técnico define os requisitos de PPCI para cada tipo de edificação?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "IT (Instrução Técnica) do Corpo de Bombeiros do estado",
+      "B": "Apenas o Código Civil",
+      "C": "Apenas o alvará municipal",
+      "D": "Apenas a vontade do proprietário"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Legislação",
+    "explicacao": "As ITs estaduais detalham os requisitos de segurança contra incêndio para cada tipo de ocupação, complementando a legislação estadual.",
     "categoria": "Legislação",
     "nivel": "medio"
   },
   {
     "id": 51,
-    "pergunta": "Pergunta 6 sobre Legislação",
+    "pergunta": "Qual documento deve ser elaborado e aprovado pelo CBMM para edificações de risco?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "PCMSO — Programa de Controle Médico",
+      "B": "PPCI — Plano de Prevenção e Proteção Contra Incêndio",
+      "C": "PGR — Programa de Gerenciamento de Riscos",
+      "D": "PPRA — Programa de Riscos Ambientais"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Legislação",
+    "resposta": "B",
+    "explicacao": "O PPCI é elaborado por profissional habilitado e aprovado pelo Corpo de Bombeiros, sendo obrigatório para diversas edificações.",
     "categoria": "Legislação",
     "nivel": "medio"
   },
   {
     "id": 52,
-    "pergunta": "Pergunta 7 sobre Legislação",
+    "pergunta": "A partir de qual altura um trabalho é considerado 'trabalho em altura' pela NR-35?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "1 metro",
+      "B": "2 metros — qualquer trabalho acima dessa altura exige proteção",
+      "C": "5 metros",
+      "D": "3 metros"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Legislação",
+    "resposta": "B",
+    "explicacao": "A NR-35 define trabalho em altura como toda atividade executada acima de 2 metros do nível inferior, com risco de queda.",
     "categoria": "Legislação",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 53,
-    "pergunta": "Pergunta 8 sobre Legislação",
+    "pergunta": "Qual documento formal é obrigatório antes de entrar em espaço confinado ou trabalhar em altura?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Ordem de serviço comum",
+      "B": "Autorização verbal do encarregado",
+      "C": "Permissão de Trabalho (PT) emitida pelo supervisor",
+      "D": "Ficha de registro de ponto"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Legislação",
+    "resposta": "C",
+    "explicacao": "A PT (Permissão de Trabalho) é documento formal obrigatório pela NR-33 e NR-35 que autoriza e define as condições de atividades perigosas.",
     "categoria": "Legislação",
     "nivel": "medio"
   },
   {
     "id": 54,
-    "pergunta": "Pergunta 9 sobre Legislação",
+    "pergunta": "Qual comissão paritária de segurança é obrigatória nas empresas conforme NR-5?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "CIPA — Comissão Interna de Prevenção de Acidentes",
+      "B": "SESMT — Serviço Especializado em Eng. de Segurança",
+      "C": "Comitê de Qualidade",
+      "D": "Brigada de Incêndio"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Legislação",
+    "explicacao": "A CIPA é constituída por representantes do empregador e empregados, com atribuição de identificar riscos e promover medidas preventivas.",
     "categoria": "Legislação",
     "nivel": "medio"
   },
   {
     "id": 55,
-    "pergunta": "Pergunta 10 sobre Legislação",
+    "pergunta": "O que é a Brigada de Incêndio conforme IT dos Corpos de Bombeiros?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "SAMU",
+      "B": "Brigada de Incêndio — equipe treinada para resposta inicial",
+      "C": "Bombeiro profissional contratado",
+      "D": "Defesa Civil"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Legislação",
+    "resposta": "B",
+    "explicacao": "A brigada de incêndio é formada por funcionários treinados para agir na fase inicial de uma emergência antes do CBMM chegar.",
     "categoria": "Legislação",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 56,
-    "pergunta": "Pergunta 11 sobre Legislação",
+    "pergunta": "Com que frequência deve ser realizado o treinamento de reciclagem da brigada de incêndio?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "A cada 2 anos conforme IT do CBMM",
+      "B": "Anualmente sem exceção",
+      "C": "Apenas na formação inicial",
+      "D": "A cada 5 anos"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Legislação",
+    "explicacao": "A maioria das ITs estaduais exige reciclagem da brigada de incêndio a cada 2 anos, podendo variar por estado.",
     "categoria": "Legislação",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 57,
-    "pergunta": "Pergunta 12 sobre Legislação",
+    "pergunta": "O que comprova que uma edificação está em conformidade com as normas de segurança contra incêndio?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Vistoria pelo Corpo de Bombeiros e emissão do Auto de Vistoria (AVCB)",
+      "B": "Aprovação apenas da prefeitura",
+      "C": "Declaração do proprietário",
+      "D": "Laudo de empresa privada de segurança"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Legislação",
+    "explicacao": "O AVCB (Auto de Vistoria do Corpo de Bombeiros) é o documento que comprova que a edificação atende às normas de segurança contra incêndio.",
     "categoria": "Legislação",
     "nivel": "medio"
   },
   {
     "id": 58,
-    "pergunta": "Pergunta 13 sobre Legislação",
+    "pergunta": "Qual norma técnica brasileira regulamenta saídas de emergência em edificações?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "NBR 9077 — Saídas de Emergência em Edificações",
+      "B": "NBR 15219 — Plano de Emergência",
+      "C": "NBR 12693 — Extintores",
+      "D": "NBR 17240 — Sistemas de Detecção"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Legislação",
+    "explicacao": "A NBR 9077 especifica as rotas de fuga, dimensionamento e sinalização de saídas de emergência.",
     "categoria": "Legislação",
     "nivel": "medio"
   },
   {
     "id": 59,
-    "pergunta": "Pergunta 14 sobre Legislação",
+    "pergunta": "O bombeiro civil se depara com incêndio fora de controle. O que deve fazer?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Aguardar ordens da chefia",
+      "B": "Tentar apagar o fogo de qualquer forma",
+      "C": "Evacuar sozinho sem alertar ninguém",
+      "D": "Afastar-se em segurança e acionar o CBMM (193)"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Legislação",
+    "resposta": "D",
+    "explicacao": "O bombeiro civil tem formação limitada. Diante de incêndio além da sua capacidade, o protocolo é evacuar e acionar o CBMM.",
     "categoria": "Legislação",
     "nivel": "medio"
   },
   {
     "id": 60,
-    "pergunta": "Pergunta 15 sobre Legislação",
+    "pergunta": "Qual é a carga horária mínima para formação de bombeiro civil?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Mínimo de 40 horas de teoria e prática conforme IT estadual",
+      "B": "4 horas de treinamento teórico",
+      "C": "Sem carga horária mínima definida",
+      "D": "8 horas apenas práticas"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Legislação",
+    "explicacao": "A formação de bombeiro civil exige carga horária mínima definida pelas ITs estaduais, geralmente 40h, com componentes teóricos e práticos.",
     "categoria": "Legislação",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 61,
-    "pergunta": "Pergunta 1 sobre Comunicação",
+    "pergunta": "Ao detectar um incêndio, qual é a primeira comunicação a ser feita?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Acionar o alarme e ligar para o CBMM (193)",
+      "B": "Avisar apenas o supervisor imediato",
+      "C": "Publicar nas redes sociais",
+      "D": "Tentar apagar o fogo primeiro"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Comunicação",
+    "explicacao": "Em emergências, a comunicação imediata com o CBMM e acionamento do alarme são prioritários para garantir resposta rápida.",
     "categoria": "Comunicação",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 62,
-    "pergunta": "Pergunta 2 sobre Comunicação",
+    "pergunta": "Qual é o número de emergência do Corpo de Bombeiros no Brasil?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "193 — Corpo de Bombeiros",
+      "B": "192 — SAMU",
+      "C": "190 — Polícia Militar",
+      "D": "197 — Polícia Civil"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Comunicação",
+    "explicacao": "O número 193 é o número de emergência do Corpo de Bombeiros em todo o Brasil.",
     "categoria": "Comunicação",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 63,
-    "pergunta": "Pergunta 3 sobre Comunicação",
+    "pergunta": "Quais informações são essenciais ao acionar o Corpo de Bombeiros?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Localização, natureza da emergência, número de vítimas e contato",
+      "B": "Apenas o endereço",
+      "C": "Apenas o tipo de emergência",
+      "D": "Apenas o nome de quem chama"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Comunicação",
+    "explicacao": "O acionamento eficiente inclui: onde (localização), o quê (natureza), quantos (vítimas) e como (contato para retorno).",
     "categoria": "Comunicação",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 64,
-    "pergunta": "Pergunta 4 sobre Comunicação",
+    "pergunta": "Qual meio de comunicação é prioritário durante operações de emergência?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Rádio comunicador (HT) em canal dedicado à operação",
+      "B": "Celular pessoal",
+      "C": "Gritos e gestos",
+      "D": "WhatsApp em grupo"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Comunicação",
+    "explicacao": "Em operações de emergência, o rádio comunicador garante comunicação confiável, mesmo em ambientes com fumaça ou sem sinal de celular.",
     "categoria": "Comunicação",
     "nivel": "medio"
   },
   {
     "id": 65,
-    "pergunta": "Pergunta 5 sobre Comunicação",
+    "pergunta": "Em comunicação de emergência, o que significa o sinal 'MAYDAY'?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "SÉCURITÉ — aviso de segurança",
+      "B": "MAYDAY — situação de perigo de vida iminente",
+      "C": "PAN-PAN — urgência sem perigo imediato",
+      "D": "ROGER — confirmação de recebimento"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Comunicação",
+    "resposta": "B",
+    "explicacao": "MAYDAY é o sinal internacional de socorro usado quando há risco imediato à vida. Deve ser repetido 3 vezes.",
     "categoria": "Comunicação",
     "nivel": "medio"
   },
   {
     "id": 66,
-    "pergunta": "Pergunta 6 sobre Comunicação",
+    "pergunta": "Qual é o procedimento correto para uso de rádio comunicador em operações?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Usar linguagem técnica complexa",
+      "B": "Transmitir tudo de uma vez sem pausas",
+      "C": "Falar rapidamente para liberar o canal",
+      "D": "Identificar-se, transmitir mensagem curta e objetiva, aguardar confirmação"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Comunicação",
+    "resposta": "D",
+    "explicacao": "Comunicação em rádio deve seguir protocolo: identificação, mensagem clara e confirmação do receptor.",
     "categoria": "Comunicação",
     "nivel": "medio"
   },
   {
     "id": 67,
-    "pergunta": "Pergunta 7 sobre Comunicação",
+    "pergunta": "O que é o 'Plano de Abandono' de uma edificação?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Mapa decorativo do edifício",
+      "B": "Regulamento interno",
+      "C": "Plano de Abandono — define rotas, pontos de encontro e responsáveis",
+      "D": "Lista de funcionários"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Comunicação",
+    "resposta": "C",
+    "explicacao": "O Plano de Abandono define procedimentos de evacuação, responsabilidades e pontos de encontro fora da edificação.",
     "categoria": "Comunicação",
     "nivel": "medio"
   },
   {
     "id": 68,
-    "pergunta": "Pergunta 8 sobre Comunicação",
+    "pergunta": "O que é o 'ponto de encontro' em um plano de evacuação?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Área de contenção química",
+      "B": "Ponto de triagem médica",
+      "C": "Ponto de encontro — local seguro e pré-definido fora da edificação",
+      "D": "Posto de comando avançado"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Comunicação",
+    "resposta": "C",
+    "explicacao": "O ponto de encontro é definido no plano de abandono e deve estar em local seguro, visível e afastado da edificação.",
     "categoria": "Comunicação",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 69,
-    "pergunta": "Pergunta 9 sobre Comunicação",
+    "pergunta": "Qual é o padrão de sirene mais comum para sinalizar evacuação total?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Campainha simples para tudo",
+      "B": "Sirene contínua para início de abandono; intermitente para alerta",
+      "C": "Sirene intermitente para abandono; contínua para alerta",
+      "D": "Voz humana sem alarme sonoro"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Comunicação",
+    "resposta": "B",
+    "explicacao": "O padrão mais comum: alarme contínuo = evacuação imediata; alarme intermitente = alerta/pré-evacuação. Verificar IT local.",
     "categoria": "Comunicação",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 70,
-    "pergunta": "Pergunta 10 sobre Comunicação",
+    "pergunta": "Após controlar um princípio de incêndio, qual é o procedimento de comunicação obrigatório?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Contar apenas verbalmente para o colega",
+      "B": "Postar no grupo da empresa",
+      "C": "Ignorar se o incêndio foi apagado",
+      "D": "Comunicar ao coordenador e registrar no livro de ocorrências"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Comunicação",
+    "resposta": "D",
+    "explicacao": "Todo incidente deve ser registrado formalmente para análise, prevenção e cumprimento legal.",
     "categoria": "Comunicação",
     "nivel": "medio"
   },
   {
     "id": 71,
-    "pergunta": "Pergunta 11 sobre Comunicação",
+    "pergunta": "Durante evacuação de emergência, qual grupo deve receber atenção especial da brigada?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Evacuar todos pelo elevador mais próximo",
+      "B": "Verificar se há pessoas com mobilidade reduzida e auxiliá-las",
+      "C": "Ligar para o celular de cada funcionário",
+      "D": "Trancar portas para conter o fogo"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Comunicação",
+    "resposta": "B",
+    "explicacao": "Durante a evacuação, pessoas com mobilidade reduzida precisam de atenção especial, evitando elevadores (que não devem ser usados em incêndio).",
     "categoria": "Comunicação",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 72,
-    "pergunta": "Pergunta 12 sobre Comunicação",
+    "pergunta": "Durante um incêndio, o elevador pode ser usado para evacuação?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Podem ser usados para transporte de feridos",
+      "B": "Podem ser usados se forem à prova de fogo",
+      "C": "NUNCA — elevadores não devem ser usados em incêndio",
+      "D": "Podem ser usados se o incêndio for em outro andar"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Comunicação",
+    "resposta": "C",
+    "explicacao": "Em incêndios, o calor pode afetar os sistemas elétricos do elevador, prendendo ocupantes. Sempre usar escadas.",
     "categoria": "Comunicação",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 73,
-    "pergunta": "Pergunta 13 sobre Comunicação",
+    "pergunta": "Qual orientação deve ser dada aos ocupantes ao sair de uma sala durante incêndio?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Deixar as portas abertas para facilitar a fuga de outros",
+      "B": "Fechar as portas ao sair — retarda a propagação do fogo e fumaça",
+      "C": "Quebrar as janelas para ventilar",
+      "D": "Trancar as portas com cadeado"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Comunicação",
+    "resposta": "B",
+    "explicacao": "Fechar portas durante evacuação é fundamental: uma porta fechada pode resistir ao fogo por 20 a 30 minutos.",
     "categoria": "Comunicação",
     "nivel": "medio"
   },
   {
     "id": 74,
-    "pergunta": "Pergunta 14 sobre Comunicação",
+    "pergunta": "Uma pessoa está ilhada por fumaça e não pode evacuar. O que deve fazer?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Abrir a porta imediatamente",
+      "B": "Abrir a janela e pular",
+      "C": "Permanecer abaixado onde o ar é mais limpo e sinalizar pela janela",
+      "D": "Ficar em pé e gritar por socorro"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Comunicação",
+    "resposta": "C",
+    "explicacao": "A fumaça sobe — o ar mais limpo fica próximo ao chão. Sinalizar pela janela orienta o resgate sem expor ao risco de queda.",
     "categoria": "Comunicação",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 75,
-    "pergunta": "Pergunta 15 sobre Comunicação",
+    "pergunta": "Por que, em algumas situações de emergência, recomenda-se usar o celular com cautela?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "O celular emite faísca que pode causar incêndio",
+      "B": "Interferência de celular desativa detectores de fumaça",
+      "C": "O celular aquece e pode explodir",
+      "D": "Celular em modo avião consome menos bateria para ligações de emergência"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Comunicação",
+    "resposta": "D",
+    "explicacao": "Apesar de mito urbano, o modo avião pode ser útil para preservar bateria. O risco de faísca de celular causar incêndio não tem respaldo técnico em condições normais.",
     "categoria": "Comunicação",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 76,
-    "pergunta": "Pergunta 1 sobre APH",
+    "pergunta": "Qual é a primeira avaliação ao chegar em uma cena de emergência?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "A vítima primeiro, sempre",
+      "B": "A cena e a vítima ao mesmo tempo",
+      "C": "Segurança da cena, depois a vítima",
+      "D": "O socorrista e a equipe primeiro, depois a cena"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de APH",
+    "resposta": "C",
+    "explicacao": "A regra de ouro do APH: nunca criar mais vítimas. Avalie a segurança da cena antes de abordar qualquer vítima.",
     "categoria": "APH",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 77,
-    "pergunta": "Pergunta 2 sobre APH",
+    "pergunta": "Qual é a relação de compressões e ventilações na RCP de adultos?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Apenas ventilações, sem compressão",
+      "B": "30 compressões para 2 ventilações (30:2)",
+      "C": "15 compressões para 1 ventilação",
+      "D": "5 compressões para 1 ventilação"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de APH",
+    "resposta": "B",
+    "explicacao": "O protocolo AHA/AHA 2020 para RCP em adultos é de 30 compressões torácicas para 2 ventilações de resgate.",
     "categoria": "APH",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 78,
-    "pergunta": "Pergunta 3 sobre APH",
+    "pergunta": "Onde deve ser posicionada a mão para compressões torácicas em adultos?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Abdômen superior",
+      "B": "Centro do peito (esterno), entre os mamilos",
+      "C": "Clavícula direita",
+      "D": "Lado esquerdo do peito, sobre o coração"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de APH",
+    "resposta": "B",
+    "explicacao": "As compressões torácicas devem ser aplicadas no centro do esterno, posicionando o calcanhar da mão entre os mamilos.",
     "categoria": "APH",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 79,
-    "pergunta": "Pergunta 4 sobre APH",
+    "pergunta": "Qual a profundidade e frequência adequadas para compressões torácicas em adultos?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "2 cm de profundidade, 60 por minuto",
+      "B": "10 cm, 150 por minuto",
+      "C": "3 cm, 80 por minuto",
+      "D": "Pelo menos 5 cm de profundidade, 100-120 por minuto"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de APH",
+    "resposta": "D",
+    "explicacao": "As diretrizes AHA 2020 recomendam compressões de 5 a 6 cm de profundidade, a uma taxa de 100 a 120/min.",
     "categoria": "APH",
     "nivel": "medio"
   },
   {
     "id": 80,
-    "pergunta": "Pergunta 5 sobre APH",
+    "pergunta": "Qual equipamento é usado para aplicar choque elétrico em parada cardíaca?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Oxímetro de pulso",
+      "B": "Bomba de infusão",
+      "C": "Monitor cardíaco portátil",
+      "D": "DEA — Desfibrilador Externo Automático"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de APH",
+    "resposta": "D",
+    "explicacao": "O DEA analisa o ritmo cardíaco e orienta (ou aplica automaticamente) o choque elétrico para reverter FV/TVSP.",
     "categoria": "APH",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 81,
-    "pergunta": "Pergunta 6 sobre APH",
+    "pergunta": "Qual é a sequência correta de uso do DEA?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Posicionar as pás com a vítima molhada",
+      "B": "Usar o DEA apenas após 10 minutos de RCP",
+      "C": "Continuar a RCP enquanto aplica o choque",
+      "D": "Ligar o DEA, posicionar as pás, afastar todos e seguir as instruções"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de APH",
+    "resposta": "D",
+    "explicacao": "O DEA deve ser ligado imediatamente. As pás são posicionadas na pele seca e todos devem se afastar antes do choque.",
     "categoria": "APH",
     "nivel": "medio"
   },
   {
     "id": 82,
-    "pergunta": "Pergunta 7 sobre APH",
+    "pergunta": "Como posicionar uma vítima inconsciente que respira normalmente?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Posição lateral de segurança — decúbito lateral",
+      "B": "Posição supina com pernas elevadas",
+      "C": "Deixar na posição em que se encontra",
+      "D": "Posição sentada"
     },
     "resposta": "A",
-    "explicacao": "Explicação de APH",
+    "explicacao": "A posição lateral de segurança mantém a via aérea aberta e previne aspiração em vítimas inconscientes que respiram.",
     "categoria": "APH",
     "nivel": "medio"
   },
   {
     "id": 83,
-    "pergunta": "Pergunta 8 sobre APH",
+    "pergunta": "Qual é o primeiro método para controle de hemorragia externa grave?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Aplicar torniquete imediatamente em qualquer hemorragia",
+      "B": "Elevar o membro sem comprimir",
+      "C": "Lavar com água e esperar parar",
+      "D": "Pressão direta sobre o ferimento com material limpo"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de APH",
+    "resposta": "D",
+    "explicacao": "O controle inicial de hemorragia é sempre por pressão direta. O torniquete é reservado para sangramentos de membros não controlados.",
     "categoria": "APH",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 84,
-    "pergunta": "Pergunta 9 sobre APH",
+    "pergunta": "Como tratar uma vítima de acidente com suspeita de lesão na coluna?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Remover o capacete imediatamente",
+      "B": "Sentar a vítima para avaliar melhor",
+      "C": "Imobilizar no local encontrado e transportar com suporte espinhal",
+      "D": "Tracionar o pescoço para alinhar"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de APH",
+    "resposta": "C",
+    "explicacao": "Suspeita de trauma de coluna exige imobilização no local e transporte com colar cervical e prancha rígida.",
     "categoria": "APH",
     "nivel": "medio"
   },
   {
     "id": 85,
-    "pergunta": "Pergunta 10 sobre APH",
+    "pergunta": "Há um objeto encravado no tórax da vítima. O que o socorrista deve fazer?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Cortar o objeto rente à pele",
+      "B": "Verificar se o objeto está fixado e imobilizá-lo — NÃO retirar",
+      "C": "Retirar o objeto imediatamente para limpar o ferimento",
+      "D": "Empurrar o objeto para dentro"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de APH",
+    "resposta": "B",
+    "explicacao": "Objetos encravados nunca devem ser retirados no pré-hospitalar — eles funcionam como tampão hemostático. Imobilize e transporte.",
     "categoria": "APH",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 86,
-    "pergunta": "Pergunta 11 sobre APH",
+    "pergunta": "Qual manobra abre a via aérea em vítima sem suspeita de trauma cervical?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Hiperextensão da cabeça e elevação do queixo",
+      "B": "Flexão da cabeça para frente",
+      "C": "Rotação lateral da cabeça",
+      "D": "Pressão na traqueia"
     },
     "resposta": "A",
-    "explicacao": "Explicação de APH",
+    "explicacao": "A manobra de hiperextensão da cabeça com elevação do queixo desloca a língua e abre a via aérea em vítimas sem trauma.",
     "categoria": "APH",
     "nivel": "medio"
   },
   {
     "id": 87,
-    "pergunta": "Pergunta 12 sobre APH",
+    "pergunta": "Como verificar corretamente se uma vítima está respirando?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Posicionar o paciente, inclinar a cabeça, observar, ouvir e sentir por 10 segundos",
+      "B": "Aguardar 1 minuto para decidir",
+      "C": "Apenas checar o pulso por 1 segundo",
+      "D": "Colocar espelho na frente da boca"
     },
     "resposta": "A",
-    "explicacao": "Explicação de APH",
+    "explicacao": "A verificação de respiração adequada: posicionar, head-tilt/chin-lift, observar o tórax, ouvir e sentir o ar por até 10 segundos.",
     "categoria": "APH",
     "nivel": "medio"
   },
   {
     "id": 88,
-    "pergunta": "Pergunta 13 sobre APH",
+    "pergunta": "Qual o primeiro procedimento para queimaduras de 1º e 2º grau?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Estourar as bolhas para aliviar",
+      "B": "Cobrir com pasta de dente ou manteiga",
+      "C": "Aplicar gelo diretamente na queimadura",
+      "D": "Trauma + queimadura: resfriar com água corrente por 10-20 minutos"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de APH",
+    "resposta": "D",
+    "explicacao": "Resfriamento com água corrente em temperatura ambiente por 10 a 20 minutos alivia a dor e limita a extensão do dano.",
     "categoria": "APH",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 89,
-    "pergunta": "Pergunta 14 sobre APH",
+    "pergunta": "Adulto engasgado, consciente, não consegue tossir nem falar. O que fazer?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Inclinar a vítima para frente e aguardar",
+      "B": "Colocar o dedo na garganta sem ver",
+      "C": "Dar água para a vítima engolir o objeto",
+      "D": "Aplicar 5 golpes nas costas e 5 compressões abdominais (Heimlich)"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de APH",
+    "resposta": "D",
+    "explicacao": "Para adulto consciente com obstrução de via aérea por corpo estranho: 5 tapas nas costas seguidos de 5 compressões abdominais (Heimlich).",
     "categoria": "APH",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 90,
-    "pergunta": "Pergunta 15 sobre APH",
+    "pergunta": "Quais são os sinais clínicos de choque circulatório?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Pele quente, rubor, pulso lento e forte",
+      "B": "Pressão alta, respiração lenta",
+      "C": "Pupilas contraídas e vômitos",
+      "D": "Sinais de choque: pele fria/pálida, pulso rápido/fraco, confusão mental"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de APH",
+    "resposta": "D",
+    "explicacao": "Choque circulatório cursa com hipoperfusão: pele fria e pálida (vasoconstrição), taquicardia e alteração do nível de consciência.",
     "categoria": "APH",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 91,
-    "pergunta": "Pergunta 1 sobre Emergências Químicas",
+    "pergunta": "Qual é a conduta inicial ao chegar em emergência com produto químico desconhecido?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Isolar a área, identificar o produto e acionar equipe especializada",
+      "B": "Entrar sem EPI para ajudar as vítimas",
+      "C": "Ignorar e aguardar o produto se dispersar",
+      "D": "Lavar o local com água imediatamente"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Emergências Químicas",
+    "explicacao": "Em emergências com produtos perigosos, isolar a área e identificar o produto (rótulo, FISPQ, painel de segurança) é prioritário antes de qualquer ação.",
     "categoria": "Emergências Químicas",
     "nivel": "medio"
   },
   {
     "id": 92,
-    "pergunta": "Pergunta 2 sobre Emergências Químicas",
+    "pergunta": "O que é o número ONU presente no painel de segurança de veículos com produtos perigosos?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Registro na Anvisa",
+      "B": "Código de barras do fabricante",
+      "C": "Número ONU — identifica o produto perigoso no painel de segurança",
+      "D": "Número de lote de produção"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Emergências Químicas",
+    "resposta": "C",
+    "explicacao": "O número ONU (1 a 4 dígitos) identifica internacionalmente substâncias perigosas e é exibido no painel laranja dos veículos.",
     "categoria": "Emergências Químicas",
     "nivel": "medio"
   },
   {
     "id": 93,
-    "pergunta": "Pergunta 3 sobre Emergências Químicas",
+    "pergunta": "Qual documento detalha os riscos e medidas de segurança de um produto químico?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Manual do operador",
+      "B": "Nota fiscal do produto",
+      "C": "FISPQ — Ficha de Informações de Segurança de Produto Químico",
+      "D": "Laudo de análise de qualidade"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Emergências Químicas",
+    "resposta": "C",
+    "explicacao": "A FISPQ (equivalente ao SDS internacionalmente) contém todas as informações de segurança, incluindo EPIs necessários e primeiros socorros.",
     "categoria": "Emergências Químicas",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 94,
-    "pergunta": "Pergunta 4 sobre Emergências Químicas",
+    "pergunta": "Qual nível de EPI oferece maior proteção em emergência química com vapor tóxico desconhecido?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Nível D — uniforme de trabalho comum",
+      "B": "Nível A — totalmente encapsulado com SCBA interno",
+      "C": "Nível B — encapsulado com SCBA externo",
+      "D": "Nível C — máscara com filtro e roupa tyvek"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Emergências Químicas",
+    "resposta": "B",
+    "explicacao": "O Nível A oferece a máxima proteção: roupa totalmente encapsulada à vapor e SCBA interno. Para riscos dérmicos e respiratórios desconhecidos.",
     "categoria": "Emergências Químicas",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 95,
-    "pergunta": "Pergunta 5 sobre Emergências Químicas",
+    "pergunta": "Onde a equipe de resposta deve se posicionar em derramamento de produto químico?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Contra o vento para ver a nuvem",
+      "B": "No ponto mais baixo do terreno",
+      "C": "A favor do vento e em área mais elevada (upwind/uphill)",
+      "D": "No centro da área afetada"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Emergências Químicas",
+    "resposta": "C",
+    "explicacao": "Posicionar a equipe a favor do vento (upwind) e em cota mais alta (uphill) evita exposição a vapores e líquidos que escoam.",
     "categoria": "Emergências Químicas",
     "nivel": "medio"
   },
   {
     "id": 96,
-    "pergunta": "Pergunta 6 sobre Emergências Químicas",
+    "pergunta": "Como realizar a descontaminação de pessoa com produto químico na pele?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Cobrir com pano seco e aguardar médico",
+      "B": "Espremer o local para remover o produto",
+      "C": "Aplicar substância neutralizante imediatamente",
+      "D": "Lavar com água corrente por pelo menos 20 minutos"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Emergências Químicas",
+    "resposta": "D",
+    "explicacao": "A descontaminação primária de contato dérmico com produto químico é sempre água corrente abundante por mínimo de 20 minutos.",
     "categoria": "Emergências Químicas",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 97,
-    "pergunta": "Pergunta 7 sobre Emergências Químicas",
+    "pergunta": "Como identificar rapidamente um produto químico desconhecido em emergência?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Cheirar o produto para identificar",
+      "B": "Aguardar manual do fabricante por e-mail",
+      "C": "Verificar o símbolo de risco no rótulo e o painel de segurança do veículo",
+      "D": "Tocar o produto com luva fina"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Emergências Químicas",
+    "resposta": "C",
+    "explicacao": "A identificação rápida usa rótulo GHS (pictogramas), painel de segurança (número ONU e número de risco) e FISPQ.",
     "categoria": "Emergências Químicas",
     "nivel": "medio"
   },
   {
     "id": 98,
-    "pergunta": "Pergunta 8 sobre Emergências Químicas",
+    "pergunta": "Qual é a divisão de zonas em uma emergência química?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Zona vermelha, amarela e verde sem critério",
+      "B": "Zona quente (exclusão), zona morna (trabalho) e zona fria (apoio)",
+      "C": "Sem divisão — todos podem circular livremente",
+      "D": "Apenas zona de risco e zona segura"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Emergências Químicas",
+    "resposta": "B",
+    "explicacao": "O sistema de zonas de controle: Zona quente (maior risco, acesso restrito), zona morna (descontaminação e trabalho com EPI), zona fria (comando e apoio).",
     "categoria": "Emergências Químicas",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 99,
-    "pergunta": "Pergunta 9 sobre Emergências Químicas",
+    "pergunta": "O que indica o 'número de risco' no painel de segurança de veículo transportador?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Código postal da origem",
+      "B": "Número de Risco — indica a natureza do perigo (ex: 33 = líquido inflamável)",
+      "C": "Número de fabricante",
+      "D": "Número de registro estadual"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Emergências Químicas",
+    "resposta": "B",
+    "explicacao": "O número de risco (painel laranja superior) usa dígitos para indicar tipos de risco: 3=inflamável, 6=tóxico, 8=corrosivo, etc.",
     "categoria": "Emergências Químicas",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 100,
-    "pergunta": "Pergunta 10 sobre Emergências Químicas",
+    "pergunta": "Como o pH classifica substâncias químicas quanto à acidez?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Ácido: pH < 7; Base: pH > 7; neutro: pH = 7",
+      "B": "Ácido: pH > 7; Base: pH < 7",
+      "C": "pH não indica acidez ou basicidade",
+      "D": "Ambos têm pH = 7"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Emergências Químicas",
+    "explicacao": "O pH mede a concentração de íons H⁺. Abaixo de 7 é ácido, acima de 7 é básico (alcalino) e 7 é neutro.",
     "categoria": "Emergências Químicas",
     "nivel": "medio"
   },
   {
     "id": 101,
-    "pergunta": "Pergunta 11 sobre Emergências Químicas",
+    "pergunta": "Como proceder em derramamento de ácido corrosivo no piso?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Secar o local sem lavar",
+      "B": "Aplicar ácido mais forte para neutralizar",
+      "C": "Usar solvente orgânico",
+      "D": "Neutralizar o ácido com base fraca (bicarbonato) e lavar com água"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Emergências Químicas",
+    "resposta": "D",
+    "explicacao": "Derramamento de ácido deve ser neutralizado com base fraca (bicarbonato de sódio) após contenção, e a área lavada com água.",
     "categoria": "Emergências Químicas",
     "nivel": "medio"
   },
   {
     "id": 102,
-    "pergunta": "Pergunta 12 sobre Emergências Químicas",
+    "pergunta": "O que significam as siglas LIE e LSE em relação a gases inflamáveis?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "pH mínimo e máximo do produto",
+      "B": "Temperatura de fusão e ebulição",
+      "C": "Pressão de vapor e ponto de fulgor",
+      "D": "LIE e LSE — Limite Inferior e Superior de Explosividade"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Emergências Químicas",
+    "resposta": "D",
+    "explicacao": "LIE e LSE definem a faixa de concentração de gás no ar em que a mistura é explosiva. Abaixo do LIE: muito pobre; acima do LSE: muito rica.",
     "categoria": "Emergências Químicas",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 103,
-    "pergunta": "Pergunta 13 sobre Emergências Químicas",
+    "pergunta": "Pode-se usar água para controlar derramamento de qualquer produto químico?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Sim — água neutraliza qualquer produto químico",
+      "B": "Não — o contato com água pode gerar reação violenta",
+      "C": "Sim, se usar jato de névoa",
+      "D": "Somente se for ácido"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Emergências Químicas",
+    "resposta": "B",
+    "explicacao": "Alguns produtos (metais alcalinos, ácido sulfúrico concentrado, cloreto de acetila) reagem violentamente com água, liberando calor ou gases tóxicos.",
     "categoria": "Emergências Químicas",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 104,
-    "pergunta": "Pergunta 14 sobre Emergências Químicas",
+    "pergunta": "Como realizar a contenção de pequeno derramamento de produto químico no piso?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Varrer o produto para o ralo",
+      "B": "Absorver com material inerte (areia, vermiculita) e recolher para descarte",
+      "C": "Diluir com grande volume de água sem contenção",
+      "D": "Incendiar o produto no local"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Emergências Químicas",
+    "resposta": "B",
+    "explicacao": "Produtos químicos derramados devem ser absorvidos com material inerte e descartados conforme norma de resíduos perigosos.",
     "categoria": "Emergências Químicas",
     "nivel": "medio"
   },
   {
     "id": 105,
-    "pergunta": "Pergunta 15 sobre Emergências Químicas",
+    "pergunta": "Como resgatar uma vítima consciente em zona de contaminação química?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Jogar água na vítima à distância",
+      "B": "Retirar a vítima pela roupa sem contato direto com o produto",
+      "C": "Aguardar a vítima se mover sozinha",
+      "D": "Entrar na zona quente sem EPI para resgatar"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Emergências Químicas",
+    "resposta": "B",
+    "explicacao": "Em emergência química, a retirada de vítima da zona contaminada exige EPI adequado. Técnicas de arrastamento pela roupa minimizam contato.",
     "categoria": "Emergências Químicas",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 106,
-    "pergunta": "Situação química 1: ação correta?",
+    "pergunta": "Qual é a primeira ação em um resgate terrestre com vítima presa?",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Iniciar RCP sem avaliar a cena",
+      "B": "Ligar para a família primeiro",
+      "C": "Avaliar a cena, garantir segurança e só então abordar a vítima",
+      "D": "Correr até a vítima imediatamente"
     },
-    "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
-    "nivel": "dificil"
+    "resposta": "C",
+    "explicacao": "Em salvamento terrestre, a avaliação da cena é sempre primeiro para evitar que o socorrista se torne mais uma vítima.",
+    "categoria": "Salvamento Terrestre",
+    "nivel": "facil"
   },
   {
     "id": 107,
-    "pergunta": "Situação química 2: ação correta?",
+    "pergunta": "Como remover uma vítima com suspeita de trauma de coluna em situação de perigo imediato?",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Tracionar pelo pescoço",
+      "B": "Arrastar pelos pés rapidamente",
+      "C": "Técnica de arrastamento pelo eixo — cabeça-pescoço-tronco alinhados",
+      "D": "Carregar nos braços sem apoio cervical"
     },
-    "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
-    "nivel": "dificil"
+    "resposta": "C",
+    "explicacao": "O arrastamento pelo eixo mantém a coluna alinhada, reduzindo risco de lesão medular durante a remoção de urgência.",
+    "categoria": "Salvamento Terrestre",
+    "nivel": "medio"
   },
   {
     "id": 108,
-    "pergunta": "Situação química 3: ação correta?",
+    "pergunta": "Quais são os elementos mínimos de um sistema de resgate terrestre em declive?",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Fita adesiva e corda fina",
+      "B": "Corda molhada e nó simples",
+      "C": "Apenas uma corda sem ancoragem",
+      "D": "Ponto de ancoragem fixo, corda de resgate e freio descendente"
     },
-    "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
-    "nivel": "dificil"
+    "resposta": "D",
+    "explicacao": "Um sistema de resgate seguro exige ancoragem confiável, corda de resgate certificada e dispositivo de controle de descida.",
+    "categoria": "Salvamento Terrestre",
+    "nivel": "medio"
   },
   {
     "id": 109,
-    "pergunta": "Situação química 4: ação correta?",
+    "pergunta": "Qual nó é considerado padrão para ancoragem em sistemas de resgate?",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Nó borboleta — para meio de corda",
+      "B": "Nó simples — o mais seguro",
+      "C": "Nó de oito em figura — confiável e fácil de verificar",
+      "D": "Nó quadrado — para junção de cordas"
     },
-    "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
-    "nivel": "dificil"
+    "resposta": "C",
+    "explicacao": "O nó de oito (figure-eight) é o nó de ancoragem padrão em salvamento por ser confiável, não escorregar e ser facilmente verificável.",
+    "categoria": "Salvamento Terrestre",
+    "nivel": "medio"
   },
   {
     "id": 110,
-    "pergunta": "Situação química 5: ação correta?",
+    "pergunta": "Como verificar a adequação de uma corda antes de usá-la em resgate?",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Verificar diâmetro, carga máxima e ausência de danos antes de cada uso",
+      "B": "Pesar a corda para estimar resistência",
+      "C": "Usar qualquer corda disponível se for emergência",
+      "D": "Verificar apenas a cor da corda"
     },
     "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
-    "nivel": "dificil"
+    "explicacao": "Cordas de salvamento devem ser inspecionadas visualmente e certificadas. Danos como cortes, desgaste ou contaminação química exigem descarte.",
+    "categoria": "Salvamento Terrestre",
+    "nivel": "facil"
   },
   {
     "id": 111,
-    "pergunta": "Situação química 6: ação correta?",
+    "pergunta": "Qual técnica de movimentação é indicada em terreno instável ou íngreme?",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Saltar de pedra em pedra",
+      "B": "Deslizar sentado sem equipamento",
+      "C": "Caminhada de quatro pontos — três pontos de contato sempre",
+      "D": "Correr para ganhar tempo"
     },
-    "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
-    "nivel": "dificil"
+    "resposta": "C",
+    "explicacao": "Em terreno acidentado, manter três pontos de contato (duas mãos e um pé, ou dois pés e uma mão) garante estabilidade.",
+    "categoria": "Salvamento Terrestre",
+    "nivel": "facil"
   },
   {
     "id": 112,
-    "pergunta": "Situação química 7: ação correta?",
+    "pergunta": "Qual equipamento é padrão para transporte de vítima com suspeita de lesão na coluna?",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Maca rígida (prancha longa) com imobilização lateral",
+      "B": "Maca flexível — mais confortável",
+      "C": "Arrastar sem imobilização",
+      "D": "Carregar nos braços em posição fetal"
     },
     "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
-    "nivel": "dificil"
+    "explicacao": "A prancha longa (longboard) com fixadores laterais e imobilizador de cabeça é o padrão para transporte de vítima com suspeita de trauma espinhal.",
+    "categoria": "Salvamento Terrestre",
+    "nivel": "medio"
   },
   {
     "id": 113,
-    "pergunta": "Situação química 8: ação correta?",
+    "pergunta": "Como aplicar corretamente um torniquete em hemorragia grave de membro?",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Não registrar horário — não é necessário",
+      "B": "Aplicar direto sobre o ferimento",
+      "C": "Aplicar abaixo do ferimento",
+      "D": "Torniquete aplicado 5 cm acima do ferimento — registrar horário"
     },
-    "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
+    "resposta": "D",
+    "explicacao": "O torniquete deve ser aplicado 5 a 7 cm acima da lesão e o horário de aplicação deve ser registrado para evitar isquemia prolongada.",
+    "categoria": "Salvamento Terrestre",
     "nivel": "dificil"
   },
   {
     "id": 114,
-    "pergunta": "Situação química 9: ação correta?",
+    "pergunta": "Em acidente com múltiplas vítimas, qual sistema é usado para priorizar atendimentos?",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Atender os mais graves por último",
+      "B": "Atender por ordem de chegada",
+      "C": "Triagem START — classificação por prioridade de atendimento",
+      "D": "Aguardar médico para triagem"
     },
-    "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
+    "resposta": "C",
+    "explicacao": "O método START (Simple Triage And Rapid Treatment) classifica vítimas em vermelho, amarelo, verde e preto em até 60 segundos por vítima.",
+    "categoria": "Salvamento Terrestre",
     "nivel": "dificil"
   },
   {
     "id": 115,
-    "pergunta": "Situação química 10: ação correta?",
+    "pergunta": "Na triagem START, o que significa a tag vermelha?",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Verde — lesões leves",
+      "B": "Preto — vítima fatal",
+      "C": "Vermelho — prioridade 1 (imediato), risco de vida tratável",
+      "D": "Amarelo — urgente, pode aguardar"
     },
-    "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
-    "nivel": "dificil"
+    "resposta": "C",
+    "explicacao": "Na triagem START, a tag vermelha indica vítima com risco de vida que pode ser salva com intervenção imediata.",
+    "categoria": "Salvamento Terrestre",
+    "nivel": "medio"
   },
   {
     "id": 116,
-    "pergunta": "Situação química 11: ação correta?",
+    "pergunta": "Ao chegar em acidente veicular com vítima presa, qual é a primeira avaliação?",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Iniciar RCP pelo lado de fora",
+      "B": "Identificar riscos secundários: instabilidade do veículo, combustível, energia",
+      "C": "Quebrar o vidro imediatamente",
+      "D": "Chamar a imprensa para registrar"
     },
-    "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
-    "nivel": "dificil"
+    "resposta": "B",
+    "explicacao": "Em acidente veicular, antes de acessar a vítima: estabilizar o veículo, desligar a ignição, verificar vazamentos e afastar curiosos.",
+    "categoria": "Salvamento Terrestre",
+    "nivel": "medio"
   },
   {
     "id": 117,
-    "pergunta": "Situação química 12: ação correta?",
+    "pergunta": "Vítima de soterramento apresenta tremores, confusão e temperatura baixa. Qual é o quadro suspeito?",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Hipotermia — exposição prolongada ao frio, temperatura corporal abaixo de 35°C",
+      "B": "Anemia — falta de hemoglobina",
+      "C": "Desidratação — perda de água",
+      "D": "Hipertermia — temperatura acima de 37°C"
     },
     "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
-    "nivel": "dificil"
+    "explicacao": "Hipotermia ocorre quando a temperatura corporal central cai abaixo de 35°C, podendo evoluir para parada cardíaca.",
+    "categoria": "Salvamento Terrestre",
+    "nivel": "medio"
   },
   {
     "id": 118,
-    "pergunta": "Situação química 13: ação correta?",
+    "pergunta": "Ao encontrar vítima soterrada sob escombros, o que NÃO deve ser feito?",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Cavar manualmente sem avaliação",
+      "B": "Remover a estrutura com alavanca manual",
+      "C": "Não movimentar a estrutura e aguardar equipe especializada de USAR",
+      "D": "Puxar a vítima rapidamente"
     },
-    "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
+    "resposta": "C",
+    "explicacao": "Em soterramento, movimentar estruturas pode provocar colapso secundário. Equipes USAR (Urban Search and Rescue) têm treinamento específico.",
+    "categoria": "Salvamento Terrestre",
     "nivel": "dificil"
   },
   {
     "id": 119,
-    "pergunta": "Situação química 14: ação correta?",
+    "pergunta": "Como localizar uma vítima consciente sob escombros?",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Aguardar a vítima sair sozinha",
+      "B": "Escavar sem critério",
+      "C": "Gritar o nome da vítima, bater com objeto metálico — ouvir resposta",
+      "D": "Usar detector de calor apenas"
     },
-    "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
-    "nivel": "dificil"
+    "resposta": "C",
+    "explicacao": "A localização de vítimas em escombros usa comunicação sonora (voz e percussão) e, quando disponível, câmeras e detectores de CO₂.",
+    "categoria": "Salvamento Terrestre",
+    "nivel": "medio"
   },
   {
     "id": 120,
-    "pergunta": "Situação química 15: ação correta?",
+    "pergunta": "Qual é a técnica correta de imobilização de fratura em membro?",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Tracionar o membro para alinhar",
+      "B": "Não imobilizar — pode piorar",
+      "C": "Imobilizar o segmento fraturado incluindo as articulações acima e abaixo",
+      "D": "Imobilizar apenas o osso fraturado"
     },
-    "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
+    "resposta": "C",
+    "explicacao": "A imobilização de fratura deve incluir a articulação acima e abaixo do osso fraturado para evitar movimentação no transporte.",
+    "categoria": "Salvamento Terrestre",
     "nivel": "dificil"
   },
   {
     "id": 121,
-    "pergunta": "Situação química 16: ação correta?",
+    "pergunta": "Como tratar queimadura de segundo grau em vítima de acidente industrial?",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Estourar as bolhas e secar",
+      "B": "Lavar com água corrente por 20 minutos e cobrir com curativo úmido",
+      "C": "Aplicar pasta de dente para resfriar",
+      "D": "Colocar gelo diretamente"
     },
-    "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
-    "nivel": "dificil"
+    "resposta": "B",
+    "explicacao": "O tratamento inicial de queimadura é resfriamento com água corrente (não gelada) por 20 min, nunca gelo ou substâncias caseiras.",
+    "categoria": "Salvamento Terrestre",
+    "nivel": "medio"
   },
   {
     "id": 122,
-    "pergunta": "Situação química 17: ação correta?",
+    "pergunta": "O que a presença de pulso radial indica sobre a pressão arterial da vítima em triagem de campo?",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Pulso radial presente — pressão sistólica > 80 mmHg",
+      "B": "Pulso radial indica pressão normal de 120/80",
+      "C": "Pulso radial ausente indica hipertensão",
+      "D": "Pulso carotídeo indica pressão baixa"
     },
     "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
+    "explicacao": "Na avaliação rápida de campo, presença de pulso radial sugere PAS > 80 mmHg; presença apenas de pulso carotídeo sugere PAS > 60 mmHg.",
+    "categoria": "Salvamento Terrestre",
     "nivel": "dificil"
   },
   {
     "id": 123,
-    "pergunta": "Situação química 18: ação correta?",
+    "pergunta": "Qual escala é usada para avaliar o nível de consciência de uma vítima de trauma?",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Escala de Ramsay — sedação",
+      "B": "Escala de Borg — esforço percebido",
+      "C": "Escala de Apgar — recém-nascido",
+      "D": "Escala de Glasgow — avalia abertura ocular, resposta verbal e motora"
     },
-    "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
-    "nivel": "dificil"
+    "resposta": "D",
+    "explicacao": "A Escala de Glasgow avalia o nível de consciência com pontuação de 3 a 15, sendo crítico abaixo de 8.",
+    "categoria": "Salvamento Terrestre",
+    "nivel": "medio"
   },
   {
     "id": 124,
-    "pergunta": "Situação química 19: ação correta?",
+    "pergunta": "Como são classificados os atendimentos de saúde quanto à prioridade de tempo?",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Vermelho, amarelo e verde",
+      "B": "Grave, moderado e leve",
+      "C": "Emergência (E), Urgência (U) e Não Urgência (NU)",
+      "D": "Crítico, sério e estável"
     },
-    "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
-    "nivel": "dificil"
+    "resposta": "C",
+    "explicacao": "A classificação de Manchester e outros protocolos de urgência categorizam atendimentos conforme risco de deterioração clínica.",
+    "categoria": "Salvamento Terrestre",
+    "nivel": "medio"
   },
   {
     "id": 125,
-    "pergunta": "Situação química 20: ação correta?",
+    "pergunta": "Qual é a sequência correta ao encontrar adulto inconsciente no chão?",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Aplicar DEA imediatamente sem verificar",
+      "B": "Aguardar o SAMU para qualquer decisão",
+      "C": "Verificar responsividade, chamar ajuda e iniciar RCP se sem pulso",
+      "D": "Dar agua a vítima"
     },
-    "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
-    "nivel": "dificil"
+    "resposta": "C",
+    "explicacao": "O protocolo de parada cardiorrespiratória: checar responsividade, pedir ajuda/DEA, verificar respiração/pulso por até 10 segundos, iniciar RCP.",
+    "categoria": "Salvamento Terrestre",
+    "nivel": "facil"
   },
   {
     "id": 126,
-    "pergunta": "Situação química 21: ação correta?",
+    "pergunta": "O que define 'trabalho em altura' conforme NR-35?",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Apenas serviços em telhados",
+      "B": "Trabalho em caverna ou mina",
+      "C": "Qualquer serviço em escada",
+      "D": "Trabalho em altura — qualquer atividade acima de 2 metros com risco de queda"
     },
-    "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
-    "nivel": "dificil"
+    "resposta": "D",
+    "explicacao": "Pela NR-35, trabalho em altura é toda atividade executada acima de 2 metros do nível inferior com risco de queda.",
+    "categoria": "Salvamento em Altura",
+    "nivel": "facil"
   },
   {
     "id": 127,
-    "pergunta": "Situação química 22: ação correta?",
+    "pergunta": "Qual cinto é obrigatório em trabalho em altura acima de 2 metros?",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Cinto pélvico sem alças de perna",
+      "B": "Cinto tipo paraquedista (Tipo III) — distribui forças no corpo todo",
+      "C": "Cinto peitoral apenas",
+      "D": "Cinto abdominal simples (Tipo I)"
     },
-    "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
-    "nivel": "dificil"
+    "resposta": "B",
+    "explicacao": "O cinto paraquedista distribui a força de impacto pelo tórax, pelve e coxas, evitando lesões graves em caso de queda.",
+    "categoria": "Salvamento em Altura",
+    "nivel": "facil"
   },
   {
     "id": 128,
-    "pergunta": "Situação química 23: ação correta?",
+    "pergunta": "O que é a 'síndrome do arnês' e por que é perigosa em trabalho em altura?",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Câibra de escalada",
+      "B": "Tontura por altitude",
+      "C": "Lesão por esforço repetitivo",
+      "D": "Síndrome do arnês — compressão das veias femorais em suspensão estática"
     },
-    "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
+    "resposta": "D",
+    "explicacao": "A síndrome do arnês ocorre quando o trabalhador fica suspenso passivamente: o arnês comprime as veias femorais e compromete retorno venoso, podendo ser fatal.",
+    "categoria": "Salvamento em Altura",
     "nivel": "dificil"
   },
   {
     "id": 129,
-    "pergunta": "Situação química 24: ação correta?",
+    "pergunta": "Trabalhador inconsciente suspenso no arnês. Qual é a urgência do resgate?",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Aguardar o trabalhador se recuperar sozinho",
+      "B": "Resgate imediato — síndrome do arnês pode ser fatal em 30 minutos",
+      "C": "Aguardar ambulância no solo",
+      "D": "Lançar corda e pedir para subir"
     },
-    "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
+    "resposta": "B",
+    "explicacao": "A síndrome do arnês pode ser fatal em 15 a 30 minutos. O resgate deve ser imediato, posicionando a vítima horizontal ao chegar ao solo.",
+    "categoria": "Salvamento em Altura",
     "nivel": "dificil"
   },
   {
     "id": 130,
-    "pergunta": "Situação química 25: ação correta?",
+    "pergunta": "O que é a 'ancoragem' em um sistema de trabalho em altura?",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Polia — muda direção da carga",
+      "B": "Freio — controla descida",
+      "C": "Conector — liga componentes",
+      "D": "Ancoragem — ponto fixo que suporta a carga do sistema"
     },
-    "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
-    "nivel": "dificil"
+    "resposta": "D",
+    "explicacao": "A ancoragem é o ponto de fixação do sistema ao local. Deve suportar no mínimo 15 kN (aproximadamente 1.500 kgf) conforme norma.",
+    "categoria": "Salvamento em Altura",
+    "nivel": "medio"
   },
   {
     "id": 131,
-    "pergunta": "Situação química 26: ação correta?",
+    "pergunta": "O que é 'fator de queda' em sistemas de proteção contra quedas?",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Fator de queda — relação entre comprimento da queda e do cabo",
+      "B": "Peso máximo do trabalhador",
+      "C": "Força máxima do mosquetão",
+      "D": "Coeficiente de elasticidade da corda"
     },
     "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
+    "explicacao": "Fator de queda = comprimento da queda / comprimento do cabo. Fator 2 é o pior cenário (queda acima do ponto de ancoragem).",
+    "categoria": "Salvamento em Altura",
     "nivel": "dificil"
   },
   {
     "id": 132,
-    "pergunta": "Situação química 27: ação correta?",
+    "pergunta": "Qual dispositivo trava automaticamente em caso de queda em trabalho em altura?",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Fita de poliéster sem dispositivo",
+      "B": "Trava-quedas retrátil — trava automaticamente ao detectar aceleração de queda",
+      "C": "Corda estática presa ao cinto",
+      "D": "Mosquetão sem trava automática"
     },
-    "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
-    "nivel": "dificil"
+    "resposta": "B",
+    "explicacao": "O trava-quedas retrátil possui mecanismo centrífugo: em velocidade normal retrai normalmente; em queda, trava em milissegundos.",
+    "categoria": "Salvamento em Altura",
+    "nivel": "medio"
   },
   {
     "id": 133,
-    "pergunta": "Situação química 28: ação correta?",
+    "pergunta": "O que é um sistema de hasteamento em salvamento em altura?",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Sistema de freio para corrida",
+      "B": "Sistema de ventilação forçada",
+      "C": "Sistema de hasteamento — polias e cordas para içar carga ou vítima",
+      "D": "Sistema de rappel para descida"
     },
-    "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
-    "nivel": "dificil"
+    "resposta": "C",
+    "explicacao": "Sistemas de polias (hasteamento) multiplicam a força aplicada, permitindo içar vítimas ou equipamentos pesados com menor esforço.",
+    "categoria": "Salvamento em Altura",
+    "nivel": "medio"
   },
   {
     "id": 134,
-    "pergunta": "Situação química 29: ação correta?",
+    "pergunta": "Como se chama a técnica de descida controlada em corda utilizada por bombeiros?",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Tirolesa — travessia horizontal",
+      "B": "Jumaring — descida em corda simples",
+      "C": "Rappel — técnica de descida controlada em corda dupla",
+      "D": "Rapel — subida em corda"
     },
-    "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
-    "nivel": "dificil"
+    "resposta": "C",
+    "explicacao": "Rappel (ou rapel) é a técnica de descida controlada usando atrito em dispositivo (oito, grigri, rack) sobre corda ancorada.",
+    "categoria": "Salvamento em Altura",
+    "nivel": "facil"
   },
   {
     "id": 135,
-    "pergunta": "Situação química 30: ação correta?",
+    "pergunta": "Quais verificações são obrigatórias antes de iniciar um rappel de resgate?",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Nenhuma verificação — confiar no equipamento",
+      "B": "Verificar apenas o cinto",
+      "C": "Verificar ancoragem, cinto, conector e comunicação com a equipe",
+      "D": "Verificar apenas o clima"
+    },
+    "resposta": "C",
+    "explicacao": "Antes de qualquer descida em rappel: ABCDE — Ancoragem, Baudrier (cinto), Conector, Dispositivo de freio, Equipe (comunicação).",
+    "categoria": "Salvamento em Altura",
+    "nivel": "medio"
+  },
+  {
+    "id": 136,
+    "pergunta": "O que é a 'linha de belay' e por que é obrigatória no rappel de resgate?",
+    "alternativas": {
+      "A": "Descer sem dispositivo para agilizar",
+      "B": "Usar dois freios no mesmo ponto",
+      "C": "Usar corda molhada para mais atrito",
+      "D": "Linha de segurança independente (belay) — corda de segurança adicional"
+    },
+    "resposta": "D",
+    "explicacao": "Em rappel de resgate, sempre deve haver uma linha de segurança (belay) independente operada por um segundo socorrista.",
+    "categoria": "Salvamento em Altura",
+    "nivel": "dificil"
+  },
+  {
+    "id": 137,
+    "pergunta": "Qual técnica permite ao socorrista descer junto com uma vítima inconsciente?",
+    "alternativas": {
+      "A": "Sistema de içamento — vítima sobe",
+      "B": "Sistema de ancoragem estática",
+      "C": "Sistema D (Direct Action) — socorrista desce junto com a vítima",
+      "D": "Sistema de tirolesa — travessia horizontal"
+    },
+    "resposta": "C",
+    "explicacao": "No sistema D (ou pick-off), o socorrista desce junto com a vítima presa no mesmo ponto de ancoragem, sendo mais rápido em emergência.",
+    "categoria": "Salvamento em Altura",
+    "nivel": "dificil"
+  },
+  {
+    "id": 138,
+    "pergunta": "Como inspecionar um mosquetão antes de uso em trabalho em altura?",
+    "alternativas": {
+      "A": "Confiar na última inspeção registrada",
+      "B": "Apenas verificar se fecha o gatilho",
+      "C": "Verificar apenas o peso do equipamento",
+      "D": "Inspeção visual: desgaste, cortes, deformações, corrosão e data de fabricação"
+    },
+    "resposta": "D",
+    "explicacao": "Mosquetões e conectores devem ser inspecionados antes de cada uso: buscar trincas, deformações, corrosão e verificar o mecanismo de fechamento.",
+    "categoria": "Salvamento em Altura",
+    "nivel": "medio"
+  },
+  {
+    "id": 139,
+    "pergunta": "Qual nó é usado como autosseguro deslizante em corda de rappel?",
+    "alternativas": {
+      "A": "Nó quadrado — para junção de cordas",
+      "B": "Nó de prussik — permite subir em corda e bloqueia em carga",
+      "C": "Nó borboleta — para meio de corda",
+      "D": "Nó de oito — para ancoragem fixa"
+    },
+    "resposta": "B",
+    "explicacao": "O prussik é um nó de fricção que desliza quando tensionado levemente, mas bloqueia com carga total. Usado como nó de segurança e para subida.",
+    "categoria": "Salvamento em Altura",
+    "nivel": "dificil"
+  },
+  {
+    "id": 140,
+    "pergunta": "Qual é o requisito mínimo de ancoragem para sistemas de salvamento em altura?",
+    "alternativas": {
+      "A": "Parafuso em divisória de gesso",
+      "B": "Ancoragem múltipla — pelo menos dois pontos independentes",
+      "C": "Um único ponto muito robusto",
+      "D": "Ancoragem em estrutura de gesso"
+    },
+    "resposta": "B",
+    "explicacao": "Sistemas de salvamento exigem ancoragem redundante: dois ou mais pontos independentes que garantam segurança mesmo se um falhar.",
+    "categoria": "Salvamento em Altura",
+    "nivel": "dificil"
+  },
+  {
+    "id": 141,
+    "pergunta": "Qual risco específico de trabalho em altura afeta as pessoas no nível inferior?",
+    "alternativas": {
+      "A": "Avaliação do risco de queda de materiais sobre a equipe abaixo",
+      "B": "Verificar a temperatura ambiente",
+      "C": "Verificar o horário do turno",
+      "D": "Avaliar o custo do equipamento"
     },
     "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
+    "explicacao": "Em trabalho em altura, o risco de queda de ferramentas e materiais sobre pessoas abaixo é um dos principais perigos — isolar a área abaixo é obrigatório.",
+    "categoria": "Salvamento em Altura",
+    "nivel": "medio"
+  },
+  {
+    "id": 142,
+    "pergunta": "Em ambiente de trabalho em altura, o protocolo STOP significa:",
+    "alternativas": {
+      "A": "START — triagem de múltiplas vítimas",
+      "B": "STOP — Parar, Pensar, Observar, Proceder (ou Planejar)",
+      "C": "PASS — Puxar, Apontar, Pressionar, Varrer",
+      "D": "ABCDE — protocolo de trauma"
+    },
+    "resposta": "B",
+    "explicacao": "O protocolo STOP é usado em situações de dúvida em ambiente de risco: pare, pense, observe o cenário e só então proceda com segurança.",
+    "categoria": "Salvamento em Altura",
+    "nivel": "medio"
+  },
+  {
+    "id": 143,
+    "pergunta": "Como manter comunicação eficiente em operação de salvamento em altura com ruído e distância?",
+    "alternativas": {
+      "A": "Apenas gestos improvisados",
+      "B": "Comunicação verbal clara + sinal de mão predefinido entre equipe",
+      "C": "Gritar em direção ao vento",
+      "D": "Rádio somente após a operação"
+    },
+    "resposta": "B",
+    "explicacao": "Em operações em altura, ruído e distância prejudicam comunicação. Sinais de mão padronizados complementam comunicação por rádio ou voz.",
+    "categoria": "Salvamento em Altura",
+    "nivel": "facil"
+  },
+  {
+    "id": 144,
+    "pergunta": "Qual requisito médico é obrigatório para trabalho em altura conforme NR-35?",
+    "alternativas": {
+      "A": "Apenas treinamento técnico é suficiente",
+      "B": "Avaliação apenas após o serviço",
+      "C": "Qualquer pessoa pode realizar trabalho em altura",
+      "D": "Avaliação médica prévia e análise das condições de saúde do trabalhador"
+    },
+    "resposta": "D",
+    "explicacao": "A NR-35 exige Aptidão Clínica certificada por médico do trabalho antes de qualquer trabalhador exercer atividade em altura.",
+    "categoria": "Salvamento em Altura",
+    "nivel": "medio"
+  },
+  {
+    "id": 145,
+    "pergunta": "Qual é a hierarquia de controle de riscos em trabalho em altura?",
+    "alternativas": {
+      "A": "Proteção coletiva e individual são equivalentes",
+      "B": "Apenas EPI é obrigatório — sem proteção coletiva",
+      "C": "EPI individual é sempre prioritário",
+      "D": "Proteção coletiva tem prioridade sobre individual (guarda-corpo antes de cinto)"
+    },
+    "resposta": "D",
+    "explicacao": "A hierarquia de controle de riscos: eliminação > substituição > proteção coletiva (guarda-corpo, andaime) > proteção individual (cinto).",
+    "categoria": "Salvamento em Altura",
     "nivel": "dificil"
   }
 ]
